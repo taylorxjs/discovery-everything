@@ -7,7 +7,6 @@
 - 虫部落（资源搜索）：www.chongbuluo.com
 - 如风搜（资源搜索）：http://www.rufengso.net/
 - 爱扒：https://www.zyboe.com/
-
 - 世界各国网址大全：http://www.world68.com/
 - 小森林导航：http://www.xsldh6.com/
 - 简捷工具：http://www.shulijp.com/
@@ -24,6 +23,7 @@
 - 兔2工具合集：https://www.tool2.cn/
 - 爱资料工具（在线实用工具集合）：www.toolnb.com
 - 工具导航：https://hao.logosc.cn/
+- 一糖导航：**https://iitang.com/**
 
 # photos
 

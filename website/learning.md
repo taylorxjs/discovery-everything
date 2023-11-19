@@ -22,13 +22,15 @@
 # coding
 
 - CSDN：https://www.csdn.net/
-
+- Gitee：https://gitee.com/
 - GitHub：https://github.com/
 - 码云：https://gitee.com/
 - 源码之家：https://www.mycodes.net/
 - JSON to Dart：https://javiercbk.github.io/json_to_dart/
 - Json在线解析验证：https://www.json.cn/
 - 在线接口测试（Getman）：https://getman.cn/
+- [忞翛的博客 (lczmx.top)](https://www.lczmx.top/)
+- [编程宝库 - 技术改变世界 (codebaoku.com)](http://www.codebaoku.com/)
 
 # design
 

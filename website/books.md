@@ -9,3 +9,4 @@
 - 书格（在线古籍图书馆）：https://new.shuge.org/
 - caj云阅读：http://cajviewer.cnki.net/cajcloud/
 - 必看网（人生必看的书籍）：https://www.biikan.com/
+- kanshuy1234.com
