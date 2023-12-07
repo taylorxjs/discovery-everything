@@ -1,5 +1,11 @@
 # common use
 
+JamTools：https://github.com/fandesfyf/JamTools
+
+> 一个**完全免费开源**的项目，相当于一个跨平台的实用工具集，每一个功能都是我们日常办公必备
+
+
+
 - 奶牛快传（在线传输文件利器）：cowtransfer.com
 - 文叔叔（大文件传输，不限速）：https://www.wenshushu.cn/
 - 云端超级应用空间（PS，PPT，Excel，Ai）：https://uzer.me/
@@ -18,6 +24,28 @@
 - 傲梅备份：https://www.abackup.com/
 - DeepL：https://www.deepl.com/translator
 - Deskreen，电脑投屏工具，可以通过 WiFi 将任何带有网络浏览器的设备变成电脑的辅助屏幕：https://deskreen.com/
+- TreeSize，磁盘分析工具，它可以非常方便的查看文件和目录大小：https://www.jam-software.com/treesize_free
+- CrossOver，系统兼容软件：http://www.crossoverchina.com
+
+AnLink：https://cn.anlinksoft.com/
+
+> 一个完全免费的投屏工具，既可以让电脑控制手机，也能够让手机投屏到电脑。支持WiFi和USB连接、多点触控、共享剪贴板等功能。
+
+TTSMaker：https://ttsmaker.cn/
+
+> 一款免费的文本转语音工具，提供语音合成服务。支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等50多种语言，以及超过300种语音风格。
+
+## terminal shell
+
+tabby：https://tabby.sh/
+
+## change pattern
+
+视频转文字助手：https://www.xunjiepdf.com/shipinzhuanwenzi
+
+Convertio：https://convertio.co/zh/
+
+> 支持音频转换，视频转换，图像转换，文档转换，电子书转换等，超过300种不同的文件格式间超25600种不同的转换格式。
 
 # document handle
 
@@ -44,6 +72,16 @@
 # design
 
 [奇迹秀工具箱-设计师的百宝箱](https://www.qijishow.com/down/index.html)
+
+photozoom pro，无损图片放大工具：*https://www.benvista.com/photozoompro*
+
+ChartCube：https://chartcube.alipay.com/ 
+
+> 阿里出品的在线图表制作工具，拖拽之间可以快速搞定图表制作。
+
+阿里妈妈 创意中心：https://make.chuangyi.taobao.com/
+
+> 阿里出品的一个制图工具，里面有一个精准抠图工具，全自动高精度抠图，AI自动识别图像进行分区
 
 # coding
 
@@ -289,6 +327,60 @@ https://github.com/alibaba/dragonwell8
 
 # learning
 
+问答库：https://www.asklib.com/
+
+
+
 ## memory
 
 https://github.com/lczmx/MemoryCard 
+
+# download
+
+## website
+
+websitedownloader：https://websitedownloader.io/
+
+sitepuller：https://sitepuller.com/
+
+[xiaoguyu/wechatDownload: 微信公号文章下载工具 (github.com)](https://github.com/xiaoguyu/wechatDownload)
+
+文件蜈蚣：全能网络文件上传/下载器, BitTorrent客户端, WebDAV客户端, FTP客户端, 和SSH客户端：http://filecxx.com/zh_CN/index.html
+
+## video
+
+M3U8-Downloader：*https://github.com/HeiSir2014/M3U8-Downloader*
+
+视频下载-微博党：http://www.weibodang.cn/
+
+> 可以下载：央视网/知乎/公开课/网易音乐/A站头条/西瓜/优酷/土豆/腾讯/微博/酷燃/推特/脸书等上面的视频。
+
+## network disk
+
+### 百度网盘
+
+https://www.123pan.com/s/izDSVv-wQoWA.html
+
+> 下载Speed软件并安装
+>
+> 2、填写提供的token（kelongwo）
+
+# security
+
+## folder
+
+Wise Folder Hider：https://www.kancloud.cn/wisecleaner/help-wfh/979667
+
+# AI
+
+CodeFormer
+
+https://github.com/sczhou/CodeFormer
+
+https://replicate.com/sczhou/codeformer
+
+> 基于AI技术深度学习的人脸复原模型，该模型通过结合了VQGAN和Transformer等技术，可以通过提供模糊或马赛克图像来生成清晰的原始图像。
+
+Walles AI
+
+> 一款浏览器扩展，在Chrome、Edge、Firefox，手机端的 Kiwi、狐猴浏览器等上都能安装使用

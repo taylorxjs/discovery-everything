@@ -28,16 +28,36 @@
 # photos
 
 - 电脑壁纸：
-
 - - https://unsplash.com/
   - https://pixabay.com/
   - https://www.pexels.com/
   - https://visualhunt.com/
   - https://www.ssyer.com/
   - http://lcoc.top/bizhi/
-
 - 彼岸图网：http://pic.netbian.com/
-
 - 极像素（超高清大图）：https://www.sigoo.com/
-
 - 免费版权图片搜索：https://www.logosc.cn/so/
+- 彼岸壁纸：http://www.netbian.com/
+- wallhaven：https://wallhaven.cc/
+- wallpaperscraft：https://wallpaperscraft.com/
+- 极简壁纸：*https://bz.zzzmh.cn/index*
+- wallpaper abyss：https://wall.alphacoders.com/
+- 故宫壁纸：https://www.dpm.org.cn/lights/royal/p/91.html
+- 必应壁纸：https://www.todaybing.com/
+- simple desktops：http://simpledesktops.com/
+
+# icons
+
+iconfont：https://www.iconfont.cn/iconfont
+
+> 阿里出品，包含图标库、矢量插画库、3D插画库、动效库、字体库等等资源。
+
+# mirrors
+
+## Github
+
+镜像一**：https://github.hscsec.cn/**
+
+镜像二：**https://githubfast.com/**
+
+镜像三：**https://521github.com/**
