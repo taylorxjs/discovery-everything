@@ -61,3 +61,10 @@ iconfont：https://www.iconfont.cn/iconfont
 镜像二：**https://githubfast.com/**
 
 镜像三：**https://521github.com/**
+
+# cloudNetDisk
+
+## baiduNetDisk
+
+365期EnglishPod完美合集（对话文本+音频+完美打印版）：链接:https://pan.baidu.com/s/1UGI9eF9XOHWvBbJTPZrqLQ?pwd=sd5q  提取码:sd5q
+

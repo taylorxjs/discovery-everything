@@ -1,3 +1,13 @@
+# waiting for tidy
+
+【Win】三个工具合集：https://share.feijipan.com/s/uMA62Chn
+
+【Win】JamTools：https://pan.lanzouo.com/iXuT51s4y0kd
+
+【Win】侠客视频下载：https://fy6b.lanzouq.com/iM1BA1ss73jc
+
+【Win】两款配音工具：https://fy6b.lanzouq.com/b02ly911e
+
 # common use
 
 JamTools：https://github.com/fandesfyf/JamTools
@@ -47,6 +57,26 @@ Convertio：https://convertio.co/zh/
 
 > 支持音频转换，视频转换，图像转换，文档转换，电子书转换等，超过300种不同的文件格式间超25600种不同的转换格式。
 
+
+
+## browser plugins
+
+### BewlyBewly（网页插件）
+
+插件的安装方法非常简单，只需要在你的浏览器地址栏输入「**chrome://extensions/**」然后按下回车即可进入插件管理界面，然后将下载后的文件直接拖入安装即可。
+
+> **开源地址：**
+>
+> https://github.com/hakadao/BewlyBewly
+>
+> **Edge 地址：**
+>
+> https://microsoftedge.microsoft.com/addons/detail/bewlybewly/kceadhehfjdiakpiphpjgolbgehjdmja
+>
+> **Chrome 地址：**
+>
+> https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
+
 # document handle
 
 - 即书（在线制作PPT）：https://www.keysuper.com/
@@ -69,6 +99,12 @@ Convertio：https://convertio.co/zh/
 - 三顿PPT导航：sandunppt.com
 - Excel函数表：https://support.office.com/zh-cn/office/excel-函数-按字母顺序-b3944572-255d-4efb-bb96-c6d90033e188
 
+# books
+
+## Epub
+
+https://janereader.com/
+
 # design
 
 [奇迹秀工具箱-设计师的百宝箱](https://www.qijishow.com/down/index.html)
@@ -82,6 +118,10 @@ ChartCube：https://chartcube.alipay.com/
 阿里妈妈 创意中心：https://make.chuangyi.taobao.com/
 
 > 阿里出品的一个制图工具，里面有一个精准抠图工具，全自动高精度抠图，AI自动识别图像进行分区
+
+## 图片水印
+
+https://watermark.aicompasspro.com/
 
 # coding
 
@@ -337,6 +377,10 @@ https://github.com/lczmx/MemoryCard
 
 # download
 
+## transfer
+
+小路速传：https://github.com/alley-rs/alley-transfer/releases
+
 ## website
 
 websitedownloader：https://websitedownloader.io/
@@ -384,3 +428,4 @@ https://replicate.com/sczhou/codeformer
 Walles AI
 
 > 一款浏览器扩展，在Chrome、Edge、Firefox，手机端的 Kiwi、狐猴浏览器等上都能安装使用
+
