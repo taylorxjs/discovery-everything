@@ -1,36 +1,24 @@
 # Java
 
-## Java 线上诊断工具 Arthas
+## IDE 插件 
 
-**Arthas** 阿里巴巴2018年9月开源的一款Java线上诊断工具。
+### Java 代码规约扫描插件
 
-工具的使用场景：
+该插件用于检测 Java 代码中存在的不规范的位置，并给予提示。规约插件是采用 **Kotlin** 语言开发。
 
-1、这个类从哪个 jar 包加载的？为什么会报各种类相关的 Exception？
+使用教程：
 
-2、我改的代码为什么没有执行到？难道是我没 commit？分支搞错了？
+IDEA插件使用文档：
 
-3、遇到问题无法在线上 debug，难道只能通过加日志再重新发布吗？
+https://github.com/alibaba/p3c/wiki/IDEA插件使用文档
 
-4、线上遇到某个用户的数据处理有问题，但线上同样无法 debug，线下无法重现！
+Eclipse插件使用文档：
 
-5、是否有一个全局视角来查看系统的运行状况？
+https://github.com/alibaba/p3c/wiki/Eclipse插件使用文档
 
-6、有什么办法可以监控到JVM的实时运行状态？
+开源地址：https://github.com/alibaba/p3c
 
-Arthas支持JDK 6+，支持Linux/Mac/Windows，采用命令行交互模式，同时提供丰富的 Tab 自动补全功能，进一步方便进行问题的定位和诊断。
-
-基础教程：
-
-https://alibaba.github.io/arthas/arthas-tutorials?language=cn&id=arthas-basics
-
-进阶教程：
-
-https://alibaba.github.io/arthas/arthas-tutorials?language=cn&id=arthas-advanced
-
-开源地址：https://github.com/alibaba/arthas
-
-## IDE 插件 Cloud Toolkit
+### Cloud Toolkit
 
 Cloud Toolkit 是一款 IDE 插件，可以帮助开发者更高效地开发、测试、诊断并部署应用。通过 Cloud Toolkit，开发者能够方便地将本地应用一键部署到任意机器-本地或云端，并内置 Arthas 诊断、高效执行终端命令和 SQL 等，提供 IntelliJ IDEA 版，Eclipse 版，PyCharm 版和 Maven 版。
 
@@ -64,6 +52,102 @@ https://help.aliyun.com/document_detail/108682.html
 
 工具地址：https://www.aliyun.com/product/cloudtoolkit
 
+### easy_javadoc
+
+帮助java\kotlin开发者自动生成javadoc\kdoc文档注释。打开IntelliJ IDEA -> plugins，java搜索`Easy Javadoc`，安装重启即可
+
+1. **自动化文档生成**：easy_javadoc 能够自动解析代码中的注释，并生成符合 Javadoc 格式的文档，极大地减少了手动编写文档的工作量。
+2. **简化配置**：easy_javadoc 提供了简单易用的配置选项，用户可以快速设置文档生成的参数，轻松定制自己需要的文档格式。
+3. **灵活性**：easy_javadoc 支持用户根据自己的需求定制文档生成的方式和输出格式，使得生成的文档更符合项目的实际情况。
+
+简单视频教学：https://3mw.cn/9rc9
+
+github: https://github.com/starcwang/easy_javadoc
+
+gitee: https://gitee.com/starcwang/easy_javadoc
+
+### Presentation Assistant
+
+快捷键展示
+
+### Codota
+
+代码智能提示，Codota还包含一个网站：https://www.codota.com/code
+
+### Translation 
+
+必备的翻译插件，快捷键：ctrl + shift + o(win/linux)
+
+### SequenceDiagram
+
+调用链路自动生成时序图，右键 --> Sequence Diagaram 即可调出。
+
+双击顶部的类名可以跳转到对应类的源码中，双击调用的函数名可以直接调入某个函数的源码。
+
+### Rainbow Brackets
+
+让你的括号变成不一样的颜色，防止错乱括号。
+
+### CodeGlance
+
+这个插件可以向查看缩略图一样，帮助我们快速切换到所要的代码区域，而不用疯狂地拖拽一遍去找。
+
+### Leetcode Editor
+
+可以在IDEA中在线刷题
+
+### Material Theme UI
+
+IDEA主题插件
+
+### jclasslib bytecode viewer
+
+查看字节码，在 IDEA 打开想研究的类。
+
+编译该类或者直接编译整个项目（ 如果想研究的类在 jar 包中，此步可略过）。
+
+打开“view” 菜单，选择“Show Bytecode With jclasslib” 选项。
+
+选择上述菜单项后 IDEA 中会弹出 jclasslib 工具窗口。
+
+### Maven Helper
+
+方便maven项目解决jar冲突
+
+### Stack trace to UML
+
+根据 JVM 异常堆栈画 UML时序图和通信图。打开方式：Analyze > Open Stack trace to UML plugin + Generate UML diagrams from stacktrace from debug
+
+## Java 线上诊断工具 Arthas
+
+**Arthas** 阿里巴巴2018年9月开源的一款Java线上诊断工具。
+
+工具的使用场景：
+
+1、这个类从哪个 jar 包加载的？为什么会报各种类相关的 Exception？
+
+2、我改的代码为什么没有执行到？难道是我没 commit？分支搞错了？
+
+3、遇到问题无法在线上 debug，难道只能通过加日志再重新发布吗？
+
+4、线上遇到某个用户的数据处理有问题，但线上同样无法 debug，线下无法重现！
+
+5、是否有一个全局视角来查看系统的运行状况？
+
+6、有什么办法可以监控到JVM的实时运行状态？
+
+Arthas支持JDK 6+，支持Linux/Mac/Windows，采用命令行交互模式，同时提供丰富的 Tab 自动补全功能，进一步方便进行问题的定位和诊断。
+
+基础教程：
+
+https://alibaba.github.io/arthas/arthas-tutorials?language=cn&id=arthas-basics
+
+进阶教程：
+
+https://alibaba.github.io/arthas/arthas-tutorials?language=cn&id=arthas-advanced
+
+开源地址：https://github.com/alibaba/arthas
+
 ## 混沌实验注入工具 ChaosBlade
 
 ChaosBlade 是一款遵循混沌工程实验原理，提供丰富故障场景实现，帮助分布式系统提升容错性和可恢复性的混沌工程工具，可实现底层故障的注入，提供了延迟、异常、返回特定值、修改参数值、重复调用和try-catch 块异常等异常场景。
@@ -80,21 +164,7 @@ ChaosBlade 是一款遵循混沌工程实验原理，提供丰富故障场景实
 
 开源地址：https://github.com/chaosblade-io/chaosblade/wiki/新手指南
 
-## Java 代码规约扫描插件
 
-该插件用于检测 Java 代码中存在的不规范的位置，并给予提示。规约插件是采用 **Kotlin** 语言开发。
-
-使用教程：
-
-IDEA插件使用文档：
-
-https://github.com/alibaba/p3c/wiki/IDEA插件使用文档
-
-Eclipse插件使用文档：
-
-https://github.com/alibaba/p3c/wiki/Eclipse插件使用文档
-
-开源地址：https://github.com/alibaba/p3c
 
 ## 数据处理工具 EasyExcel
 
@@ -131,6 +201,42 @@ https://github.com/alibaba/dragonwell8
 https://archive.apache.org/dist/maven/maven-3/
 
 https://maven.apache.org/docs/history.html
+
+## Guice：轻量级依赖注入框架
+
+Google 开源的一个轻量级依赖注入框架，你可以将其看作是只提供依赖注入功能的 Spring 。不过，相比于 Spring 提供的依赖注入功能，Guice 设计上更加轻量，专注于通过注解提供依赖注入，尽量避免使用 XML。
+
+- 项目地址：**https://github.com/google/guice**
+- 使用详解：**https://www.cnblogs.com/throwable/p/15925396.html**
+
+## Vert.x：构建响应式应用的工具集
+
+Vert.x 是 Eclipse 基金会开源的一款针对 JVM 设计的异步、事件驱动的应用框架。它支持多种编程语言，包括 Java、JavaScript、Groovy、Kotlin 和 Scala。
+
+Vert.x 采用响应式编程和函数式编程范式，特别适合于处理大规模并发连接、高吞吐量以及低延迟的应用场景。
+
+- Github 地址：**https://github.com/eclipse-vertx/vert.x**
+- 官网：**https://vertx.io/**
+
+
+
+
+
+# Kotlin
+
+## Javalin：轻量级 Java 和 Kotlin Web 框架
+
+Javalin 是一个轻量级的 Web 框架，同时支持 Java 和 Kotlin。类似于 Spring ，有如下特点：
+
+- 轻量级
+- 简单易用
+- 运行在 Web 服务器 Jetty 之上
+- 同时支持阻塞和异步编程模型
+
+Javalin 并不是为了取代 Spring ，而是为了丰富 Java Web 框架生态，Javalin 在开发一些简单的项目上也是非常不错！
+
+- Github 地址：**https://github.com/tipsy/javalin**
+- 官网：**https://javalin.io/**
 
 
 
@@ -243,6 +349,20 @@ https://help.aliyun.com/document_detail/102048.html
 获取方式：（公测期间免费）
 
 https://help.aliyun.com/document_detail/97792.html
+
+### Quarkus：云原生时代高性能 Java 框架
+
+Quarkus（夸克斯） 是 RedHat 在 2018 年开源的一款专为云原生开发设计的 Java 框架，与 Kubernetes 紧密结合，可以提高构建微服务、无服务和基于云的应用程序的开发效率。
+
+Quarkus 的启动速度非常快（为 GraalVM 量身定制），可以很方便集成 Docker 和 Kubernetes 。
+
+相比较于 Spring Boot，Quarkus 更适合微服务、Serverless 或云原生应用，它提供了许多有利的特性。
+
+- Github 地址：**https://github.com/quarkusio/quarkus**
+- 官方文档：**https://quarkus.io/guides/**
+- 官网：**https://quarkus.io**
+
+
 
 # Swift
 
