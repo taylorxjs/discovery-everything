@@ -1,3 +1,21 @@
+
+
+# 版本管理工具
+
+## vfox
+
+GitHub 地址：https://github.com/version-fox/vfox
+
+vfox 是一个类 nvm、fvm、sdkman、asdf 的版本管理工具，具有**跨平台**、**通用**、**易拓展**的特性：
+
+- 简单：安装简单，一套命令管理所有语言
+- 跨平台：支持 **Windows**、Linux、macOS
+- 人性化：换项目时**自动切换到对应编程语言**、支持自动补全
+- 扩展性：容易上手的插件系统，添加冷门的编程语言
+- 作用域：支持 Global、Project、Session 三种作用域
+
+
+
 # Java
 
 ## IDE 插件 
@@ -218,9 +236,17 @@ Vert.x 采用响应式编程和函数式编程范式，特别适合于处理大�
 - Github 地址：**https://github.com/eclipse-vertx/vert.x**
 - 官网：**https://vertx.io/**
 
+## Aliyun Java Initializr
 
+地址：**https://start.aliyun.com/bootstrap.html**
 
+`Aliyun Java Initializr`覆盖了`Spring Initializr` 的所有功能，又在其基础上增加了很多实用功能，它几乎可以集成当下所有主流技术，只要勾选相应的模块就可以自动集成进来。**可不是简单的引入jar包，而是帮你把工程目录，相关配置文件和基础 java 代码全部生成了**，省了很多环境搭建的时间。
 
+## magicalcoder
+
+地址：**http://bbs.magicalcoder.com/**
+
+`magicalcoder`是一个自动生成代码的工具，JAVA代码自动生成，还有H5样式布局器。对于有写页面需求的后端开发来说是个神器，可以拖拽控件布局直接生成`css`、`js`，支持`element`、`layui`、`bootstrap4`这些常用的前端框架。
 
 # Kotlin
 
@@ -281,6 +307,24 @@ Docsite 一款集官网、文档、博客和社区为一体的静态开源站点
 https://docsite.js.org/zh-cn/docs/installation.html
 
 项目地址：https://github.com/txd-team/docsite
+
+## UnJS
+
+GitHub：https://github.com/unjs
+
+这个工具集目前包含了63个强大的工具，下面是 UnJS 中一些热门工具：
+1. nitro：创建可在任何地方运行的Web服务器。
+2. h3：一个为高性能和可移植性而构建的最小化http框架。
+3. destr：一个更快、更安全、更方便的替代JSON.parse的方法。
+4. nypm：Node.js的统一包管理器。
+5. ofetch：更好的 fetch API。适用于 Node.js、浏览器和 Web Worker。
+6. citty：优雅的命令行界面构建器。
+7. hookable：可等待的 Hook。
+8. httpxy：适用于Node.js的功能齐全的HTTP和WebSocket代理。
+9. jimp-compact：Jimp的轻量级版本，一个完全用JavaScript编写的Node.js图像处理库。
+10. jiti：Node.js的运行时TypeScript和ESM支持knitwork：用于生成JavaScript代码的实用工具。
+11. listhen：优雅的HTTP监听器
+12. magicast：以编程方式修改JavaScript和TypeScript源代码。
 
 # Android
 

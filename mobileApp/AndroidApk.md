@@ -1,3 +1,19 @@
+# app仓库
+
+## GitHub
+
+github.com/xlucn/oh-my-foss-android
+
+## Gitee
+
+gitee.com/lewinat0r/oh-my-foss-android
+
+## F-Droid
+
+地址：f-droid.org/zh_Hans
+
+地址：mirrors.tuna.tsinghua.edu.cn/help/fdroid/
+
 ### 雪豹速清
 
 https://coolapk.com/apk/com.idaodan.clean.master
@@ -36,3 +52,14 @@ https://www.coolapk.com/apk/com.example.administrator.searchpicturetool
 
 包含很多类型，比如二次元，壁纸等等。
 
+### MangaReader
+
+这是一个漫画APP，基于ReactNative构建，同时支持安卓和iOS设备使用，并且兼容了平板设备
+
+不过大家第一次安装打开软件会发现首页啥也没有，但其实软件有内置10+线路
+
+### CopyMangaX
+
+基于拷贝Manhua的第三方开源软件，这个相当于只有一个源，但功能更丰富，访问更流畅，并且还能看番剧
+
+https://www.123pan.com/s/fajA-BSyQh.html

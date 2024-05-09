@@ -27,6 +27,8 @@
 
 **FreeOK**：https://www.freeok.vip/
 
+**泰剧鸟**：https://www.taijuniao.com/
+
 
 
 ## movie
@@ -61,7 +63,7 @@
 
 **电影先生**：http://dyxs7.xyz/
 
-**555电影**：https://www.555dyy1.com/
+**555电影**：https://www.555dyy1.com/  https://555dy.cc/
 
 **大师兄影视**：https://dsxys.pro/
 
@@ -107,6 +109,16 @@
 
 **91毒舌电影**：https://www.duse1.com
 
+**爱看影视**：https://ikan6.vip/
+
+**城市电影**：https://www.citydy.com/
+
+**看看1080**：https://www.ak1080.me/
+
+**达达龟**：http://www.dadagui.me/
+
+**干饭影视**：http://www.gfysys.com/
+
 ## live
 
 **中国体育直播：**
@@ -141,113 +153,63 @@ www.gugufan.com
 
 **动漫视频网**：http://www.zzzfun.com/
 
-**樱花动漫：**
+**樱花动漫**：https://yhdmkk.com/  http://www.dm88.me/
 
-https://yhdmkk.com/  http://www.dm88.me/
+**AGE动漫**：https://www.agemys.net/
 
-**AGE动漫：**
+**哈哩哈哩**：http://halihali1.com/
 
-https://www.agemys.net/
+**嘶哩嘶哩**：https://www.silisili.tv/
 
-**哈哩哈哩：**
+**妮可动漫**：http://www.nicotv.biz/
 
-http://halihali1.com/
+**异世界动漫**：https://www.sbdm.net/  https://www.ysjdm.net/
 
-**嘶哩嘶哩：**
+**风车动漫**：http://www.dmlaa.com/  https://www.fengche530.com/
 
-https://www.silisili.tv/
+**打驴动漫**：https://www.dqsj.top/
 
-**妮可动漫：**
+**D站**：https://www.5dm.app/
 
-http://www.nicotv.biz/
+**嘀哩嘀哩**：https://dilidili.online/
 
-**异世界动漫：**
+**奇米奇米**：http://www.qimiqimi.co/
 
-https://www.sbdm.net/  https://www.ysjdm.net/
+**咪哩咪哩**：http://www.milimili.tv/
 
-**风车动漫：**
+**Anime1.me**：https://anime1.me/
 
-http://www.dmlaa.com/  https://www.fengche530.com/
+**吐槽弹幕网**：https://www.tucao.cam/
 
-**打驴动漫：**
+**哔咪动漫**：https://www.bimiacg4.net/
 
-https://www.dqsj.top/
+**卡通站**：https://www.ktkkt.top/
 
-**D站：**
+**动漫岛**：http://www.dmd85.com/
 
-https://www.5dm.app/
+**ACG.RIP**：https://acg.rip/
 
-**嘀哩嘀哩：**
+**动漫国字幕组**：https://www.dmguo.org/forum.php
 
-https://dilidili.online/
+**动漫花园同步站**：https://dongmanhuayuan.myheartsite.com/
 
-**奇米奇米：**
+**蜜柑计划**：https://mikanani.me/
 
-http://www.qimiqimi.co/
+**萌番组**：https://bangumi.moe/
 
-**咪哩咪哩：**
+**爱恋动漫**：http://www.kisssub.org/
 
-http://www.milimili.tv/
+**MioBT**：https://www.miobt.com/
 
-**Anime1.me：**
+**猫漫动漫BT下载**：http://www.comicat.org/
 
-https://anime1.me/
+**动漫花园资源网**：https://www.dongmanhuayuan.com/
 
-**吐槽弹幕网：**
+**简单动漫**：https://www.36dm.com/
 
-https://www.tucao.cam/
+**火狼动漫网**：https://www.gift188.com/
 
-**哔咪动漫：**
-
-https://www.bimiacg4.net/
-
-**卡通站：**
-
-https://www.ktkkt.top/
-
-**动漫岛：**
-
-http://www.dmd85.com/
-
-**ACG.RIP：**
-
-https://acg.rip/
-
-**动漫国字幕组：**
-
-https://www.dmguo.org/forum.php
-
-**动漫花园同步站：**
-
-https://dongmanhuayuan.myheartsite.com/
-
-**蜜柑计划：**
-
-https://mikanani.me/
-
-**萌番组：**
-
-https://bangumi.moe/
-
-**爱恋动漫：**
-
-http://www.kisssub.org/
-
-**MioBT：**
-
-https://www.miobt.com/
-
-**猫漫动漫BT下载：**
-
-http://www.comicat.org/
-
-**动漫花园资源网：**
-
-https://www.dongmanhuayuan.com/
-
-**简单动漫：**
-
-https://www.36dm.com/
+**Z动漫**：https://www.dm2022.com/
 
 # music
 

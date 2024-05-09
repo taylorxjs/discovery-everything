@@ -87,6 +87,10 @@ https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag
 
 > 一款浏览器扩展，在Chrome、Edge、Firefox，手机端的 Kiwi、狐猴浏览器等上都能安装使用
 
+### Gitee
+
+https://gitee.com/zheng_yongtao/chrome-plug-in
+
 ## system tools
 
 ### operating system
@@ -278,6 +282,14 @@ SmallPDF 是一个功能强大的PDF 在线工具。
 
 还可以将Word，Excel，图片和PDF 相互之间转换。
 
+## EXCEL表格
+
+### 文图
+
+地址：**https://www.wentu.io/**
+
+文图可以根据`excel`里的数据，自动生成对应的统计图形，样式可以自由切换，生成PDF、JPG等格式。
+
 # books
 
 ## Epub
@@ -314,9 +326,11 @@ ChartCube：https://chartcube.alipay.com/
 
 ### 图片处理
 
-#### 水印处理
+#### 图片水印处理
 
 https://watermark.aicompasspro.com/
+
+AI 去水印：dewatermark.ai
 
 #### AI人工智能图片放大
 
@@ -342,9 +356,19 @@ Photopea 是一个在线版的PS工具
 
 ### 壁纸素材
 
-#### Walli
+**Walli**：https://www.walliapp.com/
 
-https://www.walliapp.com/
+**wallhaven壁纸**：https://wallhaven.cc/
+
+**Awesome Wallpapers** ：https://awesomewallpapersblog.com
+
+**Unsplash**：https://unsplash.dogedoge.com
+
+**wallpapersCraft**：https://wallpaperscraft.com
+
+**极简壁纸**：https://bz.zzzmh.cn/index
+
+**Wallpaper Cave**：https://wallpapercave.com/
 
 ## video
 
@@ -356,6 +380,14 @@ https://fse.agilestudio.cn/
 
 一个免费的视频素材搜索网站，可以搜索你想要的各种视频素材。此工具除了网页版，还有Windows和MacOS版。
 
+### 视频水印处理
+
+#### 视频去水印
+
+地址：dy.kukutool.com
+一个解析分享链接，获取无水印视频的在线工具。
+支持抖音、TikTok、快手、小红书、贴吧、微博等 30 多个平台，只要把链接 Copy 进去，就可以直接下载。
+
 ## voice
 
 ### Audacity
@@ -366,11 +398,21 @@ https://www.audacityteam.org/
 
 它支持复制粘贴，升降功能，混合功能。把静音剪切掉。它还有降噪功能，这个非常使用。支持Win，Mac，Linux。
 
+### OneStop Radio
+
+地址：theonestopradio.com
+这是一个专门收录了 200+ 国家和地区，60000+ 电台频道的网站，包含新闻、音乐、体育广播、脱口秀等等内容。
+支持按照国家、语言、流派、网络分类筛选，你可以把它理解为一个在线收音机，除了听歌，练听力也是一个不错的选择。
+
 # learning
 
 问答库：https://www.asklib.com/
 
+## 思维导图
 
+### Freeplane
+
+**下载地址：**https://fy6b.lanzouq.com/iEuYF1pcjh5a
 
 ## memory
 
@@ -501,6 +543,40 @@ https://www.wireshark.org/
 WireShark 是一个免费的网络抓包工具，就是你可以通过代理查看网络请求的详细数据。
 
 不仅支持Http，还支持TCP 的协议。返回的内容很多都支持，还支持压缩格式。同时还可以将输出的内容一键导出为 XML，CSV 和纯文本等等。
+
+## 果冻DNS
+
+果冻DNS有几大优点，包括加速解析、加速网络速度、低成本拦截广诰、拦截病毒木马钓鱼网站、解决DNS污染
+
+对于安卓手机我们只需要在系统设置里面搜索DNS关键词，找到私人DNS（或专用DNS/加密DNS/私密DNS/安全DNS），选择自定义名称或自定义提供商，填入**xx.f.66a.net**保存即可，这里的xx可以是任意小写字母与数字的组合，设置完可以在浏览器访问https://dnstest.66a.net检测是否生效
+
+其实也不一定就要选择果冻，也可以选择
+
+阿里的：dns.alidns.com（防劫持√）
+
+腾讯的：dot.pub（防劫持√）
+
+360的：dot.360.cn（防劫持√）
+
+18bit的：dns.18bit.cn（防劫持√ 去广诰√）
+果冻的：xx.f.66a.net（防劫持√ 去广诰√）
+关圣云的：a.newlover.cn（防劫持√ 去广诰√）
+
+其实用DNS去广诰是有效果的，但不是万能的，它们最主要的功能还是防劫持，当然能去广诰也比没有好，据说用上有些APP直接干净了
+
+另外小众DNS是有可能炸的，如果你用着发现有些网站或者APP突然访问不了了，那可能是DNS服务炸了，需要手动关闭自定义DNS
+
+## IP 检测
+
+地址：ipcheck.ing
+不管你是会魔法的老法师，还是不会魔法的小白，这个免费开源的 IP 工具箱都值得收藏。
+你可以用它来帮你查阅 IP 信息，检查 GitHub 等常见网站是否可用，判断 DNS 有无泄漏，查看分流规则是否正常，以及网速测试、全球延迟测试、MTR 测试等等。
+
+## 死链检测器
+
+地址：www.deadlinkchecker.com
+这个网站只要输入网站的 URL，就可以帮你一键检测全站的内链和外链是否 404。
+初看可能站长用的会比较多，但其实我们用 RPA 或者用 AI 写个脚本，自动识别收藏夹里的网站。
 
 # Resource Search
 

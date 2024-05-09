@@ -70,12 +70,43 @@ GO语言就业课程：https://www.aliyundrive.com/s/jhjYNyZ9JCg
 
 # Tools
 
+## 菜鸟工具
+
+地址：**http://c.runoob.com/**
+
+这是一个非常强大的工具类站点，我个人常用得就是`JSON`格式化工和`python`在线工具，虽然主做`Java`但平时还是会写一些`python`脚本，在线运行随时随地写很方便。
+
+
+
 ## JsonConvert
 
 1.JSON to Dart：https://javiercbk.github.io/json_to_dart/
 
 2.Json在线解析验证：https://www.json.cn/
 
+3.BEJSON：https://www.bejson.com/othertools/cron
+
 ## Test
 
 1.在线接口测试（Getman）：https://getman.cn/
+
+## 正则表达式
+
+1.在线正则表达式：地址：http://tool.chinaz.com/tools/regexgenerate
+
+## 在线工具
+
+地址：**https://tool.lu/**
+
+## 在线比对
+
+地址：**https://www.diffchecker.com/**
+
+`Diffchecker`是一个使用很不错代码差异对比工具，使过`svn`或者`git`的人对`diffcheck`肯定不陌生，而且他支持比对的类型比较丰富，excel、pdf支持。
+
+## 在线生成代码图片
+
+地址：**https://www.dute.org/code-snapshot**
+
+代码生成图片，这个不写博客的小伙伴可能不太常用，像我会时常分享一些技术类的文章，里边难免会贴出代码块，出于观看方便和样式美观就会转成图片
+
