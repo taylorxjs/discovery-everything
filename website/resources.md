@@ -1,3 +1,6 @@
+
+
+
 # search engine
 
 - DogeDoge搜索引擎：www.dogedoge.com
@@ -24,6 +27,13 @@
 - 爱资料工具（在线实用工具集合）：www.toolnb.com
 - 工具导航：https://hao.logosc.cn/
 - 一糖导航：**https://iitang.com/**
+
+海外热门
+地址：www.buzzing.cc
+国内有很多聚合各个平台热榜的网站，其实也有聚合海外社交媒体的网站。
+从 Reddit 到 Product Hunt，从彭博社到经济学人，收录 30 多个平台的每日热榜信息。
+支持无图模式，也可以 RSS 订阅，网站自动把标题翻译成了中文，方便你快速阅读。
+不过点进去想看原文，多少还有付费墙和魔法的阻隔。
 
 # photos
 

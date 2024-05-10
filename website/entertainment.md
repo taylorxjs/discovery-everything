@@ -288,3 +288,11 @@ Freebookcentre：https://www.freebookcentre.net/
 网址：https://www.templatemaker.nl/zh-cn/
 
 专门教你如何制作各种形状纸盒的折纸工坊
+
+# game
+
+### Play Hex FRVR
+
+https://hex.frvr.com/
+
+一个在线版的俄罗斯方块，此游戏为国外作者开发，虽然网站界面全是英文，但是不用管这些，只需要玩游戏即可。
