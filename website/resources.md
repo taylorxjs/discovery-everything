@@ -1,7 +1,19 @@
+# open projects
+
+## GitHubDaily
+
+GitHub：*https://github.com/GitHubDaily/GitHubDaily*
+
+该列表包含了 GitHub 上诸多高质量、有趣实用的开源技术教程、开发者工具、编程网站等内容。
+
+## 阿枫软件仓库
+
+**网址：https://www.fy6b.com/
 
 
 
-# search engine
+
+# resource search
 
 - DogeDoge搜索引擎：www.dogedoge.com
 - 秘迹搜索：https://mijisou.com/
@@ -28,12 +40,23 @@
 - 工具导航：https://hao.logosc.cn/
 - 一糖导航：**https://iitang.com/**
 
-海外热门
-地址：www.buzzing.cc
-国内有很多聚合各个平台热榜的网站，其实也有聚合海外社交媒体的网站。
-从 Reddit 到 Product Hunt，从彭博社到经济学人，收录 30 多个平台的每日热榜信息。
-支持无图模式，也可以 RSS 订阅，网站自动把标题翻译成了中文，方便你快速阅读。
-不过点进去想看原文，多少还有付费墙和魔法的阻隔。
+搜软：*https://www.souruan.org/index.html*
+
+## cloudNetDisk
+
+### baiduNetDisk
+
+
+
+### aliyun
+
+**阿里搜**：https://aliso.cc/
+
+## magnet
+
+**磁力多**：https://ck.cilido.top/
+
+
 
 # photos
 
@@ -79,3 +102,32 @@ iconfont：https://www.iconfont.cn/iconfont
 ## postgraduate
 
 考研云：https://www.kaoyany.top/
+
+# supply and shop
+
+## shop
+
+### 奇葩商店
+
+地址：qipa.store
+奇葩处处有，这里特别多，奇葩商店，一个专门收录某宝奇葩商品的导航网站。
+从弹射便便弹弓，到渣男八音盒；从放屁泡泡机，到磁吸鼻钉；只有你想不到，没有他们做不到。
+为无聊的生活添加一点乐趣，这个网站真的做到了。
+
+# hotspot info
+
+## 浑水阅读
+
+地址：www.hsmy.fun
+一个热榜内容聚合资讯站，帮你实时搜罗了各大平台的热门榜单，主打一个一站式服务。
+可以自定义榜单，留下咱们关心的网站热榜，点击跳转来源。
+网站支持亮色和暗黑两个主题，字体大小和行间距都可以更改，手机端访问做了适配。
+浑水可以不摸鱼，毕竟阅读资讯热点，紧跟时事，怎么能算摸鱼呢。
+
+## 海外热门
+
+地址：www.buzzing.cc
+国内有很多聚合各个平台热榜的网站，其实也有聚合海外社交媒体的网站。
+从 Reddit 到 Product Hunt，从彭博社到经济学人，收录 30 多个平台的每日热榜信息。
+支持无图模式，也可以 RSS 订阅，网站自动把标题翻译成了中文，方便你快速阅读。
+不过点进去想看原文，多少还有付费墙和魔法的阻隔。

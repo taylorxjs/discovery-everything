@@ -44,6 +44,27 @@ https://www.photopea.com/
 
 Photopea 是一个在线版的PS工具
 
+### DDColor
+
+*开源地址：https://github.com/piddnad/DDColor*
+
+**DDColor是阿里达摩院研究的基于深度学习技术的图像上色模型**，项目开源且免费，感兴趣的可以自己进行部署.
+
+它不仅能为黑白照片进行生动自然的上色操作，还能把动漫/游戏里的画面变为现实生活中的风格，但前提是得重新着色。**待处理照片的路径和图片名不能包含中文**。
+
+如果你只想图个新鲜感，或者是内存不够用，那么可以试试这个网页版，上面还有一些相关的模型训练流程
+
+**使用地址：**https://www.modelscope.cn/models/iic/cv_ddcolor_image-colorization/
+
+## logo design
+
+### AIDesign
+
+地址：ailogo.qq.com
+看域名就知道，这是腾讯的新产品，在 AI 的加持下，10 秒创建一个独属于你的 logo。
+操作简单，全程小白式引导，根据品牌名、行业、联想词、颜色来自动生成。
+免费下载，有高清彩色文件、黑色稿透明底、彩色稿透明底三种样式。下载前可对 logo 进行编辑，也支持一键生成名片，很有意思。
+
 ## 壁纸素材
 
 **Walli**：https://www.walliapp.com/

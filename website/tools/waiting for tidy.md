@@ -24,6 +24,8 @@
 4：百度云链接：https://pan.baidu.com/s/1h_2V3RcbIjOSVB9ngF3XXw 
 提取码：86fv 
 
+   
+
 - 奶牛快传（在线传输文件利器）：cowtransfer.com
 - 文叔叔（大文件传输，不限速）：https://www.wenshushu.cn/
 - 云端超级应用空间（PS，PPT，Excel，Ai）：https://uzer.me/
@@ -52,6 +54,164 @@ AnLink：https://cn.anlinksoft.com/
 TTSMaker：https://ttsmaker.cn/
 
 > 一款免费的文本转语音工具，提供语音合成服务。支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等50多种语言，以及超过300种语音风格。
+
+### Trello
+
+https://trello.com
+
+Trello 是**一个免费的项目管理软件**，它采用卡片式的界面进行任务管理。
+
+用户可以在Trello上创建看板(Board)，列表(List)，创建卡片(Card)。
+
+### 聊天记录生成器
+
+*https://weixinduihua2.com/*
+
+一个非常好玩的娱乐软件，可以生成微信或支付宝对话，现在很多搞笑短视频就是利用这种软件在自我创作。
+
+
+
+1. Youtubes视频下载：https://quanwang.su27.net
+
+2. YouTube视频下载平台2：https://youtube.iiilab.com/
+
+3. 视频批量转音频：狸窝：www.leawo.cn/（下载：视频转换器）
+
+4. 免费搜电子书网站：https://www.jiumodiary.com
+
+5. 语音转文字网站（迅捷转换器）https://app.xunjiepdf.com/voice2text/
+
+6. 虚拟主播：http://anchor.avatarworks.com/#/news
+
+7. Giios自动写作机器人：https://www.giiso.com/?t=2#/
+
+8. 视频背景音乐自动匹配工具：https://cc.oceanengine.com/creative-factory/jishi/2
+
+   
+
+9. 图片微动工具：https://cc.oceanengine.com/creative-factory/ai/14
+
+10. 网盘搜索工具：http://www.panduoduo.online/
+
+11. 标题推荐工具：https://cc.oceanengine.com/creative-factory/miaobi
+
+12. 抖音第三方数数据平台：https://www.chanmama.com/douyin?2004&360PC&PP
+
+13. 新奇特好物产品渠道：https://www.lgn666.com/community/socialindex.html
+
+14. 跨境电商导航：https://tools.ikjzd.com
+
+15. 视频创作导航工具（工具大全）：https://www.aewz.com
+
+16. 冷知识素材获取渠道 ：http://www.quzhishi.com/
+
+17. 历史知识素材获取渠道：https://www.allhistory.com/book/home-list
+
+18. 国学视频素材获取渠道：http://open.nlc.cn/onlineedu/course/explore/search.htm?categoryId=0&orderBy=latest
+
+    
+
+19. 高清无水印可商用在线免费下载图片素材获取渠道 ：https://www.pexels.com/zh-cn/
+
+20. 高清无水印在线免费下载视频素材获取渠道：https://mazwai.com/
+
+21. 图片版权查询工具：https://chacha.so.com/home?src=box
+
+22. 一键背景抠图工具：https://www.remove.bg/zh
+
+23. AI配音工具2：魔音工坊
+
+24. 玄幻神话素材渠道：http://www.cbaigui.com/
+
+25. 自动剪辑工具：http://www.animiz.cn/microvideo/?am
+
+26. 星座素材获取网站：http://www.d1xz.net/
+
+27. 美食类的账号素材网站：https://www.foodiesfeed.com/
+
+28. Tik Tok卖家导航：https://www.tikmj.com/
+
+    
+
+29. 国外视频翻译网站：https://jianwai.youdao.com/
+
+30. AI虚拟主播网站（腾讯出品）：https://zenvideo.qq.com/
+
+31. 敏感词检测：http://www.ju1.cn/
+
+32. 一键抠图网站（封面，换背景）：https://www.gaoding.com/koutu
+
+33. 朋友防折叠网站：https://tingbiao.wang/tools/bzd/
+
+34. 网盘搜索神器：https://www.dalipan.com/https://www.xiongbeng.com/
+
+35. 聊天记录生成器：http://http://www.12tool.com/https://weixinduihua2.com/
+
+36. 动画制作网站：https://www.laihua.com/
+
+37. 带素材的网页剪辑工具：https://onvideo.kuaishou.com/
+
+38. 网盘搜索聚合导航：https://www.chaonengso.com/
+
+    
+
+39. 商业案例素材网站：https://iwebad.com/
+
+40. 国学视频素材网站：http://open.nlc.cn/onlineedu/client/index.htm
+
+41. 图片加密工具：https://http://www.8tupian.com/
+
+42. 抖音电商学习成长地图：https://fuwu.jinritemai.com/optimus/60ddc0d4b4558d003ffe5d8d
+
+43. 历史故事网：https://http://www.88828.net/
+
+44. 影视解说短视频，影视解说配音网站：http://www.6pian.cn/
+
+45. 第三方数据平台推荐：蝉妈妈！新手机号注册可以免费领7天VIP，淘宝上卖的7天VIP，都是这样来的！
+
+46. 设计用网站导航：http://http://www.46design.com/
+
+47. 图片版权查询：https://chacha.so.com/home
+
+48. 官方短视频批量剪辑生产工具：巨量创意——工具箱——微电影
+
+    
+
+49. 百度关键词规划（免费）https://fengchao.baidu.com/fc/manage/new/user/6808951/kr
+
+50. 视频课程加密平台：https://cer.ieway.cn/
+
+51. 一键抠图换背景：https://www.remove.bg/zh
+
+52. 动图网站：https://gfycat.com/
+
+53. 选题采集工具：https://www.houyicaiji.com/
+
+54. 音频降噪：AU软件降噪
+
+55. 录音软件：https://www.xunjieshipin.com/luyin
+
+56. 根据台词找视频：电脑端——找台词（网页），手机端——33台词（APP）
+
+57. 跨平台热点话题聚合网站：https://make.mk
+
+58. 漫画版权申请入口（含文字教程）：http://www.kcbat.com/mhxpc.html
+
+    
+
+59. 免费通用AI配音网站：https://toolb.cn/textspeech
+
+60. ‍表情包素材来源：http://www.dbbqb.com/
+
+61. ‍语音克隆工具：https://github.com/babysor/MockingBird/blob/main/README-CN.md
+
+    语音克隆教程：https://dpie96nlbr.feishu.cn/docx/doxcn7yE6JpLpJc3xVIrsBwyrEI
+
+62. 抖音“前3秒”金句100例：https://school.jinritemai.com/doudian/web/article/aHWQ3MAaykVu
+
+63. ‍视频漫画化：手机下载app：clip2comic，电脑网站：https://www.picup.shop/‍（皮卡智能，收费平台）
+
+64. ‍根据关键词搜索视频素材：http://fse.agilestudio.cn/
 
 
 
@@ -232,4 +392,70 @@ AIDesign 是腾讯出品的 Logo 一键生成在线网站。
 它极简设计，支持三个功能板块，包括：英式音标、美式音标、字母表，其中英式音标包括：长元音、短元音、双元音、清辅音、浊辅音。
 
 **点击音标和字母可以发音，鼠标长按音标可以看到这个音标的视频学习**，非常直观，支持切换上一个下一个音标，可以帮助你更好的练习发音
+
+**Simple mind map**
+
+Simple mind map 是一个完全免费的电脑思维导图软件；软件支持 Windows 、macOS 。
+
+它完全免费，支持便携版单文件版本，不需要安装，双击打开就可以使用，界面极简，功能全面，上手容易，使用简单。除了 8 种导图结构和将近 50 个思维导图主题任意切换，**它也支持高度自定义样式，包括：节点样式和基础样式**，具体设置选项包括：字体、字号、边框、背景、形状、线条、连线、关联线、关联线文字、水印等。
+
+**每个节点支持普通文本和富文本两种类型，还支持添加图片、图标、贴纸、备注、公式、关联线、概要、标签、超链接。**
+
+其中软件提供了丰富唯美的图标和贴纸，还有常用公式，支持输入 LaTeX 语法
+
+**Talent**
+
+Talent 是一个完全免费的浏览器多功能翻译插件；软件支持 Windows 、macOS 。
+
+它完全免费，功能强大，流畅好用，支持的功能包括：多翻译源聚合翻译、专业划词翻译、划句翻译、划段翻译、鼠标悬停翻译、网页翻译、双语对照翻译、PDF 翻译、视频翻译、朗读助手等。
+
+**划词翻译支持多个翻译引擎并同时展示多个翻译引擎结果**，支持语音朗读，支持鼠标停留在单词上自动查词、选中文字立即显示翻译结果、选中文字然后点击图标显示翻译结果、自动切分驼峰命名词组。
+
+**爱思远控**
+
+爱思远控是一个目前完全免费的远程控制软件；软件支持 Windows 、macOS 、安卓、iPhone 、iPad 。
+
+它目前是完全免费的，支持 Windows 电脑之间远程控制，支持 macOS 电脑远程控制 Windows 电脑，支持 iPhone、iPad 远程控制 Windows 电脑，支持安卓、安卓平板远程控制 Windows 电脑。
+
+它使用场景非常丰富，支持的功能和特点包括：**连接流畅稳定、毫秒级延时处理、多通道远程控制不再局限于一台主机、同时远控多台主机、对无人值守主机进行远程调试、多屏操作不限制展示被控多个屏幕、端端加密新一代加密框架保护数据安全、高清画质远程画面精细化处理**。
+
+**VeryCapture**
+
+VeryCapture 是一个完全免费的电脑截图录屏软件；软件支持 Windows 。
+
+它完全免费，极简设计，界面好看简约，功能丰富，支持的功能包括：全屏截图、矩形截图、任意形状截图、延时截图、长截图、电脑录屏、电脑录制 GIF 、截图贴图、文字识别，一个软件相当于多个软件。
+
+**其中截图之后还支持强大的截图标注处理功能**，包括：长方形、圆形、线段、箭头、画笔、马赛克、序号、添加文字等，截图之后也支持贴图功能和图片提取文字功能，**贴图功能可以将截图钉在电脑屏幕上**，让你更好的工作和学习。
+
+**WeOCR**
+
+WeOCR 是一个完全免费的可以离线使用的文字识别网站。
+
+它完全免费，简洁干净，支持离线使用，有网络的状态下浏览器中打开它一次，然后就可以离线使用，之后没有网络也可以正常打开使用。
+
+它主要功能是图片提取文字和文字 OCR 识别，支持粘贴图片和上传图片，支持复制识别的文字。
+
+**LingoHut**
+
+LingoHut 是一个完全免费的多语种学习网站。
+
+它完全免费，一个网站相当于多个网站，可以学习多达 50 种语言，每种语言都提供了 125 节免费课程，每节课程可以学习多个单词和短语。
+
+它支持学习单词短语、发音、释义，支持跟读，支持多个学习练习方式，包括：听力游戏练习、专注力游戏练习、闪卡翻转练习、单词配对练习等。
+
+**识典古籍**
+
+识典古籍是一个完全免费的古籍在线阅读学习网站。
+
+它由北京大学和字节跳动数字人文开放实验室共建，目前收录了 2200 多部古籍，支持在线阅读，支持强大的学习功能。
+
+它支持古籍分类功能，支持强大的古籍搜索功能。
+
+**番茄AI配****音**
+
+番茄AI配音是一个完全免费的文字转语音和配音微信小程序。
+
+之前安利过几个免费的电脑文字转语音工具，完全免费的手机文字转语音工具比较少，而今天这款微信小程序，不仅可以在安卓手机上使用，也可以在苹果手机上使用。
+
+**它完全免费，提供了几十种声音**，包括：新闻资讯、解说、方言等，每种声音包括多种情绪，例如：生气、抱怨、高兴、紧张、悲伤、严肃、沮丧，你可以选择一种声音和一种情绪进行配音。
 

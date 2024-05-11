@@ -68,6 +68,10 @@ Convertio：https://convertio.co/zh/
 
 # browser plugins
 
+## 扩展插件仓库
+
+www.crxsoso.com  
+
 ### BewlyBewly（网页插件）
 
 插件的安装方法非常简单，只需要在你的浏览器地址栏输入「**chrome://extensions/**」然后按下回车即可进入插件管理界面，然后将下载后的文件直接拖入安装即可。
@@ -111,6 +115,15 @@ https://chrome.zzzmh.cn/info?token=jinjaccalgkegednnccohejagnlnfdag
 ### Gitee
 
 https://gitee.com/zheng_yongtao/chrome-plug-in
+
+### 资源嗅探
+
+地址：github.com/xifangczy/cat-catch
+音视频嗅探哪家强？开源猫抓一定榜上有名。
+抖音没问题，P站能搞定，B站也可以，还有很多加密视频，在这种强大的通用嗅探工具面前，不针对也有惊喜。
+开箱即用的扩展，操作零门槛，每次装机必备。
+
+
 
 # system tools
 
@@ -202,7 +215,21 @@ CPU-Z 是一款监测电脑硬件设备的软件。对于技术人员，几乎�
 
 只支持windows ，它是一款完全免费的软件工具。
 
+### VMWare Player
 
+https://www.vmware.com/cn/products/workstation-player.html
+
+VMWare 是一个老牌的虚拟机软件。它的功能也是最强大的，**VMWare Player 是它的免费版本**。
+
+### 微PE工具箱
+
+https://www.wepe.com.cn/
+
+微PE工具箱是一个特别简单好用的PE工具。关于PE，你可以理解它就是一个简洁的操作系统，可以放在U 盘里。
+
+它有多种安装方式，可以直接安装，也可以选择安装系统到U 盘，以后直接启动。
+
+同时它还有多种功能，备份还原，分区。电脑出问题，也能及时救助。
 
 # File tools
 

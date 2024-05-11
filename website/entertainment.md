@@ -211,7 +211,9 @@ www.gugufan.com
 
 **Z动漫**：https://www.dm2022.com/
 
-# music
+# music and voice
+
+## music
 
 slider：https://slider.kz/
 
@@ -223,7 +225,7 @@ MyFreeMp3：http://tools.liumingye.cn/music/?page=searchPage#/
 
 放屁音乐网：https://www.fangpi.net/
 
-顽狗音乐：https://music.dogged.cn/?ref=iai88.com
+顽狗音乐：https://music.dogged.cn/?ref=iai88.com  https://music.dogged.cn/
 
 熊猫无损音乐：https://www.xmwav.com/
 
@@ -235,7 +237,9 @@ MP3 malina：https://skymus.org/
 
 Biu~：https://biu.moe/#/Index/home
 
-# voice
+**FreePD**：*https://freepd.com/horror.php*
+
+## voice
 
 **TTSMAKER**：https://ttsmaker.cn/
 
@@ -296,3 +300,9 @@ Freebookcentre：https://www.freebookcentre.net/
 https://hex.frvr.com/
 
 一个在线版的俄罗斯方块，此游戏为国外作者开发，虽然网站界面全是英文，但是不用管这些，只需要玩游戏即可。
+
+### Switch520
+
+https://www.gamer520.com/
+
+Switch520号称全球免费白嫖网站，网站无需注册登录，就能过免费下载海量的Switch游戏。而且每一个游戏都是无任何套路，点开直接提供网盘下载地址和解压密码，无需任何回复。内置了成千上万的游戏，有Switch游戏、PC游戏、金手指、狗窝、模拟器大全、PC修改器大全、XXgame汉化等。
