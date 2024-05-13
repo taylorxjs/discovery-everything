@@ -37,7 +37,7 @@
 
 **阿木影视**：https://www.aosk.online/
 
-**搜片**：https://soupian.pro/
+**搜片**：https://soupian.pro/  soupian.icu
 
 **7080影视搜**：https://7080.wang/
 

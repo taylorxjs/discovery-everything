@@ -54,7 +54,21 @@ TortoiseGit 是一个开源的 Git 客户端，也就是我们常说的“小乌
 
 TortoiseGit 集成在 Windows 的资源管理器中，可以通过右键菜单来执行 Git 的各种操作，如提交、更新、查看日志等。
 
+# 数据库可视化管理工具
 
+## Redis
+
+### RedisInsight
+
+RedisInsight 是 Reids 官方出品，首先颜值还是比较高的，尤其配置成 Dark 模式。
+
+**https://redis.com/redis-enterprise/redis-insight/**
+
+### Tiny RDM
+
+支持暗黑模式，可以查看状态信息，包括运行时间、连接数、内存等等。可以查看慢日志，执行命令行等。
+
+**https://github.com/tiny-craft/tiny-rdm/releases**
 
 # Java
 

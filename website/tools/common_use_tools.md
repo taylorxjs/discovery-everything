@@ -18,9 +18,13 @@ Avira 密码管家：https://www.avira.com/zh-cn/password-manager
 
 而这些功能都是免费的，它也有会员专属功能，功能更强大。
 
+**Rubick**：https://rubickcenter.github.io/rubick/
 
+> Rubick是一个电脑上用的快捷工具库，支持快捷搜索系统应用，快捷键 Alt/Option + R 唤起 Rubick 搜索框后，输入想要搜索的应用，可以快速检索匹配出相关内容
 
+**Quicker**：https://getquicker.net/
 
+> 类似于Rubick的聚合型工具软件，效果都差不多，但是它拥有8000+扩展插件,不过插件在Quicker中叫动作，可以实现的功能更强
 
 ## screenshot
 

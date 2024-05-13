@@ -173,7 +173,15 @@ XDM 是一个免费开源的专业的下载工具。
 
 相比于其他的视频号下载工具，它在功能方面更胜一筹，**支持获取视频号、抖音、快手、小红书、某狗音乐、扣扣音乐等网络资源**
 
+### Instapaper
 
+https://www.instapaper.com/u
+
+Instapaper是一种保存网页以便稍后阅读的服务。
+
+主要的特点在于将网页内容保存在手机或平板中，方便使用者离线阅读；同时删除网页中的广告，以一种干净、整齐的形式提供给用户纯粹的阅读享受。
+
+这款工具相当于一个在线网页采集器，可以采集文字、图片、和视频到本地。可以实现网页信息下载功能。
 
 
 
@@ -198,6 +206,14 @@ M3U8-Downloader：*https://github.com/HeiSir2014/M3U8-Downloader*
 视频下载-微博党：http://www.weibodang.cn/
 
 > 可以下载：央视网/知乎/公开课/网易音乐/A站头条/西瓜/优酷/土豆/腾讯/微博/酷燃/推特/脸书等上面的视频。
+
+**B站视频下载**：https://www.jijidown.com/
+
+**在线视频解析工具**：https://pv.vlogdownloader.com/
+
+**Videosolo**：https://www.videosolo.com/online-video-downloader/
+
+**Vget**：https://vget.xyz/
 
 ## network disk
 

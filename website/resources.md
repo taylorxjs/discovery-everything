@@ -12,8 +12,15 @@ GitHub：*https://github.com/GitHubDaily/GitHubDaily*
 
 
 
-
 # resource search
+
+## integrated search
+
+奇妙趣趣屋：http://www.magicalapp.cn/library.html
+
+爱资料工具：https://www.toolnb.com/
+
+> 爱资料工具一个拥有上百款在线工具的在线网站，涵盖了开发工具、编码转换、加密解密、查询对照、站长工具、网站运维、日常工具、地图、恶搞生成、计算器、视频音频、文档转换等等。
 
 - DogeDoge搜索引擎：www.dogedoge.com
 - 秘迹搜索：https://mijisou.com/
@@ -55,6 +62,8 @@ GitHub：*https://github.com/GitHubDaily/GitHubDaily*
 ## magnet
 
 **磁力多**：https://ck.cilido.top/
+
+磁力印象——磁力预览工具：beta.magnet.pics
 
 
 

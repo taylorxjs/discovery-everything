@@ -246,6 +246,12 @@ TWS台湾学术期刊数据库收录台湾出版的医学、心理学、管理�
 
 https://phonemica.net/
 
+**10.公益学术平台**
+
+公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足科研学子的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台。
+
+https://pubscholar.cn/
+
 - 谷粉学术：https://gfsoso.99lb.net/scholar.html
 - 大学资源网：http://www.dxzy163.com/
 - 简答题：http://www.jiandati.com/
