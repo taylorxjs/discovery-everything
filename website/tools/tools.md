@@ -103,6 +103,14 @@ Okular 支持多种文件格式，包括 PDF、EPub、DjVU 和 MD 文档；JPEG�
 
 https://github.com/lczmx/MemoryCard 
 
+## other
+
+### Github
+
+https://lab.github.com/
+
+官方公告：https://blog.github.com/2018-04-19-introducing-github-learning-lab/
+
 # download
 
 ## url download
@@ -334,6 +342,22 @@ WireShark 是一个免费的网络抓包工具，就是你可以通过代理查�
 地址：www.deadlinkchecker.com
 这个网站只要输入网站的 URL，就可以帮你一键检测全站的内链和外链是否 404。
 初看可能站长用的会比较多，但其实我们用 RPA 或者用 AI 写个脚本，自动识别收藏夹里的网站。
+
+## Ophcrack
+
+Ophcrack是一款基于彩虹表的免费**Windows密码破解工具**。它带有图形用户界面，可在多个平台上运行（跨平台）。
+
+http://ophcrack.sourceforge.net/download.php
+
+- 可运行在Windows, Linux/Unix, Mac OS X, ...
+- 破解 LM 和 NTLM hashes。
+- 可用于Windows XP和Vista/7的免费彩虹表。
+- 用于简单密码的暴力破解模块。
+- 审核模式和CSV导出。
+- 用于分析密码的实时图表。
+- 使用LiveCD 简化破解。
+- 从Windows分区恢复的加密SAM转储和加载哈希值。
+- 免费并开源的软件（GPL）
 
 # Resource Search
 

@@ -68,6 +68,10 @@ Convertio：https://convertio.co/zh/
 
 格式工厂是**一个纯免费的视频、音频、图片等格式转换软件**，它不但可以转换视频，还有转换音频和图片。
 
+**HandBrake**：https://handbrake.fr/
+
+> HandBrake是一款免费开源工具,由志愿者构建,用于将视频从近乎任何格式转换为一系列现代、广泛支持的编解码器。该款工具支持Windows、macOS、Linux系统。
+
 
 
 # browser plugins
@@ -234,6 +238,16 @@ https://www.wepe.com.cn/
 它有多种安装方式，可以直接安装，也可以选择安装系统到U 盘，以后直接启动。
 
 同时它还有多种功能，备份还原，分区。电脑出问题，也能及时救助。
+
+### HD Tune  Pro
+
+HD Tune  Pro是一款小巧易用的硬盘工具软件，其主要功能有硬盘传输速率检测，健康状态检测，温度检测及磁盘表面扫描等。另外，还能检测出硬盘的固件版本、序列号、容量、缓存大小以及当前的Ultra DMA模式。
+
+**HD Tune Pro磁盘检测专业版**
+
+阿里云盘：https://www.aliyundrive.com/s/nDoy4orATTN
+
+蓝奏云：https://dnzscomcn.lanzout.com/izN0h01sitwj
 
 # File tools
 

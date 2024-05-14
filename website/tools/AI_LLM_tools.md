@@ -4,6 +4,8 @@
 
 ChatGPT 是由 OpenAI 开发的一款基于 GPT（Generative Pretrained Transformer）架构的人工智能聊天机器人。
 
+chat8：https://chat.chat826.com/#/home?from=lg
+
 ## kimi
 
 ***访问地址：https://kimi.moonshot.cn/***
@@ -118,6 +120,12 @@ https://ai-bot.cn/
 https://aws.amazon.com/cn/q/
 
 Amazon Q 由亚马逊云科技 17 年来积累的知识和经验训练而成，可以提出满足业务需求的云基础设施建议、输出博客文章、帮助应用程序代码，以及搜索和分析企业数据。订阅起价为每用户每年 20 美元，且已经提供公开预览版。
+
+## Claude
+
+https://claude.ai/login
+
+Claude 或许是免费版中最强的大模型之一。如果你是文字工作者，当 ChatGPT 崩溃，堪比 GPT-3.8 的 Claude 能够解决你的燃眉之急，甚至表现得要更好。
 
 
 # AI图像处理

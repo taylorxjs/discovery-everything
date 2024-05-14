@@ -119,6 +119,8 @@
 
 **干饭影视**：http://www.gfysys.com/
 
+**爱看影视**：https://ikan6.vip/
+
 ## live
 
 **中国体育直播：**

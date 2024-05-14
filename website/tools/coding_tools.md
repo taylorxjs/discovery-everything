@@ -54,6 +54,14 @@ TortoiseGit 是一个开源的 Git 客户端，也就是我们常说的“小乌
 
 TortoiseGit 集成在 Windows 的资源管理器中，可以通过右键菜单来执行 Git 的各种操作，如提交、更新、查看日志等。
 
+## devbox
+
+开源项目地址：https://github.com/jetpack-io/devbox
+
+“Instant, easy, and predictable development environments”，支持**快速生成干净且隔离的开发环境** 。
+
+devbox 是一个由 jetpack-io 开发的开源项目，它是一个用于提高开发效率的工具。通过使用 devbox，开发人员可以在本地快速构建一个完整且隔离的开发环境，并使用各种工具和技术来开发和测试应用程序。
+
 # 数据库可视化管理工具
 
 ## Redis
