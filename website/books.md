@@ -10,3 +10,13 @@
 - caj云阅读：http://cajviewer.cnki.net/cajcloud/
 - 必看网（人生必看的书籍）：https://www.biikan.com/
 - kanshuy1234.com
+
+找书神器
+
+**使用地址：****https://mianfei22.com/**
+
+熊猫速读
+地址：qread.xmsoushu.com
+如果说 B 站是一个学习网站的话，那熊猫速读就是一个 B 站拆书、品书、讲解书相关视频的导航站。
+从经典文学到科幻小说，从豆瓣总榜到推荐书单，熊猫速读收录了数百个精品视频读书笔记。
+想在看书之前听听 UP 主们的想法，熊猫速读值得收藏。
