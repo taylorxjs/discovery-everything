@@ -32,6 +32,14 @@
 - [忞翛的博客 (lczmx.top)](https://www.lczmx.top/)
 - [编程宝库 - 技术改变世界 (codebaoku.com)](http://www.codebaoku.com/)
 
+## Java
+
+[程序员编程资料站 | DDKK.COM](https://www.ddkk.com/)
+
+![coding_Java_ddkk](.\learnig-assets\coding_Java_ddkk.png)
+
+
+
 # design
 
 - 码力全开（产品/设计师/独立开发者的资源库）：https://www.maliquankai.com/designnav/
@@ -49,3 +57,7 @@
 - 查字体网站：https://fonts.safe.360.cn/
 - 爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）：http://www.aigei.com/
 - 在线视频剪辑：https://bilibili.clipchamp.com/editor
+
+# diy
+
+- [柚坛社区 (uotan.cn)](https://www.uotan.cn/)

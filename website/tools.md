@@ -1,4 +1,62 @@
+
+
+# AI工具
+
+天工AI：https://www.tiangong.cn/?channel=seo
+
+# 网络通信
+
+## 魔法上网
+
+auVPN：https://net2.xn--m7r110cisa278f.com/zh-CN/order/place
+
 # common use
+
+## 解压缩
+
+**WinRAR专业版**
+
+> 阿里云盘：*https://www.aliyundrive.com/s/P6sscEWkk4b*
+>
+> 蓝奏云：*https://dnzscomcn.lanzout.com/b0dklx4qd 密码:c431*
+
+**Bandizip**
+
+> *阿里云盘：https://www.aliyundrive.com/s/bD8gjwT1Bkt*
+>
+> *蓝奏云：https://dnzscomcn.lanzout.com/iPzZj03cwube*
+
+
+
+## 截图
+
+**FastStone Capture**
+
+*https://dnzscomcn.lanzout.com/iJc7305xjayh*
+
+## 录屏
+
+**Bandicam**
+
+> *阿里云盘：https://www.aliyundrive.com/s/5f9eXUtmfoU*
+>
+> *蓝奏云：https://dnzscomcn.lanzout.com/iC5H7029akzc*
+
+## 下载工具
+
+**IDM**
+
+
+
+## 格式转换
+
+格式工厂：http://www.pcgeshi.com/index.html
+
+
+
+## 远程控制
+
+ToDesk：https://www.todesk.com/
 
 - 奶牛快传（在线传输文件利器）：cowtransfer.com
 - 文叔叔（大文件传输，不限速）：https://www.wenshushu.cn/
@@ -20,9 +78,140 @@
 - Deskreen，电脑投屏工具，可以通过 WiFi 将任何带有网络浏览器的设备变成电脑的辅助屏幕：https://deskreen.com/
 - RaiDrive 是一个可以将你的个人网盘映射到本地硬盘的工具：https://www.raidrive.com/
 
+# Prerequisites-装机必备
+
+## 杀毒软件
+
+### ESET 系列杀毒软件
+
+ESET（英文：ESET, spol. s r.o.）是总部位于斯洛伐克布拉迪斯拉发的一家世界知名的电脑安全软件公司，创立于1992年，由两家私有公司合并而成，最知名的产品为NOD32防毒软件。ESET NOD32是由ESET发明设计的杀毒防毒软件。
+
+**个人版：**
+
+① ESET NOD32 Antivirus（EAV）：基本的反病毒功能，也是功能最少的版本。
+
+②ESET Internet Security（EIS）：在EAV的基础上，增加了个人防火墙、网络攻击防护、反垃圾邮件、银行和付款防护等功能。以前的版本叫ESS。
+
+③ESET Smart Security Premium（ESSP）：在EIS的基础上，增加了密码管理和数据加密等功能，ESSP的功能最多。
+
+**企业版：**
+
+④ESET Endpoint Antivirus（EEA）：是企业版的防病毒软件工作站防护版，与个人版的防护能力相同，只是没有 花里胡哨 个性化的功能。
+
+⑤ESET Endpoint Security（EES）：比EEA多了防火墙，与个人版的防护能力相同，只是没有花里胡哨个性化的功能。
+
+⑥ESET Server Security for for Microsoft Windows（EFSW）：服务器版本。一般只能用在服务器上，不过也有一些网友制作的特别版本，可以使用。
+
+虽然官网下载是收费软件，不过已经有大神发布它的激活方法，默认激活一次可以使用60天，不过**通过反复操作可以永久使用**。
+
+**一、个人版**
+
+
+
+① ESET NOD32 Antivirus 15.1.12.0（EAV）
+
+https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe
+
+https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt32.exe
+
+② ESET Internet Security 15.1.12.0（EIS）
+
+https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt64.exe
+
+https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt32.exe
+
+③ ESET Smart Security Premium 15.1.12.0（ESSP）
+
+https://download.eset.com/com/eset/apps/home/essp/windows/latest/essp_nt64.exe
+
+https://download.eset.com/com/eset/apps/home/essp/windows/latest/essp_nt32.exe
+
+**二、企业版**
+
+① ESET Endpoint Antivirus 9.1.2060.0（EEA）
+
+http://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi
+
+http://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi
+
+② ESET Endpoint Security 9.1.2060.0（EES）
+
+http://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_nt64.msi
+
+http://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_nt32.msi
+
+③ESET Server Security for Microsoft Windows（EFSW）
+
+https://download.eset.com/com/eset/apps/business/efs/windows/latest/efsw_nt64.msi
+
+
+
+**激活工具**
+
+**蓝奏云下载：**https://dnzscomcn.lanzout.com/i1drb0gmhryh
+
+此工具支持Windows7~Windows11的所有系统。
+
+**使用方法：**进入安全模式（开机狂按F8），双击此工具后，电脑将自动重启，然后进入桌面后就已经激活了。
+
+### 火绒安全软件5.0（个人版）
+
+*https://www.huorong.cn/person5.html*
+
+## 系统清理优化
+
+**CCleaner**
+
+*https://pan.baidu.com/s/1c4ljHdu 密码：8iaj*
+
+## 装机工具
+
+微PE https://www.wepe.com.cn/
+
+大白菜 http://dbc.wuyou8.net/
+
+老毛桃 http://lmt.psydrj.com/
+
+
+
+**MSDN, 我告诉你**
+
+http://msdn.iteyou.cn/
+
+https://msdn.itellyou.cn/
+
+https://next.itellyou.cn/
+
+https://cn.dll-files.com/
+
+> 搜索dll文件
+
 # document handle
 
-- 即书（在线制作PPT）：https://www.keysuper.com/
+## office
+
+**Office 2021**
+
+微软官网下载：*https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img*
+
+百度网盘下载：链接：https://pan.baidu.com/s/1Pr2g9B2K0wsTHKqk5Ah6Jg
+
+*提取码：kwmu*
+
+MSDN，我告诉你下载：*https://msdn.itellyou.cn/*
+
+汉化工具：*https://dnzscomcn.lanzoui.com/ioxPdtxuyja*
+
+激活工具：*https://dnzscomcn.lanzout.com/iiK070ih37ef*
+
+## WPS
+
+**WPS 2021 ZF 专业版**
+
+*https://www.aliyundrive.com/s/eauFThktzVa*
+
+## PDF
+
 - PDF处理：https://smallpdf.com/cn
 - PDF处理：https://www.ilovepdf.com/zh-cn
 - PDF处理：https://www.pdfpai.com/
@@ -35,14 +224,53 @@
 - PDF24工具（pdf处理工具）：https://tools.pdf24.org/en
 - IMGBOT（在线图片处理）：www.imgbot.ai
 - 福昕云编辑（在线编辑PDF）：edit.foxitcloud.cn
+
+**Adobe Acrobat DC**
+
+*Windows：https://pan.baidu.com/s/10_EBED5A5GqJhFsv0WGVcg 提取码：l7tj*
+
+*MAC：https://pan.baidu.com/s/1kozrHe1AfsDqHXO-q3fD_Q 提取码：poqx*
+
 - TinyPNG（在线压缩图片）：tinypng.com
 - UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件套）：uzer.me
-- 优品PPT（模板下载）：http://www.ypppt.com/
-- 第一PPT（模板下载）：http://www.1ppt.com/xiazai/
-- 三顿PPT导航：sandunppt.com
-- Excel函数表：https://support.office.com/zh-cn/office/excel-函数-按字母顺序-b3944572-255d-4efb-bb96-c6d90033e188
+
+## PPT
+
+优品PPT（模板下载）：http://www.ypppt.com/
+
+第一PPT（模板下载）：http://www.1ppt.com/xiazai/
+
+三顿PPT导航：sandunppt.com
+
+即书（在线制作PPT）：https://www.keysuper.com/
+
+## EXCEL
+
+Excel函数表：https://support.office.com/zh-cn/office/excel-函数-按字母顺序-b3944572-255d-4efb-bb96-c6d90033e188
+
+
 
 # design
+
+**Adobe系列软件**
+
+**Windows 版Adobe 2023、2022、2021、2020、2019、2018、2017、CS6、Acrobat SP等。**
+
+https://pan.baidu.com/s/1oRo8nnNLYORLGOISiTQYYw?pwd=t9i6
+
+提取码:t9i6
+
+解压密码为@vposy
+
+**Mac 版Adobe 2023**
+
+Photoshop 2023
+
+https://www.aliyundrive.com/s/Q8xN5cz6UT1
+
+Illustrator 2023
+
+https://www.aliyundrive.com/s/DJdVNziJwbq
 
 [奇迹秀工具箱-设计师的百宝箱](https://www.qijishow.com/down/index.html)
 
@@ -276,7 +504,7 @@ Druid 是 Java 语言下的数据库连接池，它能够提供强大的监控�
 
 http://central.maven.org/maven2/com/alibaba/druid/
 
-##  
+
 
 ## **十五、Java 工具集 Dragonwell**
 
@@ -299,3 +527,8 @@ maven
 ## memory
 
 https://github.com/lczmx/MemoryCard 
+
+# Integrated community
+
+[果核剥壳 - 互联网的净土 (ghxi.com)](https://www.ghxi.com/)
+
