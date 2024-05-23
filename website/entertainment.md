@@ -151,11 +151,17 @@ http://www.tvyan.com/
 
 # anime
 
+[新しく、スタジオジブリ5作品の場面写真を追加提供致します - スタジオジブリ｜STUDIO GHIBLI](https://www.ghibli.jp/info/013381/)
+
+哈里哈里  halihali11.com  域名已更改为halihali18.com,备用域名halihali.icu
+
+> http://halihali1.top/acg/75230/4.html?qp=lz
+
 www.gugufan.com
 
 **动漫视频网**：http://www.zzzfun.com/
 
-**樱花动漫**：https://yhdmkk.com/  http://www.dm88.me/
+**樱花动漫**：https://yhdmkk.com/  http://www.dm88.me/ https://yhdmoe.com/
 
 **AGE动漫**：https://www.agemys.net/
 
@@ -241,6 +247,8 @@ Biu~：https://biu.moe/#/Index/home
 
 **FreePD**：*https://freepd.com/horror.php*
 
+https://tonzhon.com/
+
 ## voice
 
 **TTSMAKER**：https://ttsmaker.cn/
@@ -309,16 +317,5 @@ https://www.gamer520.com/
 
 Switch520号称全球免费白嫖网站，网站无需注册登录，就能过免费下载海量的Switch游戏。而且每一个游戏都是无任何套路，点开直接提供网盘下载地址和解压密码，无需任何回复。内置了成千上万的游戏，有Switch游戏、PC游戏、金手指、狗窝、模拟器大全、PC修改器大全、XXgame汉化等。
 
-# anime
 
-[新しく、スタジオジブリ5作品の場面写真を追加提供致します - スタジオジブリ｜STUDIO GHIBLI](https://www.ghibli.jp/info/013381/)
 
-哈里哈里  halihali11.com  域名已更改为halihali18.com,备用域名halihali.icu
-
-> http://halihali1.top/acg/75230/4.html?qp=lz
-
-樱花动漫  https://yhdmoe.com/
-
-# Music
-
-*https://tonzhon.com/*
