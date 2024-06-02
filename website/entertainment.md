@@ -247,7 +247,19 @@ Biu~：https://biu.moe/#/Index/home
 
 **FreePD**：*https://freepd.com/horror.php*
 
-https://tonzhon.com/
+铜钟：https://tonzhon.com/
+
+Free music Player：http://ayy.ayxhk.com/
+
+mmPlayer: https://netease-music.fe-mm.com/
+
+煎饼搜: https://www.jbsou.cn/
+
+无名音乐: https://thewind.xyz/
+
+MusicEnc: https://www.musicenc.com/
+
+MP3 malina: https://mp3-banana.pro/
 
 ## voice
 

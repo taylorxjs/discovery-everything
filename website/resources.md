@@ -140,3 +140,10 @@ iconfont：https://www.iconfont.cn/iconfont
 从 Reddit 到 Product Hunt，从彭博社到经济学人，收录 30 多个平台的每日热榜信息。
 支持无图模式，也可以 RSS 订阅，网站自动把标题翻译成了中文，方便你快速阅读。
 不过点进去想看原文，多少还有付费墙和魔法的阻隔。
+
+# companies and jobs
+
+国家企业信用信息公示系统 (gsxt.gov.cn): https://www.gsxt.gov.cn/index.html
+
+中国庭审公开网 (court.gov.cn)：http://tingshen.court.gov.cn/
+
