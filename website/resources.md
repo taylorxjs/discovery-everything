@@ -6,9 +6,18 @@ GitHub：*https://github.com/GitHubDaily/GitHubDaily*
 
 该列表包含了 GitHub 上诸多高质量、有趣实用的开源技术教程、开发者工具、编程网站等内容。
 
-## 阿枫软件仓库
+## software warehouse
 
-**网址：https://www.fy6b.com/
+阿枫软件仓库：https://www.fy6b.com/
+
+Fosshub（提供完全免费开源的电脑软件）：https://www.fosshub.com/
+Altappsnet（多平台应用程序的替代方案）：https://zh.altapps.net/
+AlternativeTonet（软件竞品查找网站）：https://alternativeto.net/
+Open Source Alternative（开源替代品）：https://www.opensourcealternative.to/
+
+HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7a92
+
+123云盘软件合集：https://www.123pan.com/s/m6uSVv-fqNcv
 
 
 
@@ -48,6 +57,8 @@ GitHub：*https://github.com/GitHubDaily/GitHubDaily*
 - 一糖导航：**https://iitang.com/**
 
 搜软：*https://www.souruan.org/index.html*
+
+
 
 ## cloudNetDisk
 

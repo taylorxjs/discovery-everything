@@ -331,6 +331,16 @@ https://pubscholar.cn/
 
 > **http://www.chinacxc.org**  账号：test    密码：123456
 
+**5.apache导航文库**
+
+由 iBooker布客团队 建立的公益性文档和教程翻译项目
+
+[Home - ApacheCN ](https://www.apachecn.org/)
+
+[导航文库 - ApacheCN](https://docs.apachecn.org/)
+
+[热门榜单 - 全网热点 - AiLake (ibooker.org.cn)](https://al.ibooker.org.cn/hot)
+
 ## 编程
 
 尚硅谷学习路线图：
