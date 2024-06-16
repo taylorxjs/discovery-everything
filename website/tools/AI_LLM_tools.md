@@ -1,3 +1,11 @@
+# navigation
+
+[AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全 (ai-bot.cn)](https://ai-bot.cn/)
+
+AI指南专业版：https://www.aicompasspro.com
+
+# single
+
 ## ChatGPT
 
 ***访问地址：https://chat.openai.com/***
@@ -20,15 +28,17 @@ https://replicate.com/sczhou/codeformer
 
 > 基于AI技术深度学习的人脸复原模型，该模型通过结合了VQGAN和Transformer等技术，可以通过提供模糊或马赛克图像来生成清晰的原始图像。
 
-## Suno AI 音乐生成器
 
-**https://sunoai.ai**
-
-只需要输入歌词、音乐风格和歌曲名字即可以创作独特的 AI MP3 歌曲，免费使用，Suno API基于Python和FastAPI的非官方Suno API，目前支持生成歌曲、歌词等，内置token维护和保活功能，不用担心token过期，体验需要注册登录，提供试用额度。
 
 ## 百度：文心一言
 
 **https://yiyan.baidu.com/**
+
+## 阿里：通义大模型
+
+https://tongyi.aliyun.com/efficiency/home
+
+
 
 ## 字节抖音：云雀
 
@@ -91,17 +101,7 @@ https://replicate.com/sczhou/codeformer
 有简洁、深入、研究 3 个级别，依次深入地罗列出相关事件、组织和人物，并附有相关内容的来源链接。
 右侧还会展示从搜索内容里提炼出的大纲和思维导图，逻辑性很给力。
 
-## Awesome Chinese LLM
 
-收录了高达 100+ 个开源微调中文模型，涵盖的垂直领域颇为全面，如医疗、法律、金融、教育、科技、电商、网络安全和农业等等。
-
-而且还涵盖了底层模型、数据集、微调框架、推理部署框架、评测方法和相关教程。
-
-GitHub：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
-
-## AI指南专业版
-
-**https://www.aicompasspro.com/study**
 
 ## Gnomic
 
@@ -109,11 +109,7 @@ www.gnomic.cn
 
 Gnomic智能体平台目前可无限制免费使用ChatGPT4、Gemini、智谱、文心一言等国内外多种大模型的AI平台。稳定性强，无广。
 
-## AI 导航站
 
-https://ai-bot.cn/
-
-这是一个 AI 工具集，全部都是 AI 相关工具，涵盖了 14 大类，包括了：AI 写作工具、AI 图像工具、AI 视频工具、Al 办公工具、Al 设计工具、AI 对话聊天、Al 编程工具、AI 音频工具、AI 语言翻译、AI 内容检测、AI 提示指令、AI 训练模型、AI 学习网站、AI 开发框架。
 
 ## Amazon Q
 
@@ -127,6 +123,8 @@ https://claude.ai/login
 
 Claude 或许是免费版中最强的大模型之一。如果你是文字工作者，当 ChatGPT 崩溃，堪比 GPT-3.8 的 Claude 能够解决你的燃眉之急，甚至表现得要更好。
 
+[Copilot | Microsoft Edge](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
+
 
 # AI图像处理
 
@@ -135,6 +133,14 @@ Claude 或许是免费版中最强的大模型之一。如果你是文字工作�
 地址：www.findsd.art/find-sd
 去年 AI 绘画大火，其中一个 C 站贯穿了始末，而这个网站可以根据上传的图片，找到最合适、风格最匹配的 Stable Diffusion 模型。
 点击直接跳转，顺藤摸瓜的利器，如果你还在使用 AI 绘画，这个网站帮你省时省力
+
+## 即时设计
+
+即时设计 - 可实时协作的专业 UI 设计工具 ：https://js.design/ai
+
+## 稿定设计
+
+稿定设计-做图做视频必备_在线设计神器_海量版权素材模板 ：https://www.gaoding.com/
 
 # AI文字处理
 
@@ -158,3 +164,40 @@ GitHub：https://github.com/stanford-oval/storm
 
 1. 准备阶段：工具会根据主题进行网络搜索，搜集资料并制定文章大纲。
 2. 写作阶段：利用准备好的大纲和资料，撰写并整合引用生成完整的文章。
+
+## 秘塔写作猫
+
+https://xiezuocat.com/
+
+## 火山写作
+
+https://www.writingo.net/document?docId=1
+
+# AI音乐处理
+
+## Suno AI 音乐生成器
+
+**https://sunoai.ai**
+
+只需要输入歌词、音乐风格和歌曲名字即可以创作独特的 AI MP3 歌曲，免费使用，Suno API基于Python和FastAPI的非官方Suno API，目前支持生成歌曲、歌词等，内置token维护和保活功能，不用担心token过期，体验需要注册登录，提供试用额度。
+
+# AI视频制作
+
+## 一帧秒创
+
+【官网】一帧秒创-AI视频创作,数字人,秒创视频生成,智能内容创作平台：https://aigc.yizhentv.com/
+
+# AI文档制作
+
+## iSlide
+
+iSlide- 让PPT设计简单起来 | PPT模板下载平台：https://www.islide.cc/
+
+## WPS AI
+
+https://ai.wps.cn/
+
+# AI代码编程
+
+## Copilot
+

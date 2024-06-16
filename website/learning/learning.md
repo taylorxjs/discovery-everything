@@ -1,3 +1,11 @@
+# integrated
+
+**学吧导航**
+
+40万学习爱好者都在用资源站点，涵盖了 外语学习 编程算法 电脑办公 创意设计 电子书籍 考研考公 音乐艺术 数理化生等13个大分类
+
+**https://www.xue8nav.com/**
+
 # speech
 
 - TED（最优质的演讲）：https://www.ted.com/
@@ -293,6 +301,14 @@ https://pubscholar.cn/
 
 **使用地址：****https://www.listeningexpress.com/**
 
+## spoken
+
+**发音纠正器**
+
+一个帮助用户**练习和纠正英语单词发音**的网站，它可以帮助用户了解自己的发音水平，拥有**有道和Google两个音源**。还拥有**EF 常用 3000 词汇、中国程序员容易发音错误的单词、计算机科学词汇表、英语口语中最常使用的 2265 个单词、最常用的 500 个英语单词这五大词库**，可以说涵盖了我们日常办公中的常用单词了。
+
+**https://corrector.justsong.cn/**
+
 # financial transaction
 
 ## 大盘云图
@@ -341,21 +357,10 @@ https://pubscholar.cn/
 
 [热门榜单 - 全网热点 - AiLake (ibooker.org.cn)](https://al.ibooker.org.cn/hot)
 
-## 编程
 
-尚硅谷学习路线图：
-https://pan.baidu.com/s/1hS19dMZ9nlUyoh2YOHjF9w?pwd=yyds 提取码：yyds 
 
-视频在线看：
-https://space.bilibili.com/302417610
-视频免费下：
-http://www.atguigu.com/download.shtml 
+**快捷键备忘录**
 
-牛客网: https://www.nowcoder.com/exam/company
+这个网站收录了一些**常用软件的快捷键，比如PS、Pr、思维导图等办公软件、操作系统、实用工具**。
 
-### Java
-
-#### Github
-
-itwanger/toBeBetterJavaer: 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。：https://github.com/itwanger/toBeBetterJavaer
-
+**https://hotkeycheatsheet.com/zh**

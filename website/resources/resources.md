@@ -58,9 +58,47 @@ HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7
 
 搜软：*https://www.souruan.org/index.html*
 
+**数字生活指南**：
+
+上千个免费资源站点，包含了电子书籍、影视动漫、软件插件、办公神器、图库图标壁纸、学习资源、视频素材等等
+
+**网址：https://nav.guidebook.top/**
+
 
 
 ## cloudNetDisk
+
+UP云搜：  https://www.upyunso.com
+
+
+奈斯搜索：www.niceso.net
+
+
+小纸条：https://u.gitcafe.net/
+
+
+网盘小站：https://pan666.net/
+
+
+狐狸盘搜：https://www.alipansou.com/
+
+
+易搜：https://yiso.fun/
+
+
+PanSearch https://www.pansearch.me
+
+
+秒搜：https://miaosou.fun
+
+
+盘友搜：https://panyq.com/
+
+
+影视搜索：http://m.9dups.com/app/index.html?id=test
+
+
+小云搜索：https://www.yunso.net/
 
 ### baiduNetDisk
 
@@ -98,6 +136,9 @@ HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7
 - 故宫壁纸：https://www.dpm.org.cn/lights/royal/p/91.html
 - 必应壁纸：https://www.todaybing.com/
 - simple desktops：http://simpledesktops.com/
+- https://www.pexels.com/zh-cn/
+
+https://wallhere.com/
 
 # icons
 
@@ -158,3 +199,8 @@ iconfont：https://www.iconfont.cn/iconfont
 
 中国庭审公开网 (court.gov.cn)：http://tingshen.court.gov.cn/
 
+# software and hardware service
+
+## GPU
+
+潞晨云：https://cloud.luchentech.com/

@@ -131,7 +131,21 @@ https://gitee.com/zheng_yongtao/chrome-plug-in
 抖音没问题，P站能搞定，B站也可以，还有很多加密视频，在这种强大的通用嗅探工具面前，不针对也有惊喜。
 开箱即用的扩展，操作零门槛，每次装机必备。
 
+**极简插件**：这个网站包含了我们日常应用的很多插件，比如办公插件、网页视频下载插件、上网安全插件、广告过滤插件等。https://chrome.zzzmh.cn/
 
+**Extfans**：https://www.extfans.com
+
+## Edge plugins
+
+WowTab 
+
+https://wowtab.microsoft.com/
+
+## Google plugins
+
+### GugeAPPs
+
+这款Google浏览器插件网站收集了大量的国外插件：https://www.gugeapps.net/
 
 # system tools
 
@@ -249,9 +263,15 @@ HD Tune  Pro是一款小巧易用的硬盘工具软件，其主要功能有硬�
 
 蓝奏云：https://dnzscomcn.lanzout.com/izN0h01sitwj
 
+**KMS一键激活**
+
+这是一个**提供KMS激活服务**的网站，主要功能是帮助用户**激活Windows系统和Office软件**，并且支持一键激活Windows和Office，并且可以根据自己的系统版本选择相应的激活服务。
+
+**https://kms.cx/**
+
 # File tools
 
-### search
+## search
 
 #### EverythingToolbar
 
@@ -265,7 +285,7 @@ https://www.voidtools.com/zh-cn/
 
 Everything功能强大，体积小巧，非常棒的**Windows系统****文件搜索神器**，第一次安装使用时会建立一个索引数据库，将所有文件和文件夹的名称导入其中，后续使用能够以极快的速度快速搜索，查找到你所需要的文件。**软件完全免费。
 
-### manage
+## manage
 
 #### OneCommander
 
@@ -280,6 +300,86 @@ http://foldersize.sourceforge.net
 Folder Size 是一个可以查看文件大小的软件。
 
 使用它可以一键查看文件夹里的文件大小。你可以选择整个C盘，也可以选择指定特定的文件夹。
+
+## transfer
+
+### Airclap
+
+极速稳定、打开即用，让文件在任意设备间自由发送。无需连接互联网，无线局域网传输，面对面分享，支持 Mac, iOS, Windows, and Android 之间互传，官网直接安装。
+
+**https://github.com/Gentleflow/Airclap**  **https://airclap.app**
+
+### FileZilla Client - FTP 文件传输工具
+
+一个免费开源的FTP软件，分为客户端版本和服务器版本，具备所有的FTP软件功能。可控性、有条理的界面和管理多站点的简化方式使得Filezilla客户端版成为一个方便高效的FTP客户端工具，而FileZilla Server则是一个小巧并且可靠的支持FTP&SFTP的FTP服务器软件。
+
+FileZilla 不仅支持 FTP，还支持 FTP over TLS (FTPS) 和 SFTP 。
+
+https://www.oschina.net/p/filezilla+client
+
+### 百灵快传（B0Pass） - 超大文件传输工具
+
+一款基于 Go 语言的高性能 “手机电脑超大文件传输神器”、“局域网共享文件服务器”。
+
+主要使用场景：（手机电脑共享文件）电脑上双击执行 --> 手机扫码 --> 手机上的大文件传到电脑、或者电脑传文件到手机
+
+https://www.oschina.net/p/b0pass
+
+### LFTP 命令行 FTP 工具
+
+**lftp** 是一款类 Unix 系统下命令行界面的 FTP 客户端软件，作者是 Alexander Lukyanov ，在 GNU通用公共许可证下发布。除了 FTP 外，还支持 FTPS 、 HTTP 、 HTTPS 、 SFTP 、 FXP 等多种协议。此外， lftp 也内含一个简单的 BitTorrent 客户端。
+
+https://www.oschina.net/p/lftp
+
+### trzsz.js - 文件传输工具
+
+trzsz (trz /tsz) 是一个兼容 tmux 的文件传输工具，和 lrzsz ( rz /sz ) 类似，并且有进度条，支持目录传输，支持拖动上传。
+
+https://www.oschina.net/p/trzsz-js
+
+### NitroShare - 局域网文件传输工具
+
+NitroShare 是一个局域网文件传输工具，支持 Windows、OS X 和 Linux，基于 Qt 开发。
+
+特点：支持跨平台、自动发现局域网的设备、简单直观的用户界面、可传输整个目录
+
+https://www.oschina.net/p/nitroshare
+
+### **FileCodeBox** - 文件快递柜
+
+一个轻量级文件快递柜，用户以匿名口令分享文本、文件，像拿快递一样取文件。
+
+https://www.oschina.net/p/filecodebox
+
+### **Bigfile-go** - 文件传输管理系统
+
+使用 Golang 开发的一个文件传输管理系统，支持通过 HTTP API，RPC 调用以及 FTP 客户端管理文件。
+
+https://www.oschina.net/p/bigfile-go
+
+### **OnionShare** 安全可靠的匿名文件分享工具
+
+OnionShare 是一个开源工具，可以让你安全和匿名地共享任何大小的文件。
+
+它通过启动一个 Web 服务器工作，作为 Tor onion 服务被访问，并生成一个临时的 URL 以访问和下载文件。将文件托管到自己的电脑，并使用 Tor onion 服务，使其可以通过互联网临时访问。其他用户只需要使用 Tor 浏览器从你的主机下载文件即可。
+
+https://www.oschina.net/p/onion-share
+
+### **croc** - 跨平台文件传输工具
+
+croc 是一种允许任意两台计算机简单安全地传输文件和文件夹的工具。
+
+它提供端到端加密、允许多个文件传输、允许恢复被中断的传输，同时不需要本地服务器或端口转发。
+
+https://www.oschina.net/p/croc
+
+### **tl-rtc-file** web 端文件传输
+
+tl-rtc-file 使用 webrtc 在 web 端传输文件，支持传输超大文件，P2P 点对点传输。
+
+优点 ：分片传输，跨终端，不限平台，方便使用，内网不限速，支持私有部署，代码简单，通俗易懂，可二次开发，可作入门学习。
+
+
 
 # Player tools
 

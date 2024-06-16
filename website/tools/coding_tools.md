@@ -1,4 +1,10 @@
+# 代码编辑工具
 
+## Zed
+
+一款支持**多人协作**的代码编辑器，由 Atom 编辑器原作者主导，其底层采用 Rust 编写、默认支持 Rust，还自带了 rust-analyzer，主打 “高性能”——作者表示希望将 Zed 打造为世界上最好的文本编辑器。
+
+*https://zed.dev/blog/zed-decoded-linux-when*
 
 # 版本管理工具
 
@@ -551,6 +557,136 @@ Quarkus 的启动速度非常快（为 GraalVM 量身定制），可以很方便
 - Github 地址：**https://github.com/quarkusio/quarkus**
 - 官方文档：**https://quarkus.io/guides/**
 - 官网：**https://quarkus.io**
+
+## 网络监控
+
+### Nagios Core
+
+可以监控网络服务（SMTP、POP3、HTTP、NNTP、PING等）、主机资源（处理器负载、磁盘使用、系统日志等）以及任何你定义的本地或远程主机的服务，还可以提供联系人通知机制，当应用程序、系统、服务出现故障时，可以通过电子邮件或者短信通知相关人员。
+
+Nagios Core的安装和配置相对简单，主要分为下载、编译、安装和配置四个步骤。以下是在Ubuntu系统上安装Nagios Core的步骤：
+
+~~~shell
+# 更新系统
+sudo apt-get update
+sudo apt-get upgrade
+
+# 安装必要的软件包
+sudo apt-get install build-essential libgd2-xpm-dev openssl libssl-dev xinetd apache2-utils unzip
+
+# 下载Nagios Core
+cd /tmp
+wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.4.6.tar.gz
+
+# 解压文件
+tar xzf nagios-4.4.6.tar.gz
+
+# 编译和安装
+cd nagios-4.4.6/
+./configure
+make all
+sudo make install
+sudo make install-init
+sudo make install-config
+sudo make install-commandmode
+~~~
+
+### Zabbix
+
+一款开源的、成熟的、企业级的网络监控解决方案。Zabbix可以监控各种网络参数，保证服务器系统的安全运营；并提供灵活的通知机制以让系统管理员快速定位/解决存在的各种问题。
+
+以下是在Ubuntu系统上安装Zabbix的步骤：
+
+~~~shell
+# 安装必要的软件包
+sudo apt-get install apache2 libapache2-mod-php php php-mysql php-xml php-mbstring php-bcmath php-net-socket php-gd php-xml-util php-mysql php-gettext ttf-dejavu-core mysql-server
+
+# 下载Zabbix
+wget https://repo.zabbix.com/zabbix/4.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_4.0-3+bionic_all.deb
+
+# 安装Zabbix
+dpkg -i zabbix-release_4.0-3+bionic_all.deb
+apt update
+apt -y install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-agent
+~~~
+
+### Icinga 2
+
+一款开源的、可扩展的、企业级的网络监控工具。Icinga 2可以监控网络设备、服务器、应用程序和服务，并提供灵活的通知机制以让系统管理员快速定位/解决存在的各种问题。
+
+以下是在Ubuntu系统上安装Icinga 2的步骤：
+
+~~~shell
+# 安装必要的软件包
+sudo apt-get install apache2 libapache2-mod-php php php-mysql php-xml php-mbstring php-bcmath php-net-socket php-gd php-xml-util php-mysql php-gettext ttf-dejavu-core mysql-server
+
+# 下载Icinga 2
+wget https://packages.icinga.com/ubuntu/icinga-bionic.list
+
+# 安装Icinga 2
+mv icinga-bionic.list /etc/apt/sources.list.d/
+apt update
+apt -y install icinga2 icinga2-ido-mysql icingaweb2 icingacli
+~~~
+
+### OpenNMS
+
+一款开源的、可扩展的、企业级的网络监控和网络管理平台。OpenNMS提供了丰富的功能，包括自动发现、事件和通知管理、性能测量以及服务可用性测试等。
+
+~~~shell
+# 安装必要的软件包
+sudo apt-get install curl gnupg
+
+# 添加OpenNMS的APT仓库
+curl -L https://debian.opennms.org/OPENNMS-GPG-KEY | sudo apt-key add -
+echo 'deb http://debian.opennms.org stable main' > /etc/apt/sources.list.d/opennms.list
+echo 'deb-src http://debian.opennms.org stable main' >> /etc/apt/sources.list.d/opennms.list
+
+# 安装OpenNMS
+sudo apt-get update
+sudo apt-get install opennms
+~~~
+
+### Prometheus
+
+一款开源的、可扩展的、企业级的网络监控和警报工具。Prometheus的主要特点是其多维数据模型和灵活的查询语言PromQL，这使得Prometheus非常适合处理高动态的云环境。
+
+~~~shell
+# 下载Prometheus
+wget https://github.com/prometheus/prometheus/releases/download/v2.30.3/prometheus-2.30.3.linux-amd64.tar.gz
+
+# 解压文件
+tar xvfz prometheus-*.tar.gz
+cd prometheus-*
+
+# 启动Prometheus
+./prometheus --config.file=prometheus.yml
+~~~
+
+### Graphite
+
+一款开源的、可扩展的、企业级的网络监控工具。Graphite主要用于存储、展示和监控实时时间序列数据。
+
+~~~shell
+# 安装必要的软件包
+sudo apt-get install graphite-web graphite-carbon
+
+# 配置Graphite
+sudo dpkg-reconfigure graphite-carbon
+sudo dpkg-reconfigure graphite-web
+~~~
+
+### Checkmk
+
+一款开源的、可扩展的、企业级的网络监控工具。Checkmk提供了丰富的功能，包括自动发现、事件和通知管理、性能测量以及服务可用性测试等。
+
+~~~shell
+# 下载Checkmk
+wget https://checkmk.com/support/1.6.0p24/check-mk-raw-1.6.0p24_0.buster_amd64.deb
+
+# 安装Checkmk
+dpkg -i check-mk-raw-1.6.0p24_0.buster_amd64.deb
+~~~
 
 
 
