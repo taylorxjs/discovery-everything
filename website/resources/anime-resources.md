@@ -65,3 +65,5 @@ www.gugufan.com
 **Z动漫**：https://www.dm2022.com/
 
 **喵物次元**：**https://www.mwcy.net/**
+
+**airAnime**: **https://air.tls.moe/**

@@ -10,6 +10,7 @@
 - caj云阅读：http://cajviewer.cnki.net/cajcloud/
 - 必看网（人生必看的书籍）：https://www.biikan.com/
 - kanshuy1234.com
+- **飞速中文网**：m.feibzw.com
 
 找书神器：https://mianfei22.com/
 
@@ -34,3 +35,9 @@
 **mianfei22**：https://mianfei22.com
 
 一个聚合了多个热门书源的在线书库
+
+# 阅读书源
+
+https://shuyuan.yiove.com/
+
+https://legado.aoaostar.com/

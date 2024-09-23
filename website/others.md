@@ -11,3 +11,9 @@
 - 全历史：https://www.allhistory.com/
 - iData：https://www.cn-ki.net/
 - 术语在线：http://www.termonline.cn/
+
+# Telegram
+
+## web3
+
+https://t.me/DeJob_official 和 https://t.me/abetterweb3_cn

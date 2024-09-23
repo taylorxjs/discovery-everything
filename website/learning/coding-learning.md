@@ -162,6 +162,8 @@ https://github.com/blossom-editor/blossom
 
 https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
 
+程序员到公务员：从入门到上岸 https://github.com/miss-mumu/developer2gwy
+
 ## PersonalBlog
 
 [忞翛的博客 (lczmx.top)](https://www.lczmx.top/)
@@ -216,6 +218,8 @@ http://www.atguigu.com/download.shtml
 
 [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+数据结构可视化：https://labuladong.online/algo-visualize
+
 # 计算机技术
 
 ## 网络安全
@@ -265,6 +269,10 @@ https://hollischuang.github.io/toBeTopJavaer/#/menu
 [犬小哈教程 - 用心书写每一篇图文教程！ (quanxiaoha.com)](https://www.quanxiaoha.com/)
 
 大话面试：https://www.open8gu.com
+
+[小白的编程之路 (xingkongdiyiren.github.io)](https://xingkongdiyiren.github.io/myblog/)
+
+
 
 ## 前端
 

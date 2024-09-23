@@ -6,13 +6,9 @@ slider：https://slider.kz/
 
 > 支持搜索全球歌曲，虽然首页都是英文，但支持中文搜索。支持一键播放/下载，**不需要登录账号**，就是下载速度稍微有点慢。
 
-歌曲宝：https://www.gequbao.com/
-
 MyFreeMp3：http://tools.liumingye.cn/music/?page=searchPage#/
 
 放屁音乐网：https://www.fangpi.net/
-
-顽狗音乐：https://music.dogged.cn/?ref=iai88.com  https://music.dogged.cn/
 
 熊猫无损音乐：https://www.xmwav.com/
 
@@ -22,25 +18,19 @@ MP3 malina：https://skymus.org/
 
 音漫社：http://www.acgjc.com/
 
-Biu~：https://biu.moe/#/Index/home
-
-**FreePD**：*https://freepd.com/horror.php*
-
-铜钟：https://tonzhon.com/
-
-Free music Player：http://ayy.ayxhk.com/
-
 mmPlayer: https://netease-music.fe-mm.com/
-
-煎饼搜: https://www.jbsou.cn/
-
-无名音乐: https://thewind.xyz/
 
 MusicEnc: https://www.musicenc.com/
 
-MP3 malina: https://mp3-banana.pro/
-
 hifini：https://hifini.com
+
+果核音乐2.2：https://ghyinyue.com//#/home
+
+下歌吧：https://xiageba.com/
+
+23ape.net：http://www.23ape.net/
+
+**FreePD**：*https://freepd.com/horror.php*
 
 ## voice
 

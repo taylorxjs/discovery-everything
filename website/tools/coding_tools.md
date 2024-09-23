@@ -316,6 +316,16 @@ Vert.x 采用响应式编程和函数式编程范式，特别适合于处理大�
 
 `magicalcoder`是一个自动生成代码的工具，JAVA代码自动生成，还有H5样式布局器。对于有写页面需求的后端开发来说是个神器，可以拖拽控件布局直接生成`css`、`js`，支持`element`、`layui`、`bootstrap4`这些常用的前端框架。
 
+# C_C++
+
+在线编译，wanbox：https://wandbox.org/
+
+C++对应的汇编代码是什么，godbolt：https://godbolt.org/
+
+基准测试，https://quick-bench.com/q/paKQEp0HMpgT6BpAW6TA4BoRo-M，benchmark库：https://github.com/google/benchmark
+
+
+
 # Kotlin
 
 ## Javalin：轻量级 Java 和 Kotlin Web 框架
