@@ -20,6 +20,13 @@
 
 开源地址：https://github.com/jianchang512/pyvideotrans
 
+#### immersivetranslate
+
+沉浸式翻译：全网口碑炸裂的双语对照网页翻译插件
+你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译等。还可以自由选择调用DeepL、Gemini等人工智能引擎来翻译上述内容，在手机上也可以随时随地用哦，真正帮助你打破信息壁垒
+
+https://immersivetranslate.com/zh-Hans
+
 ## 思维导图
 
 ### Freeplane
@@ -36,8 +43,18 @@ https://github.com/lczmx/MemoryCard
 
 ## other
 
-### Github
+[汉字字帖生成器 - 写个字吧](https://xgzb.top/han)
 
-https://lab.github.com/
 
-官方公告：https://blog.github.com/2018-04-19-introducing-github-learning-lab/
+
+
+
+# notes
+
+**JumpVideo**是一款专门为边看视频边做笔记的软件，独创的时间戳链接技术搭配浏览器/PotPlayer/MPV/VLC播放器可以为众多格式的视频做笔记。
+
+[TGK的宝藏 (thegodofking.com)](https://thegodofking.com/)
+
+[Memo Card : Turn your words into beautiful sharing cards!](https://www.memocard.net/)
+
+> Memo Card 可以帮你生成精美的文字卡片，可应用于你日常书摘、笔记、备忘等内容的分享。

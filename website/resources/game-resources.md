@@ -1,0 +1,1 @@
+[崩坏：星穹铁道WIKI_BWIKI_哔哩哔哩](https://wiki.biligame.com/sr/首页)

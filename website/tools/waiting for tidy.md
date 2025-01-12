@@ -227,6 +227,8 @@ Trello 是**一个免费的项目管理软件**，它采用卡片式的界面进
 
 4：https://shimo.im/docs/CKTQ9vc6G8GkHgp3/
 
+https://shimo.im/docs/1d3aM5B9MMU0Ll3g/
+
 ## 2024-05-08
 
 **PixVerse**

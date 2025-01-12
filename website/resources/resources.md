@@ -1,130 +1,11 @@
-# open projects
-
-## GitHubDaily
-
-GitHub：*https://github.com/GitHubDaily/GitHubDaily*
-
-该列表包含了 GitHub 上诸多高质量、有趣实用的开源技术教程、开发者工具、编程网站等内容。
-
-## software warehouse
-
-阿枫软件仓库：https://www.fy6b.com/
-
-Fosshub（提供完全免费开源的电脑软件）：https://www.fosshub.com/
-Altappsnet（多平台应用程序的替代方案）：https://zh.altapps.net/
-AlternativeTonet（软件竞品查找网站）：https://alternativeto.net/
-Open Source Alternative（开源替代品）：https://www.opensourcealternative.to/
-
-HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7a92
-
-123云盘软件合集：https://www.123pan.com/s/m6uSVv-fqNcv
-
-琉殇**https://link3.cc/liushang  **备用: **liushang.ysepan.com**
-
-# resource search
-
-## integrated search
-
-奇妙趣趣屋：http://www.magicalapp.cn/library.html
-
-爱资料工具：https://www.toolnb.com/
-
-> 爱资料工具一个拥有上百款在线工具的在线网站，涵盖了开发工具、编码转换、加密解密、查询对照、站长工具、网站运维、日常工具、地图、恶搞生成、计算器、视频音频、文档转换等等。
-
-- DogeDoge搜索引擎：www.dogedoge.com
-- 秘迹搜索：https://mijisou.com/
-- 小白盘：https://www.xiaobaipan.com/
-- 云盘精灵（资源搜索）：www.yunpanjingling.com
-- 虫部落（资源搜索）：www.chongbuluo.com
-- 如风搜（资源搜索）：http://www.rufengso.net/
-- 爱扒：https://www.zyboe.com/
-- 世界各国网址大全：http://www.world68.com/
-- 小森林导航：http://www.xsldh6.com/
-- 简捷工具：http://www.shulijp.com/
-- NiceTool.net 好工具网：http://www.nicetool.net/
-- 现实君工具箱（综合型在线工具集成网站）：http://tool.uixsj.cn/
-- 蓝调网站：http://lcoc.top/
-- 偷渡鱼：https://touduyu.com/
-- 牛导航：http://www.ziliao6.com/
-- 小呆导航：https://www.webjike.com/index.html
-- 简法主页：http://www.jianfast.com/
-- KIM主页：https://kim.plopco.com/
-- 聚BT：https://jubt.net/cn/index.html
-- 精准云工具合集：https://jingzhunyun.com/
-- 兔2工具合集：https://www.tool2.cn/
-- 爱资料工具（在线实用工具集合）：www.toolnb.com
-- 工具导航：https://hao.logosc.cn/
-- 一糖导航：**https://iitang.com/**
-
-搜软：*https://www.souruan.org/index.html*
-
-**数字生活指南**：
-
-上千个免费资源站点，包含了电子书籍、影视动漫、软件插件、办公神器、图库图标壁纸、学习资源、视频素材等等
-
-**网址：https://nav.guidebook.top/**
-
-
-
-## cloudNetDisk
-
-UP云搜：  https://www.upyunso.com
-
-
-奈斯搜索：www.niceso.net
-
-
-小纸条：https://u.gitcafe.net/
-
-
-网盘小站：https://pan666.net/
-
-
-狐狸盘搜：https://www.alipansou.com/
-
-
-易搜：https://yiso.fun/
-
-
-PanSearch https://www.pansearch.me
-
-
-秒搜：https://miaosou.fun
-
-
-盘友搜：https://panyq.com/
-
-
-影视搜索：http://m.9dups.com/app/index.html?id=test
-
-
-小云搜索：https://www.yunso.net/
-
-### baiduNetDisk
-
-
-
-### aliyun
-
-**阿里搜**：https://aliso.cc/
-
-## magnet
-
-**磁力多**：https://ck.cilido.top/
-
-磁力印象——磁力预览工具：beta.magnet.pics
-
-
-
 # photos
 
-- 电脑壁纸：
-- - https://unsplash.com/
-  - https://pixabay.com/
-  - https://www.pexels.com/
-  - https://visualhunt.com/
-  - https://www.ssyer.com/
-  - http://lcoc.top/bizhi/
+- https://pixabay.com/
+- https://www.pexels.com/
+- https://visualhunt.com/
+- https://www.ssyer.com/
+- http://lcoc.top/bizhi/
+
 - 彼岸图网：http://pic.netbian.com/
 - 极像素（超高清大图）：https://www.sigoo.com/
 - 免费版权图片搜索：https://www.logosc.cn/so/
@@ -137,14 +18,23 @@ PanSearch https://www.pansearch.me
 - 必应壁纸：https://www.todaybing.com/
 - simple desktops：http://simpledesktops.com/
 - https://www.pexels.com/zh-cn/
+- 手机壁纸大全：https://www.3gbizhi.com/
 
 https://wallhere.com/
+
+https://pixnio.com/
+
+
 
 # icons
 
 iconfont：https://www.iconfont.cn/iconfont
 
 > 阿里出品，包含图标库、矢量插画库、3D插画库、动效库、字体库等等资源。
+
+https://www.logo.wine
+
+
 
 # mirrors
 

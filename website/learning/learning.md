@@ -123,7 +123,15 @@ https://www.aliyundrive.com/s/Po4JoxiKy81
 
 **使用地址：https://www.shijuan1.com/**
 
+**17.电子作业与在线考试系统云平台**
 
+https://www.examcoo.com/一个永久免费的电子作业与在线考试系统云平台，它专为各类学校、培训机构、政府机构和企事业单位提供服务。
+
+**18.全国中小学实验在线平台**
+
+它提供了丰富的实验学习视频教程，非常全面，分类包括：小学、初中、高中，还包括：物理、化学、生物学、数学、通用技术等。
+
+https://www.syzx-edu.com/
 
 ## 人文艺术
 
@@ -285,6 +293,12 @@ https://pubscholar.cn/
 
 - [柚坛社区 (uotan.cn)](https://www.uotan.cn/)
 
+**iFixit** 是一个完全免费的物品修理学习在线网站，也是一个实用的物品修理指南和修理指导在线网站。
+
+它支持的物品修理种类非常丰富，包括：平板、手机、电脑、汽车、台式电脑、笔记板、相机、游戏机、计算机硬件、家用电器、室内维修、服装、交通工具、电子设备等。
+
+https://zh.ifixit.com/
+
 ## GitHub
 
 开源编程语言、框架的 Logo：**https://github.com/SAWARATSUKI/ServiceLogos**
@@ -292,6 +306,10 @@ https://pubscholar.cn/
 # language
 
 ## English
+
+Coursera
+
+britishcouncil.cn
 
 ### Listen
 
@@ -301,13 +319,29 @@ https://pubscholar.cn/
 
 **使用地址：****https://www.listeningexpress.com/**
 
-## spoken
+### spoken
 
 **发音纠正器**
 
 一个帮助用户**练习和纠正英语单词发音**的网站，它可以帮助用户了解自己的发音水平，拥有**有道和Google两个音源**。还拥有**EF 常用 3000 词汇、中国程序员容易发音错误的单词、计算机科学词汇表、英语口语中最常使用的 2265 个单词、最常用的 500 个英语单词这五大词库**，可以说涵盖了我们日常办公中的常用单词了。
 
 **https://corrector.justsong.cn/**
+
+英语角：
+
+meetup网站，输入English language exchange，chengdu,CN
+
+## Japanese
+
+### Grammer
+
+**日语语法指南**是一个完全免费的日语语法学习在线网站。
+
+它完全免费，极简干净，内容全面丰富，支持强大的分类功能，包括：日文书写、基本语法、特定的表达方式。
+
+它支持的具体学习内容包括：平假名、片假名、平假名练习、片假名练习、状态表示、助词介绍、形容词、动词基础、过去形、关系从句和语序、动词的否定式、敬语和动词词根、提问词、复合句、可能形、条件语、假设和总结、更多的否定动词、通用名词的特殊用法等。
+
+https://res.wokanxing.info/jpgramma/index.html
 
 # financial transaction
 
@@ -319,7 +353,7 @@ https://pubscholar.cn/
 鼠标悬停还能看到当前所指对象的市值最高点，双击方块查看 K 线，最下方还有不同时间点的复盘。
 有创意又不乏实用的网站，如果你的屏幕够大，给你的感觉是完全不一样的。
 
-# 技能培训
+# life skill
 
 1.**职业全能培训库**
 
@@ -357,6 +391,19 @@ https://pubscholar.cn/
 
 [热门榜单 - 全网热点 - AiLake (ibooker.org.cn)](https://al.ibooker.org.cn/hot)
 
+**6.终身教育平台**
+
+https://le.ouchn.cn/home
+
+
+
+网站主打分享有用经验，打破信息茧房，有电子产品、日常用品、生活经验、羊毛技巧四个板块。目前已经收录 262 条经验，每条经验都是人工甄选，没有任何广告。
+从酒店防偷拍指南到百亿补贴买苹果手机的检查步骤，从快递柜超时如何零元处理到夸克网盘极速下载方法，非常实用。
+
+https://yyjingyan.com/
+
+
+
 
 
 **快捷键备忘录**
@@ -364,3 +411,7 @@ https://pubscholar.cn/
 这个网站收录了一些**常用软件的快捷键，比如PS、Pr、思维导图等办公软件、操作系统、实用工具**。
 
 **https://hotkeycheatsheet.com/zh**
+
+# 中医
+
+[李宗恩](https://andylee.pro/wp/)

@@ -1,6 +1,25 @@
+
+
+阿枫软件仓库：https://www.fy6b.com/
+
+Fosshub（提供完全免费开源的电脑软件）：https://www.fosshub.com/
+Altappsnet（多平台应用程序的替代方案）：https://zh.altapps.net/
+AlternativeTonet（软件竞品查找网站）：https://alternativeto.net/
+Open Source Alternative（开源替代品）：https://www.opensourcealternative.to/
+
+HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7a92
+
+六音本站地址发布页 [https://6yso.com](https://6yso.com/)
+
+[软件工具](https://docs.qq.com/doc/DU3FYbnZhS1JDam5z)
+
+# 微信公众号
+
+青柠软件馆：https://flowus.cn/qingningshare/share/213a1749-8ecd-456d-914b-5a9836109c9e
+
 # PC
 
-
+[绿软集合 - 一个高效、绿色、纯净的常用软件工具箱](http://www.greensoftwarehub.com/download.html)
 
 
 
@@ -19,3 +38,7 @@ APKPure：apkpure.com/cn/
 GetJar：getjar.com 
 
 Uptodown：en.uptodown.com
+
+[阅读APP源 - AOAOSTAR](https://legado.aoaostar.com/)
+
+[源仓库](http://www.yckceo.com/yuedu/index/index.html)

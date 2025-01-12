@@ -1,76 +1,3 @@
-# document handle
-
-Office Tool Plus v10.10.7.0: www.hezibuluo.com/6036.html
-
-> 1、下载安装文件
-> Office Tool 可以从微软服务器获取最新版的 Office 安装文件，使用安装文件可以离线安装 Office；也可以将安装文件进行分享，从而节省带宽或者是方便管理。
->
-> 2、配置并安装 Office
-> Office Tool 默认配置好安装设置，普通用户只需点击即可开始安装。同时我们为高级用户开设了多种安装选项，无论是安装前亦是安装后都可以轻松配置 Office。
->
-> 3、激活您的许可证
-> 如果您无法通过 Office 的激活向导激活 Office，Office Tool 可以为您安装密钥或者配置 KMS 服务。同时高级管理可以让您轻松管理 Office 的授权配置
-
-- 即书（在线制作PPT）：https://www.keysuper.com/
-- PDF处理：https://smallpdf.com/cn
-- PDF处理：https://www.ilovepdf.com/zh-cn
-- PDF处理：https://www.pdfpai.com/
-- PDF处理：https://www.hipdf.cn/
-- 图片压缩，PDF处理：https://docsmall.com/
-- 腾讯文档（在线协作编辑和管理文档）：docs.qq.com
-- ProcessOn（在线协作制作结构图）：www.processon.com
-- iLovePDF（在线转换PDF利器）：www.ilovepdf.com
-- PPT在线制作：https://www.woodo.cn/
-- PDF24工具（pdf处理工具）：https://tools.pdf24.org/en
-- IMGBOT（在线图片处理）：www.imgbot.ai
-- 福昕云编辑（在线编辑PDF）：edit.foxitcloud.cn
-- TinyPNG（在线压缩图片）：tinypng.com
-- UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件套）：uzer.me
-- 优品PPT（模板下载）：http://www.ypppt.com/
-- 第一PPT（模板下载）：http://www.1ppt.com/xiazai/
-- 三顿PPT导航：sandunppt.com
-- Excel函数表：https://support.office.com/zh-cn/office/excel-函数-按字母顺序-b3944572-255d-4efb-bb96-c6d90033e188
-
-
-
-## PDF派
-
-https://www.pdfpai.com/
-
-把PDF转成Word、Excel、PPT等Office格式，也可以将PDF转为JPG图片格式。
-
-同样，它可以将Office、iWork、电子书、图像等转换为PDF。
-
-同时，它还可以解锁PDF，拆分PDF，旋转PDF，压缩PDF，加密PDF，合并PDF，PDF添加水印，PDF添加页码，导出PDF图片，调整PDF页面，删除PDF页面，图片格式转换，将图片文件格式转换成其他图片。
-
-它还是一个免费的在线图片格式转换工具：PNG转JPG、HEIC转JPG、TIF转JPG、BMP转JPG、制作GIF、JPG转PNG、GIF转JPG、IF转PNG。
-
-## 布丁扫描
-
-https://www.budingscan.com/
-
-布丁扫描是一款功能特别强大的扫描工具，它所有功能都是免费的。
-
-**文档扫描，支持多拍，生成PDF，而且自带的AI 超清滤镜，可以去除阴影，还有文档矫正的效果**
-
-## SmallPDF
-
-https://smallpdf.com/cn
-
-SmallPDF 是一个功能强大的PDF 在线工具。
-
-它不仅可以压缩，合并，旋转，分割PDF，还可以解密加密PDF。
-
-还可以将Word，Excel，图片和PDF 相互之间转换。
-
-## EXCEL表格
-
-### 文图
-
-地址：**https://www.wentu.io/**
-
-文图可以根据`excel`里的数据，自动生成对应的统计图形，样式可以自由切换，生成PDF、JPG等格式。
-
 # books
 
 ## Epub
@@ -87,11 +14,13 @@ Okular 支持多种文件格式，包括 PDF、EPub、DjVU 和 MD 文档；JPEG�
 
 同时它还可以一次全屏预览所有页封面的内容。还可以添加高亮，粉笔功能。支持 Windows，Mac，Linux。
 
-## koodo-reader
-
-https://github.com/koodo-reader/koodo-reader
 
 
+koodo-reader: https://github.com/koodo-reader/koodo-reader
+
+
+
+[LITERA Reader](https://litera-reader.com/)
 
 # download
 
@@ -135,6 +64,8 @@ NDM 是一款免费的多线程下载工具，可以通过调整下载的最大�
 
 http://www.freedownloadmanager.org/download.htm
 
+https://www.freedownloadmanager.org/zh/
+
 它支持FTP，HTTP(S)，还有BT 下载，当然你也可以添加代理。
 
 同时你还可以定时下载任务，也支持多线程下载，同时还可以查看多线程的进度。
@@ -146,6 +77,8 @@ http://www.freedownloadmanager.org/download.htm
 ### XDM
 
 http://xdman.sourceforge.net/
+
+https://xtremedownloadmanager.com/
 
 XDM 是一个免费开源的专业的下载工具。
 
@@ -189,6 +122,8 @@ sitepuller：https://sitepuller.com/
 
 ## video
 
+[无水印视频下载器_免费视频下载工具_哔哩哔哩(b站)视频解析下载 - 下载狗工具](https://www.xiazaitool.com/)
+
 M3U8-Downloader：*https://github.com/HeiSir2014/M3U8-Downloader*
 
 视频下载-微博党：http://www.weibodang.cn/
@@ -207,7 +142,16 @@ VideoFk解析视频：http://www.videofk.com/
 
 **SnapAny解析下载**: **snapany.com**
 
+**bilidown新版本1.2.0**
 
+官网下载：https://zhouql.vip/bilibili/pc/
+
+软件如果小的bug或问题，会打补丁，而不是进行大版本更新。你可以访问下面链接来获取最新的状态描述。
+
+更新详情：https://zhouql.vip/bilibili/pcversion/
+
+大家在使用软件或网站时，如果有些疑问，可以打开下面链接，这是UP整理的文档，里面有常见问题和回答，可以解决大部分问题和疑问。
+文档地址：https://zhouql.vip/bilibili/doc/
 
 ## network disk
 
@@ -234,18 +178,6 @@ Wise Folder Hider：https://www.kancloud.cn/wisecleaner/help-wfh/979667
 **https://woc.space**
 
 # Community Forum
-
-## Github
-
-***访问地址：https://github.com/***
-
-GitHub 是一个代码托管平台专门为开发者们提供代码托管、版本控制、协作开发等服务。
-
-## Gitee
-
-***访问地址：https://gitee.com/***
-
-Gitee 是国内一个基于 Git 的代码托管平台，类似于 GitHub，提供代码托管、版本控制、协作开发等服务。
 
 ## Stack Overflow
 
@@ -350,6 +282,8 @@ http://ophcrack.sourceforge.net/download.php
 # Resource Search
 
 目前已收录**5800+绿色软件工具**：www.fy6b.com
+
+
 
 ## cloudNetDisk
 

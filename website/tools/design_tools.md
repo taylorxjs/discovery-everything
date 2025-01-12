@@ -18,8 +18,6 @@ ChartCube：https://chartcube.alipay.com/
 
 ### 图片水印处理
 
-https://watermark.aicompasspro.com/
-
 AI 去水印：dewatermark.ai
 
 ### AI人工智能图片放大
@@ -98,6 +96,10 @@ SuperImage官方是**一款专业的图像处理软件**。
 **Pexels免费素材图片**：https://www.pexels.com/zh-cn/
 
 **PickFree**：http://www.pickfree.cn/
+
+## 文字转图片
+
+https://oneimgai.com/
 
 
 
@@ -218,6 +220,10 @@ AutoCut 可对视频自动生成字幕。用户选择需要保留的句子，Aut
 https://github.**com**/alibaba-damo-academy/FunClip
 
 由阿里巴巴达摩院开源的一款视频剪辑工具，它利用了大语言模型（LLM）技术，为用户提供了一个开源、精准、方便的视频剪辑解决方案。
+
+### PIKIMOV
+
+[PIKIMOV ☆ Free web-based motion design and video editor](https://pikimov.com/)
 
 # voice
 

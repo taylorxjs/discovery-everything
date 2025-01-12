@@ -8,6 +8,10 @@
 
 # 版本管理工具
 
+## Git
+
+[Git - Downloading Package](https://git-scm.com/downloads/win)
+
 ## vfox
 
 GitHub 地址：https://github.com/version-fox/vfox
@@ -68,9 +72,26 @@ TortoiseGit 集成在 Windows 的资源管理器中，可以通过右键菜单�
 
 devbox 是一个由 jetpack-io 开发的开源项目，它是一个用于提高开发效率的工具。通过使用 devbox，开发人员可以在本地快速构建一个完整且隔离的开发环境，并使用各种工具和技术来开发和测试应用程序。
 
-# 数据库可视化管理工具
+## Ugit
 
-## Redis
+https://ugit.qq.com/zh/index.html
+
+https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz
+
+UGit 是一款为腾讯内部研发环境特点而定制的 Git 客户端，旨在提高开发效率和团队协作的流畅性。
+
+
+
+gitness
+gog
+
+# 数据库
+
+https://www.yashandb.com/download
+
+## 可视化管理工具
+
+### Redis
 
 ### RedisInsight
 
@@ -324,7 +345,15 @@ C++对应的汇编代码是什么，godbolt：https://godbolt.org/
 
 基准测试，https://quick-bench.com/q/paKQEp0HMpgT6BpAW6TA4BoRo-M，benchmark库：https://github.com/google/benchmark
 
+# Python
 
+PyAudio：https://pypi.org/project/PyAudio/
+
+PyAudio是一个跨平台的音频1/0库，它提供了对音频输入和输出设备的实时访问、实时音频增强、实时音频降噪、实时音频变声等功能，使用它就可以在python程序中播放和录制音频。
+
+SpeechRecognition：https://pypi.org/project/SpeechRecognition/
+
+SpeechRecognition是一个用于语音转文本的Python库，它可以使Python程序能够识别和翻译来自麦克风、音频文件或网络流的语音。它支持多种语音识别引擎（在线或离线），可用于任何需要语音识别的应用场景。
 
 # Kotlin
 

@@ -14,6 +14,10 @@
 
 OSCHINA开源中文社区：https://www.oschina.net
 
+阿里云开发社区：https://developer.aliyun.com/article/1610662
+
+[连接高校和企业 - 蓝桥云课 (lanqiao.cn)](https://www.lanqiao.cn/)
+
 # bloghub
 
 ## PolyHub
@@ -25,8 +29,6 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 > **http://rjt.softtone.cn**  **账号：user2020   密码：user2020**
 
 4.源码之家：https://www.mycodes.net/
-
-5.CSDN：https://www.csdn.net/
 
 6.[编程宝库 - 技术改变世界 (codebaoku.com)](http://www.codebaoku.com/)
 
@@ -112,57 +114,15 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [Alibaba Java 技术图谱-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/graph/java?spm=a2c6h.21110250.J_3487140370.11.2617760fay43rK)
 
-## Gitee
+编程学习交流：编程导航：https://www.codefather.cn/
 
-> https://gitee.com/
+[LINUX DO - 新的理想型社区](https://linux.do/)
 
-[JavaGuide (gitee.io)](https://snailclimb.gitee.io/javaguide/#/)
+即时通讯网 IM开发者社区：http://www.52im.net/
 
-[互联网 Java 工程师进阶知识完全扫盲 - Doocs 技术社区 (gitee.io)](https://doocs.gitee.io/advanced-java/#/?id=互联网-java-工程师进阶知识完全扫盲)
+[论坛-Chinaunix](http://bbs.chinaunix.net/)
 
-[仓库 - ninesun (ninesuntec) - Gitee.com](https://gitee.com/ninesuntec/projects)
 
-[Gitee 极速下载/aviator](https://gitee.com/mirrors/aviator)	
-
-## GitHub
-
-> https://github.com/
-
-1.[GUI client\], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys. (github.com)](https://github.com/qishibo/AnotherRedisDesktopManager)
-
-[aehyok (那个曾经的少年回来了) (github.com)](https://github.com/aehyok)
-
-[Microsoft (github.com)](https://github.com/orgs/microsoft/repositories?q=Begin&type=all&language=&sort=)
-
-[fuzhengwei/RoadMap: RoadMap —— Java后端开发技能路书 (github.com)](https://github.com/fuzhengwei/RoadMap)
-
-[alibaba/p3c: Alibaba Java Coding Guidelines pmd implements and IDE plugin (github.com)](https://github.com/alibaba/p3c)
-
-[doocs/advanced-java: 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 (github.com)](https://github.com/doocs/advanced-java)
-
-[Ketuer (羊羊) (github.com)](https://github.com/Ketuer)
-
-[Home · alibaba/jetcache Wiki · GitHub](https://github.com/alibaba/jetcache/wiki/)
-
-itwanger/toBeBetterJavaer: 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。：https://github.com/itwanger/toBeBetterJavaer
-
-[qianguyihao/Web: 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 (github.com)](https://github.com/qianguyihao/Web)
-
-> [前言 | 千古前端图文教程 (qianguyihao.com)](https://web.qianguyihao.com/)
-
-vue-element-admin：https://github.com/PanJiaChen/vue-element-admin
-
-> 项目在线预览：https://panjiachen.gitee.io/vue-element-admin
-
-博客静态网站：https://github.com/facebook/docusaurus
-
-Blossom 是一个支持私有部署的云端双链笔记软件，你可以将你的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步，同时还是一个动态博客。
-
-https://github.com/blossom-editor/blossom
-
-https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
-
-程序员到公务员：从入门到上岸 https://github.com/miss-mumu/developer2gwy
 
 ## PersonalBlog
 
@@ -179,6 +139,8 @@ https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
 [Home | aehyok (tuokecat.com)](http://vue.tuokecat.com/blog/)
 
 [LinkinStar's Blog (linkinstars.com)](https://www.linkinstars.com/)
+
+[Computer Science - cs.fyi](https://cs.fyi/)
 
 # Organization
 
@@ -220,6 +182,12 @@ http://www.atguigu.com/download.shtml
 
 数据结构可视化：https://labuladong.online/algo-visualize
 
+**Hello算法**是一个完全免费的数据结构和算法学习在线网站。
+
+它完全免费，主要特点是图片、文字和代码相结合，精美的图片和优雅的图文排版，还有一目了然的多语言代码
+
+https://www.hello-algo.com/
+
 # 计算机技术
 
 ## 网络安全
@@ -239,6 +207,8 @@ http://www.atguigu.com/download.shtml
 # Language
 
 ## Java
+
+[主页 | Java突击队](http://www.susan.net.cn/)
 
 [JavaGuide](https://javaguide.cn/)
 
@@ -310,13 +280,41 @@ https://www.aliyundrive.com/s/ABFYa67RxAk/folder/6369e9e695d3a922404c45c4b6c487e
 
 [cppreference.com](https://zh.cppreference.com/w/首页)
 
-## web3
+https://cpp-reference.com/
+
+# web3
 
 [Web3 項目速成課程(優越1.0) – 院長G大 (web3school.info)](https://web3school.info/)
 
 [Web3-wiki (web3wiki.site)](https://web3wiki.site/)
 
 [WTF Academy, Web3 Open University | WTF Academy](https://www.wtf.academy/)
+
+## 开源项目
+
+ Lenster: 社交媒体应用，https://github.com/lensterxyz/lenster
+
+Lenstube: 共享社交媒体平台，https://github.com/lenstube-xyz/lenstube
+
+Embark: 去中心化应用框架，https://github.com/embarklabs/embark
+
+Web3UI Kit: web3 UI 组件， https://github.com/web3ui/web3uikit
+
+Web3Modal: 简单易用的登录和交互体验，https://github.com/WalletConnect/web3modal
+
+web3.js: 以太坊区块链交互，https://github.com/web3/web3.js
+
+RainbowKit: 简化开发 DApp 需要进行多钱包、多网络连接支持的库，https://github.com/rainbow-me/rainbowkit
+
+Foundry: 以太坊开发工具包，https://github.com/foundry-rs/foundry
+
+DeFi Developer Road Map: 去中心化金融开发者的路线图，https://github.com/OffcierCia/DeFi-Developer-Road-Map
+
+FREE Web3 resources: Web3 资源，https://github.com/FrancescoXX/free-Web3-resources
+
+Awesome Web 3: Web 3 资源，https://github.com/ahmet/awesome-web3
+
+Awesome Ethereum: 以太坊和 Dapps 资源，https://github.com/bekatom/awesome-ethereum  
 
 # 运维
 
@@ -338,21 +336,40 @@ https://www.aliyundrive.com/s/ABFYa67RxAk/folder/6369e9e695d3a922404c45c4b6c487e
 
 # Database
 
-# MySQL
+项目名称：database-scaling项目链接：https://planetscale.com/learn/courses/database-scaling
+database-scaling是什么？一个针对数据库架构设计的免费课程。
+
+## MySQL
 
 [MySQL :: Download MySQL Connector/J (Archived Versions)](https://downloads.mysql.com/archives/c-j/)
 
 [MySQL实战45讲 (gitee.io)](https://funnylog.gitee.io/mysql45/)
 
-# SQL
+## SQL
 
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 
-# Redis
+## Redis
 
 [Redis中文学习网 - Redis开发与运维技术、Redis教程、使用手册](https://redis.com.cn/)
+
+# 前端
+
+[w3school](https://www.w3school.com.cn/tags/html_ref_colornames.asp)
+
+后盾人编程：https://www.houdunren.com/soft
+
+# 移动端
+
+## 鸿蒙
+
+官网就有很多免费课程！
+https://developer.huawei.com/consumer/cn/codelabsPortal/getstarted/101718800110527001
+加入鸿蒙应用开发：https://developer.huawei.com/consumer/cn/harmonyos-pioneer 
+
+developer.huawei.com/consumer/cn/cangjie/
 
 # Tools
 
@@ -371,6 +388,10 @@ https://www.aliyundrive.com/s/ABFYa67RxAk/folder/6369e9e695d3a922404c45c4b6c487e
 2.Json在线解析验证：https://www.json.cn/
 
 3.BEJSON：https://www.bejson.com/othertools/cron
+
+4.《正则表达式速查备忘手册》在线版文档：https://r2coding.com/#/README?id=正则表达式
+
+
 
 ## Test
 
@@ -396,3 +417,10 @@ https://www.aliyundrive.com/s/ABFYa67RxAk/folder/6369e9e695d3a922404c45c4b6c487e
 
 代码生成图片，这个不写博客的小伙伴可能不太常用，像我会时常分享一些技术类的文章，里边难免会贴出代码块，出于观看方便和样式美观就会转成图片
 
+# books
+
+脚本之家电子书下载：https://www.jb51.net/books/
+
+书栈网（极力推荐）：https://www.bookstack.cn/
+
+码农之家（计算机电子书下载）：www.xz577.com

@@ -32,6 +32,18 @@ Avira 密码管家：https://www.avira.com/zh-cn/password-manager
 无需任何 APP，只需要扫码，并给予网站摄像头权限，废旧手机秒变监控装置。
 监控视频可本地存储，也支持云端存储，端到端加密，用起来相当顺手。
 
+
+
+分流抢票：https://www.bypass.cn/
+
+一款完全免费的抢票软件，全程自动抢票、自动抢候补、整点抢预售、稳定捡漏。支持多天、多车次、多席别、多乘客、多站查询、多任务等功能，支持各种提醒、选座和选铺、改签刷票、增开监控，自动支付等，更多功能敬请期待。
+
+
+
+蛙蛙工具：www.iamwawa.cn，便捷的在线工具网站。
+
+快速启动：https://fluentsearch.net/
+
 ## screenshot
 
 ### ShareX
@@ -77,6 +89,8 @@ Convertio：https://convertio.co/zh/
 **HandBrake**：https://handbrake.fr/
 
 > HandBrake是一款免费开源工具,由志愿者构建,用于将视频从近乎任何格式转换为一系列现代、广泛支持的编解码器。该款工具支持Windows、macOS、Linux系统。
+
+[OpenYYY 开源云音乐 - 多种云音乐格式转MP3！](https://openyyy.com/)
 
 
 
@@ -152,6 +166,14 @@ https://wowtab.microsoft.com/
 ### GugeAPPs
 
 这款Google浏览器插件网站收集了大量的国外插件：https://www.gugeapps.net/
+
+
+
+NeonLingo划词翻译
+
+NeonLingo 是一个目前完全免费的浏览器划词翻译插件软件、语言学习插件软件；软件支持 Windows 、macOS 。
+
+它目前完全免费，简单轻量，一点不复杂，支持的功能包括：划词翻译、划词后立即翻译、划词后高亮、自动标记在网页中翻译过的单词、单词气泡、AI 结合上下文分析词汇在句子中的含义、单词本，并且一直在增加新的功能。
 
 # system tools
 
@@ -249,15 +271,25 @@ https://www.vmware.com/cn/products/workstation-player.html
 
 VMWare 是一个老牌的虚拟机软件。它的功能也是最强大的，**VMWare Player 是它的免费版本**。
 
-### 微PE工具箱
+## 重装系统
 
-https://www.wepe.com.cn/
+重装系统：yyczxt.com
 
-微PE工具箱是一个特别简单好用的PE工具。关于PE，你可以理解它就是一个简洁的操作系统，可以放在U 盘里。
+极简系统：www.sysmini.com
 
-它有多种安装方式，可以直接安装，也可以选择安装系统到U 盘，以后直接启动。
 
-同时它还有多种功能，备份还原，分区。电脑出问题，也能及时救助。
+
+**微PE工具箱**: https://www.wepe.com.cn/
+
+> 微PE工具箱是一个特别简单好用的PE工具。关于PE，你可以理解它就是一个简洁的操作系统，可以放在U 盘里。它有多种安装方式，可以直接安装，也可以选择安装系统到U 盘，以后直接启动。同时它还有多种功能，备份还原，分区。电脑出问题，也能及时救助。
+
+**Ventoy**：https://www.ventoy.net/cn/download.html
+
+> 一款开源的工具，它可以让你在U盘上直接启动ISO、WIM、IMG、VHD(x)、EFI文件，而无需每次都格式化U盘。这意味着，你可以将多个操作系统的镜像文件直接复制到U盘中，通过Ventoy启动时选择需要的系统进行安装或启动。
+>
+> 码云：https://gitee.com/longpanda/Ventoy
+>
+> Github：https://github.com/ventoy/Ventoy
 
 ### HD Tune  Pro
 
@@ -274,6 +306,12 @@ HD Tune  Pro是一款小巧易用的硬盘工具软件，其主要功能有硬�
 这是一个**提供KMS激活服务**的网站，主要功能是帮助用户**激活Windows系统和Office软件**，并且支持一键激活Windows和Office，并且可以根据自己的系统版本选择相应的激活服务。
 
 **https://kms.cx/**
+
+
+
+[图拉丁CLUB - DIY垃圾佬的网站](https://tualatin.club/)
+
+[图拉丁之家-为电脑爱好者提供交流学习平台。 请记准G4560.CN](https://www.g4560.cn/)
 
 # File tools
 
@@ -401,22 +439,92 @@ tl-rtc-file 使用 webrtc 在 web 端传输文件，支持传输超大文件，P
 
 http://iscute.cn/chfs
 
-# Player tools
+### 云鸽
 
-**字幕下载**：www.rikua.com
+https://yunge.in/
 
-> 可以预览字幕的网站
+### pairdrop
 
+https://buymeacoffee.com/pairdrop
 
+# document handle
 
-## videoPlayer
+Office Tool Plus v10.10.7.0: www.hezibuluo.com/6036.html
 
-### PotPlayer
+[下载 | Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)
 
-http://potplayer.tv/
+> 1、下载安装文件
+> Office Tool 可以从微软服务器获取最新版的 Office 安装文件，使用安装文件可以离线安装 Office；也可以将安装文件进行分享，从而节省带宽或者是方便管理。
+>
+> 2、配置并安装 Office
+> Office Tool 默认配置好安装设置，普通用户只需点击即可开始安装。同时我们为高级用户开设了多种安装选项，无论是安装前亦是安装后都可以轻松配置 Office。
+>
+> 3、激活您的许可证
+> 如果您无法通过 Office 的激活向导激活 Office，Office Tool 可以为您安装密钥或者配置 KMS 服务。同时高级管理可以让您轻松管理 Office 的授权配置
 
-**PotPlayer是Windows系统非常纯净良心的一款音视频播放器，几乎可以播放所有视频和音频格式**，最牛的是它支持外部插件，可以做到电&视&直&播 ，而且它体积非常小，而且没有任何广告。
+- 即书（在线制作PPT）：https://www.keysuper.com/
+- PDF处理：https://smallpdf.com/cn
+- PDF处理：https://www.ilovepdf.com/zh-cn
+- PDF处理：https://www.pdfpai.com/
+- PDF处理：https://www.hipdf.cn/
+- https://www.pdfgear.com/zh/
+- 图片压缩，PDF处理：https://docsmall.com/
+- 腾讯文档（在线协作编辑和管理文档）：docs.qq.com
+- ProcessOn（在线协作制作结构图）：www.processon.com
+- iLovePDF（在线转换PDF利器）：www.ilovepdf.com
+- PPT在线制作：https://www.woodo.cn/
+- PDF24工具（pdf处理工具）：https://tools.pdf24.org/en
+- IMGBOT（在线图片处理）：www.imgbot.ai
+- 福昕云编辑（在线编辑PDF）：edit.foxitcloud.cn
+- TinyPNG（在线压缩图片）：tinypng.com
+- UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件套）：uzer.me
+- 优品PPT（模板下载）：http://www.ypppt.com/
+- 第一PPT（模板下载）：http://www.1ppt.com/xiazai/
+- 三顿PPT导航：sandunppt.com
+- Excel函数表：https://support.office.com/zh-cn/office/excel-函数-按字母顺序-b3944572-255d-4efb-bb96-c6d90033e188
 
-PotPlayer是 KMPlayer 的原制作者姜龙喜新一代网络播放器。
+文本转图片：https://share.lovejade.cn/
 
-**PotPlayer 的优势在于强大的内置解码器**，而 KMPlayer 的优势在于强大的定制能力和个性化功能。
+## PDF派
+
+https://www.pdfpai.com/
+
+把PDF转成Word、Excel、PPT等Office格式，也可以将PDF转为JPG图片格式。
+
+同样，它可以将Office、iWork、电子书、图像等转换为PDF。
+
+同时，它还可以解锁PDF，拆分PDF，旋转PDF，压缩PDF，加密PDF，合并PDF，PDF添加水印，PDF添加页码，导出PDF图片，调整PDF页面，删除PDF页面，图片格式转换，将图片文件格式转换成其他图片。
+
+它还是一个免费的在线图片格式转换工具：PNG转JPG、HEIC转JPG、TIF转JPG、BMP转JPG、制作GIF、JPG转PNG、GIF转JPG、IF转PNG。
+
+## 布丁扫描
+
+https://www.budingscan.com/
+
+布丁扫描是一款功能特别强大的扫描工具，它所有功能都是免费的。
+
+**文档扫描，支持多拍，生成PDF，而且自带的AI 超清滤镜，可以去除阴影，还有文档矫正的效果**
+
+## SmallPDF
+
+https://smallpdf.com/cn
+
+SmallPDF 是一个功能强大的PDF 在线工具。
+
+它不仅可以压缩，合并，旋转，分割PDF，还可以解密加密PDF。
+
+还可以将Word，Excel，图片和PDF 相互之间转换。
+
+## EXCEL表格
+
+### 文图
+
+地址：**https://www.wentu.io/**
+
+文图可以根据`excel`里的数据，自动生成对应的统计图形，样式可以自由切换，生成PDF、JPG等格式。
+
+# chat tools
+
+## wechat
+
+[微信聊天记录合集导出助手使用说明 | 新媒体数据工具](https://www.xiaokuake.com/p/chatgroup.html)

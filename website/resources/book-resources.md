@@ -1,16 +1,7 @@
-- 书栈网（极力推荐）：https://www.bookstack.cn/
-- 码农之家（计算机电子书下载）：www.xz577.com
 - 鸠摩搜书：www.jiumodiary.com
 - 云海电子图书馆：www.pdfbook.cn
-- 周读（书籍搜索）：ireadweek.com
-- 知轩藏书：http://www.zxcs.me/
-- 脚本之家电子书下载：https://www.jb51.net/books/
-- 搜书VIP-电子书搜索：http://www.soshuvip.com/all.html
 - 书格（在线古籍图书馆）：https://new.shuge.org/
 - caj云阅读：http://cajviewer.cnki.net/cajcloud/
-- 必看网（人生必看的书籍）：https://www.biikan.com/
-- kanshuy1234.com
-- **飞速中文网**：m.feibzw.com
 
 找书神器：https://mianfei22.com/
 
@@ -35,6 +26,18 @@
 **mianfei22**：https://mianfei22.com
 
 一个聚合了多个热门书源的在线书库
+
+[Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-lib.fm/?ts=0501)
+
+
+
+# 网络文学
+
+**飞速中文网**：m.feibzw.com
+
+80电子书：https://txt80.cc 
+
+海洋听书网：www.ychy.org
 
 # 阅读书源
 

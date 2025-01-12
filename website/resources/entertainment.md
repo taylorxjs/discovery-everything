@@ -24,13 +24,15 @@ MusicEnc: https://www.musicenc.com/
 
 hifini：https://hifini.com
 
-果核音乐2.2：https://ghyinyue.com//#/home
-
 下歌吧：https://xiageba.com/
 
 23ape.net：http://www.23ape.net/
 
 **FreePD**：*https://freepd.com/horror.php*
+
+**freemp3：**https://freemp3cn.com/zh#
+
+
 
 ## voice
 

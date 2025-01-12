@@ -1,3 +1,5 @@
+# 动漫
+
 哈里哈里  halihali11.com  域名已更改为halihali18.com,备用域名halihali.icu
 
 > http://halihali1.top/acg/75230/4.html?qp=lz
@@ -9,6 +11,12 @@ www.gugufan.com
 **樱花动漫**：https://yhdmkk.com/  http://www.dm88.me/ https://yhdmoe.com/
 
 **AGE动漫**：https://www.agemys.net/
+
+> 地址发布页：https://github.com/agefanscom/website	https://rentry.la/agefans
+>
+> 永久地址：age.tv、agefans.com
+>
+> 
 
 **哈哩哈哩**：http://halihali1.com/
 
@@ -62,8 +70,40 @@ www.gugufan.com
 
 **火狼动漫网**：https://www.gift188.com/
 
-**Z动漫**：https://www.dm2022.com/
+> https://www.29dm.cc/
 
 **喵物次元**：**https://www.mwcy.net/**
 
 **airAnime**: **https://air.tls.moe/**
+
+
+
+## 翻墙站
+
+https://www.29dm.cc/
+
+# 漫画
+
+搜漫：https://www.hisoman.com/
+
+动漫屋：https://www.dm5.com/
+
+漫客栈：https://www.mkzhan.com/category/
+
+漫本：http://www.manben.com/
+
+爱国漫：https://www.aiguoman.com/category/list/2
+
+包子漫画：https://cn.baozimh.com/classify
+
+看漫画：https://www.kanman.com/
+
+漫画屋：https://www.mhua5.com/manhuatai.com
+gufengmh8.com
+bnmanhua.com
+kuman55.com
+1kkk.com
+manhuaren.com
+kuaikanmanhua.com
+manga.bilibili.com
+
