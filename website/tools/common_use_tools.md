@@ -44,6 +44,8 @@ Avira 密码管家：https://www.avira.com/zh-cn/password-manager
 
 快速启动：https://fluentsearch.net/
 
+https://www.30aitool.com/ 一个由B站UP主@**名字就叫30** 耗时7个月制作的工具网站，网站内**提供了各种实用工具和资源，包括图片、视频、文档、资源和AI各个方面**，旨在为用户提供便捷的工具和资源。
+
 ## screenshot
 
 ### ShareX

@@ -32,6 +32,14 @@ PanSearch https://www.pansearch.me
 
 [网盘搜索-盘搜-网盘资源搜索引擎-阿里云盘资源-夸克云盘资源](https://panso.pro/)
 
+盘搜搜：https://mso.pansoso.com/
+
+熊猫搜盘：https://www.sopandas.com
+
+盘131：https://www.pan131.com/
+
+小不点搜索：https://www.xiaoso.net/
+
 # baiduNetDisk
 
 尚硅谷Java大厂面试题第4季：https://pan.baidu.com/wap/init?surl=rxOJ1JGMaZXDJS1PeO4DPw

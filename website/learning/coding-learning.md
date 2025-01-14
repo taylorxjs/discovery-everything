@@ -1,3 +1,11 @@
+软件测试开发工程师学习路径：https://www.processon.com/view/link/628327aa1efad40df048cfc9
+
+大数据开发工程师：https://www.processon.com/view/link/634a47cb637689070a54b8b8
+
+架构师相关：https://www.processon.com/view/link/62aa95210791290725beb8e8
+
+
+
 # OfficialWeb
 
 1.[DengFOC官方文档](http://dengfoc.com/#/)
@@ -142,6 +150,12 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [Computer Science - cs.fyi](https://cs.fyi/)
 
+[小白的编程之路](https://xingkongdiyiren.github.io/myblog/)
+
+
+
+
+
 # Organization
 
 ## Heima
@@ -187,6 +201,14 @@ http://www.atguigu.com/download.shtml
 它完全免费，主要特点是图片、文字和代码相结合，精美的图片和优雅的图文排版，还有一目了然的多语言代码
 
 https://www.hello-algo.com/
+
+[CodeTop](https://codetop.cc/home)
+
+[力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
+
+[牛客网在线编程_算法面试_面试必刷TOP101](https://www.nowcoder.com/exam/oj?questionJobId=10&subTabName=online_coding_page)
+
+[AcWing - 在线题库](https://www.acwing.com/problem/)
 
 # 计算机技术
 
@@ -242,7 +264,22 @@ https://hollischuang.github.io/toBeTopJavaer/#/menu
 
 [小白的编程之路 (xingkongdiyiren.github.io)](https://xingkongdiyiren.github.io/myblog/)
 
+[Java Development at Microsoft | Code, Deploy, Scale](https://developer.microsoft.com/en-us/java)
 
+基础版教程：https://www.processon.com/view/link/60c101fa0e3e7468f4c4b96f（视频版）
+体系版教程：https://www.processon.com/view/link/6138ef1f0e3e7412ece02f8c（文档版）
+
+[小白的java学习之路](https://www.yuque.com/zhzbaishen/ldbu6i)
+
+[面试专题](https://www.yuque.com/zhzbaishen/vsm0f2)
+
+[hutool工具](https://www.hutool.cn/docs/#/)
+
+[项目主页 | mall学习教程](https://www.macrozheng.com/#/architect/mall_arch_10)
+
+[微服务：Spring Cloud | 凤凰架构](https://icyfenix.cn/exploration/projects/microservice_arch_springcloud.html)
+
+[Java-Interview-Advanced: 中华石杉--互联网Java面试训练营](https://gitee.com/shishan100/Java-Interview-Advanced#面试指南)
 
 ## 前端
 

@@ -84,7 +84,9 @@ https://planetscale.com/learn/courses/database-scaling
 
 ## programe
 
+https://github.com/alibaba/testable-mock、https://alibaba.github.io/testable-mock/
 
+> 最轻量、简单、舒适的 Mock 测试工具，功能十分强大，媲美 PowerMock，用法比 Mockito 还要简洁
 
 **程序员长寿指南**：https://github.com/geekan/HowToLiveLonger
 
@@ -108,6 +110,10 @@ https://github.com/datawhalechina/intro-mathmodel
 
 
 ## software
+
+https://github.com/rizonesoft/Notepad3 巨大文件打开器+各种语法高亮，是一个免费且开源的文本编辑器，它不仅仅是一个简单的替代 Windows 内置的记事本，而是集成了多种高级功能和自定义选项，能够为程序员、Web开发者以及日常用户带来更高效、便捷的文本编辑体验
+
+
 
 https://github.com/TG-Twilight/AWAvenue-Ads-Rule 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等¹，与其它动辄成千上万条的广告规则相比，秋风广告规则有着极致的体积控制、超高的命中率和极低的硬件要求。
 
@@ -340,6 +346,10 @@ https://github.com/BookerLiu/GeekDesk
 
 https://gitee.com/
 
+[dynamic-tp: 轻量级动态线程池，内置监控告警功能，基于主流配置中心（已支持Nacos、Apollo、ZK，可通过SPI自定义实现](https://gitee.com/dromara/dynamic-tp/tree/develop)
+
+
+
 [JavaGuide (gitee.io)](https://snailclimb.gitee.io/javaguide/#/)
 
 [互联网 Java 工程师进阶知识完全扫盲 - Doocs 技术社区 (gitee.io)](https://doocs.gitee.io/advanced-java/#/?id=互联网-java-工程师进阶知识完全扫盲)
@@ -369,6 +379,18 @@ https://www.52pojie.cn/thread-1934740-1-1.html
 # CSDN
 
 https://gitcode.net/binghe001/seckill/-/issues
+
+SpringCloud Alibaba-精读Nacos+CMDB+核心源码阅读：https://blog.csdn.net/zhouhengzhe/article/details/127827831
+
+异步编程~CompletableFuture精读：https://blog.csdn.net/zhouhengzhe/article/details/142337551?sharetype=blogdetail&sharerId=142337551&sharerefer=PC&sharesource=zhouhengzhe&spm=1011.2480.3001.8118
+
+面试突击版(JUC+JVM+Redis+SSM+SpringBoot+MQ)：https://blog.csdn.net/zhouhengzhe/article/details/114260521
+
+SpringBoot项目中集成Kaptcha验证码生成库，配置验证码参数，以及将其存储到Redis缓存：https://blog.csdn.net/dfdg345/article/details/136852933
+
+[面试专题——MySQL](https://blog.csdn.net/zhouhengzhe/article/details/113357162)
+
+
 
 # youtube
 

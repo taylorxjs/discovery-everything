@@ -133,6 +133,12 @@ https://www.examcoo.com/一个永久免费的电子作业与在线考试系统�
 
 https://www.syzx-edu.com/
 
+**19.大学生资源网**
+
+提供了小学到大学乃至考研、四六级、雅思托福、资格考试等各种视频教程，可以说相当全面了，并且几乎都是免费的
+
+www.dxzy163.com
+
 ## 人文艺术
 
 **1. Artlib世界艺术鉴赏库**
@@ -311,6 +317,10 @@ Coursera
 
 britishcouncil.cn
 
+### words
+
+www.gooddict.top 只需要在网站里输入一个单词，它会给你提供全面且详细的信息，比如音标(可播放)、翻译、词根、同义词反义词、短语，**为了能让你更深刻的记住，它甚至还会给你编一个故事。**
+
 ### Listen
 
 #### 听力特快
@@ -318,6 +328,10 @@ britishcouncil.cn
 这是一个非常棒的免费在线英语听力网站，里面有着最新更新的VOA(慢速/常速)、BBC全球新闻、流行美语、影视英语等丰富内容。
 
 **使用地址：****https://www.listeningexpress.com/**
+
+[句乐部](https://julebu.co/course-pack/z627gosu18ct79hr98a4qhyn) 一个开源的英语学习工具，跟上面那个网站截然不同，主打的就是以“**游戏化**”的形式来愉快的学习英语。
+
+开源地址：https://github.com/cuixueshe/earthworm
 
 ### spoken
 
