@@ -1,5 +1,4 @@
 - 鸠摩搜书：www.jiumodiary.com
-- 云海电子图书馆：www.pdfbook.cn
 - 书格（在线古籍图书馆）：https://new.shuge.org/
 - caj云阅读：http://cajviewer.cnki.net/cajcloud/
 
@@ -38,6 +37,8 @@
 80电子书：https://txt80.cc 
 
 海洋听书网：www.ychy.org
+
+[爱去小说网](https://www.aiqu127.com/)
 
 # 阅读书源
 

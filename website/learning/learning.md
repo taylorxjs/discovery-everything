@@ -1,5 +1,7 @@
 # integrated
 
+[金榜题名](http://qzbltushu.ysepan.com/)
+
 **学吧导航**
 
 40万学习爱好者都在用资源站点，涵盖了 外语学习 编程算法 电脑办公 创意设计 电子书籍 考研考公 音乐艺术 数理化生等13个大分类
@@ -321,6 +323,8 @@ britishcouncil.cn
 
 www.gooddict.top 只需要在网站里输入一个单词，它会给你提供全面且详细的信息，比如音标(可播放)、翻译、词根、同义词反义词、短语，**为了能让你更深刻的记住，它甚至还会给你编一个故事。**
 
+https://wordsfunny.com/BeiShiGaoZhong_4/words
+
 ### Listen
 
 #### 听力特快
@@ -344,6 +348,94 @@ www.gooddict.top 只需要在网站里输入一个单词，它会给你提供全
 英语角：
 
 meetup网站，输入English language exchange，chengdu,CN
+
+https://pi.ai/discover
+
+### read
+
+**一、中国内地可访问的优秀英文信息源**
+
+1、英国《经济学家》 http://www.economist.com
+
+2、美联社 http://wire.ap.org/GoToAP.cgi
+
+3、英国BBC http://news.bbc.co.uk
+
+4、《纽约时报》 http://www.nytimes.com
+
+5、普利策新闻奖1995年到2001年全部获奖作品 http://www.pulitzer.org
+
+6、美国全国广播公司 http://www.msnbc.com/news
+
+7、《华尔街日报》评论 http://www.opinionjournal.com
+
+8、香港《南华早报》 http://china.scmp.com/index.html
+
+
+
+**二、英美外电新闻**
+
+1、《泰晤士报》http://www.thetimes.co.uk
+
+2、《基督教科学箴言报》http://www.csmonit123com
+
+3、《今日美国》http://usatoday.com
+
+4、美国广播公司http://abcnews.go.com
+
+5、英国《观察家》http://www.observer.co.uk
+
+6、英国《每日电讯》http://www.dailytelegraph.co.uk
+
+
+
+**三、英美周刊杂志**
+
+1、《每周标准》http://www.weeklystandard.com
+
+2、《外交事务杂志》http://www.foreignaffairs.orghttp:/...eignaffairs.org
+
+3、《国家评论》http://www.nationalreview.com
+
+4、《国家杂志》http://nationaljournal.com/about/njweekly/stories/
+
+5、《纽约客》http://www.newyorker.com/
+
+6、《纽约书评》 http://www.nybooks.com/
+
+7、《外交政策》http://www.foreignpolicy.com/
+
+8、《大西洋月刊》The Atlantic Online http://www.theatlantic.com//
+
+
+
+**四、时事资料**
+
+1、安全政策研究中心http://www.centerforsecuritypolicy.org/
+
+2、美国国务院 http://www.state.gov/r/pa/bgn/
+
+3、世界各国地图 http://www.lib.utexas.edu/maps/index.html
+
+4、卫星照片http://www.spaceimaging.com/
+
+5、网上各国政府资料http://www.gksoft.com/govt/en/
+
+6、中国外交部各国背景 http://www.fmprc.gov.cn/chn/c242.html
+
+
+
+**五、英美常用经济网站**
+
+1、英国《金融时报》http://news.ft.com/home/rw
+
+2、《商业周刊》http://news.ft.com/home/rw
+
+3、《财富》http://www.fortune.com/fortune
+
+4、《远东经济评论》http://www.feer.com
+
+5、《福布斯》http://www.forbes.com
 
 ## Japanese
 

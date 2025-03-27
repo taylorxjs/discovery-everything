@@ -4,7 +4,9 @@
 
 官方公告：https://blog.github.com/2018-04-19-introducing-github-learning-lab/
 
-## AI大模型
+## AI
+
+https://github.com/xtekky/gpt4free
 
 Chinese-LLaMA-Alpaca：https://github.com/ymcui/Chinese-LLaMA-Alpaca
 
@@ -28,7 +30,15 @@ GitHub：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 >
 > 而且还涵盖了底层模型、数据集、微调框架、推理部署框架、评测方法和相关教程。
 
+github.com/hpcaitech/Open-Sora
+
+https://github.com/camel-ai/owl
+
+https://github.com/Shubhamsaboo/awesome-llm-apps
+
 ## Computer Science
+
+https://github.com/CyC2018/CS-Notes
 
 ### Algorithm
 
@@ -46,15 +56,23 @@ https://github.com/cosen1024/awesome-cs-books
 
 ## coding
 
+https://github.com/kamranahmedse/developer-roadmap
+
 ### 架构设计
 
 system-design-primer
+
+https://github.com/youngyangyang04/kama-DesignPattern
 
 ### Java
 
 https://github.com/henryr/cap-faq
 
+https://github.com/LinShunKang/MyPerf4J 针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具
 
+### Go
+
+https://github.com/GopeedLab/gopeed
 
 ### Rust
 
@@ -81,6 +99,16 @@ Python-Markdown是一个非常有用的工具，它可以帮助开发者轻松�
 ### 数据库
 
 https://planetscale.com/learn/courses/database-scaling
+
+https://github.com/redis/ioredis
+
+### 机器学习
+
+https://github.com/fengdu78/WZU-machine-learning-course
+
+### 前端
+
+https://github.com/outline/outline Outline是一款开源的团队知识库工具，它提供了现代化、直观的文档管理和协作体验，帮助团队高效存储、组织和共享知识。该项目使用 Node.js 和 React 进行开发，并基于 PostgreSQL 作为数据库。Outline 支持本地部署，也可以通过云平台快速启动，适用于各种规模的团队。
 
 ## programe
 
@@ -111,9 +139,15 @@ https://github.com/datawhalechina/intro-mathmodel
 
 ## software
 
+https://github.com/getomni-ai/zerox 将 PDF、DOCX、图片等格式的文档转换为 Markdown，通过视觉模型（如 GPT-4o-mini）实现 OCR 并直接生成结构化内容。
+
+https://github.com/renyunkang/yuque-exporter 一个基于puppeteer 来模拟用户在浏览器的操作一篇一篇的导出语雀文档的工具。
+
+https://github.com/doocs/md Markdown 文档自动即时渲染为微信图文，让你不再为微信内容排版而发愁！只要你会基本的 Markdown 语法，就能做出一篇样式简洁而又美观大方的微信图文。
+
+https://github.com/xushengfeng/eSearch 拥有 **截屏+OCR+搜索+翻译+贴图+屏幕翻译+以图搜图+滚动截屏+录屏**
+
 https://github.com/rizonesoft/Notepad3 巨大文件打开器+各种语法高亮，是一个免费且开源的文本编辑器，它不仅仅是一个简单的替代 Windows 内置的记事本，而是集成了多种高级功能和自定义选项，能够为程序员、Web开发者以及日常用户带来更高效、便捷的文本编辑体验
-
-
 
 https://github.com/TG-Twilight/AWAvenue-Ads-Rule 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等¹，与其它动辄成千上万条的广告规则相比，秋风广告规则有着极致的体积控制、超高的命中率和极低的硬件要求。
 
@@ -200,6 +234,8 @@ https://github.com/barry-ran/QtScrcpy
 
 https://github.com/schlagmichdoch/PairDrop
 
+https://github.com/songquanpeng/go-file *件分享工具，仅单个可执行文件，开箱即用，可用于局域网内分享文件和文件夹，直接跑满本地带宽*
+
 ### 学习软件
 
 https://github.com//noodle-run/noodle  正在开发中
@@ -222,6 +258,10 @@ https://tencent.github.io/tmagic-editor/docs/guide/ tmagic-editor可视化开源
 
 微信公众号文章下载：https://github.com/xiaoguyu/wechatDownload
 
+https://github.com/KurtBestor/Hitomi-Downloader
+
+https://github.com/putyy/res-downloader
+
 
 ### app
 
@@ -235,6 +275,10 @@ https://github.com/ZCShou/GoGoGo Java开发修改定位
 
 ### interview
 
+GitHub - miss-mumu/developer2gwy: 公务员从入门到上岸，最佳程序员公考实践教程
+
+GitHub - MikeCreken/lanlanInterview: 此仓库将包含各大银行的基本介绍，笔试面试特点
+
 https://github.com/KrisCheng/500-interview-question-for-programmers
 
 https://github.com/cosen1024/Java-Interview
@@ -242,6 +286,13 @@ https://github.com/cosen1024/Java-Interview
 https://github.com/jwasham/coding-interview-university
 
 ## 待识别
+
+https://github.com/alyssaxuu/screenity
+
+https://github.com/sindresorhus/awesome
+
+https://github.com/getmaxun/maxun
+Maxun 是一款全新的开源网页数据爬取平台，提供了简单易用的图形界面，可以让用户无需编写任何代码，就能轻松抓取网站数据。
 
 https://github.com/chatmcp/mcp-server-chatsum  识别群聊信息并借助大模型进行总结提炼
 
@@ -348,7 +399,7 @@ https://gitee.com/
 
 [dynamic-tp: 轻量级动态线程池，内置监控告警功能，基于主流配置中心（已支持Nacos、Apollo、ZK，可通过SPI自定义实现](https://gitee.com/dromara/dynamic-tp/tree/develop)
 
-
+[充电桩项目集 - tianweichang (trsunmu) - Gitee.com](https://gitee.com/trsunmu/collections/478121)
 
 [JavaGuide (gitee.io)](https://snailclimb.gitee.io/javaguide/#/)
 
@@ -390,13 +441,23 @@ SpringBoot项目中集成Kaptcha验证码生成库，配置验证码参数，以
 
 [面试专题——MySQL](https://blog.csdn.net/zhouhengzhe/article/details/113357162)
 
+[反射获取对象中的list数据_如何通过反射拿到list的数据类型-CSDN博客](https://blog.csdn.net/qq_42151769/article/details/96496612)
+
 
 
 # youtube
 
 https://www.youtube.com/watch?v=zSMTcynpf5Y
 
+# v2ex
 
+关于“中国程序员赴日”的这个问题：https://jp.v2ex.com/t/1050939
+
+职场话题：https://www.v2ex.com/go/career
+
+# qq频道
+
+https://pd.qq.com/
 
 # 论坛社区
 
@@ -433,13 +494,9 @@ https://www.youtube.com/watch?v=zSMTcynpf5Y
 - 工具导航：https://hao.logosc.cn/
 - 一糖导航：**https://iitang.com/**
 
-搜软：*https://www.souruan.org/index.html*
+[星塔导航](https://www.medfav.com/webnav/)
 
 [图欧学习资源导航 - 终身学习者的导航站 (upnb.top)](https://tuostudy.upnb.top/)
-
-[阿虚同学的储物间 (axutongxue.com)](https://axutongxue.com/)
-
-[六音软件永久地址发布页，收藏我回家不迷路！ (6yso.com)](https://www.6yso.com/)
 
 [嘀哩嘀哩导航 | 一个有用的导航 (dlidli.wang)](https://dlidli.wang/)
 
@@ -460,4 +517,8 @@ https://www.19910927.xyz/
 无知资源书签
 
 https://wuzhi.zhubai.love/posts/2306125610919342080
+
+[维格云 万万集](https://vika.cn/share/shrtfZcvQhbUbueNB5FUr/dstQvcdxqTTbCiiDxt)
+
+> 137 从新手到大神：剪辑师实战就业班，深度培养创作思维
 

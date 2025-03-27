@@ -7,3 +7,5 @@
 上海的互联网是要崩塌了吗？https://www.zhihu.com/question/601365456/answer/3496171621
 
 中国程序员去日本当程序员容易吗？https://www.zhihu.com/question/308676944/answer/2414934630
+
+[WebRTC信令服务器原理](https://zhuanlan.zhihu.com/p/522727179)

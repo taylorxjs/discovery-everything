@@ -50,8 +50,6 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [SegmentFault 思否](https://segmentfault.com/)
 
-[OSCHINA - 中文开源技术交流社区](https://www.oschina.net/)
-
 [技术成就梦想51CTO-中国领先的IT技术网站](https://51cto.com/)
 
 [V2EX](https://www.v2ex.com/)
@@ -122,7 +120,7 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [Alibaba Java 技术图谱-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/graph/java?spm=a2c6h.21110250.J_3487140370.11.2617760fay43rK)
 
-编程学习交流：编程导航：https://www.codefather.cn/
+编程导航：https://www.codefather.cn/
 
 [LINUX DO - 新的理想型社区](https://linux.do/)
 
@@ -130,7 +128,7 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [论坛-Chinaunix](http://bbs.chinaunix.net/)
 
-
+[笨鸟编程导航 - 专注于独立开发者出海导航](https://www.j301.cn/)
 
 ## PersonalBlog
 
@@ -152,9 +150,13 @@ IT技能软件全覆盖，包括150余种专业技能软件教学视频和大量
 
 [小白的编程之路](https://xingkongdiyiren.github.io/myblog/)
 
+[ManateeLazyCat](https://manateelazycat.github.io/)
 
+yuque.com/leifengyang
 
+[吾爱我家IT](https://52it.cc/)
 
+[常用软件 - YES开发框架,WEB开发框架,.Winform开发框架](https://www.yesdotnet.com/archive/softs/list.html?viewfirst=true)
 
 # Organization
 
@@ -210,6 +212,10 @@ https://www.hello-algo.com/
 
 [AcWing - 在线题库](https://www.acwing.com/problem/)
 
+[AtCoder](https://atcoder.jp/home)
+
+[首页 - CodeFun2000](https://codefun2000.com/)
+
 # 计算机技术
 
 ## 网络安全
@@ -237,8 +243,6 @@ https://www.hello-algo.com/
 [白马程序员](https://www.itbaima.cn/#/)
 
 [Java全栈知识体系](https://pdai.tech/)
-
-[汪明鑫的个人博客](http://xinyeshuaiqi.cn/ "分享学习笔记及工作经验")
 
 [简言之](https://jwt1399.top/)
 
@@ -280,6 +284,12 @@ https://hollischuang.github.io/toBeTopJavaer/#/menu
 [微服务：Spring Cloud | 凤凰架构](https://icyfenix.cn/exploration/projects/microservice_arch_springcloud.html)
 
 [Java-Interview-Advanced: 中华石杉--互联网Java面试训练营](https://gitee.com/shishan100/Java-Interview-Advanced#面试指南)
+
+[Dubbo 介绍 | Apache Dubbo](https://cn.dubbo.apache.org/zh-cn/overview/what/)
+
+### project
+
+
 
 ## 前端
 
@@ -355,19 +365,25 @@ Awesome Ethereum: 以太坊和 Dapps 资源，https://github.com/bekatom/awesome
 
 # 运维
 
-### CDN
+[Open Source | Harness Developer Hub](https://developer.harness.io/docs/open-source/)
+
+## 云原生
+
+[Sealos-专为云原生开发打造的以K8s为内核的云操作系统](https://sealos.run/)
+
+## CDN
 
 [The CDN for developers - Statically](https://statically.io/)
 
 
 
-### Docker
+## Docker
 
 [docker-compose: 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器](https://gitee.com/zhengqingya/docker-compose)
 
 
 
-### VPS
+## VPS
 
 [DigitalOcean | The Cloud for Builders](https://www.digitalocean.com/)
 
@@ -375,6 +391,8 @@ Awesome Ethereum: 以太坊和 Dapps 资源，https://github.com/bekatom/awesome
 
 项目名称：database-scaling项目链接：https://planetscale.com/learn/courses/database-scaling
 database-scaling是什么？一个针对数据库架构设计的免费课程。
+
+[A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
 
 ## MySQL
 
@@ -391,6 +409,10 @@ database-scaling是什么？一个针对数据库架构设计的免费课程。
 ## Redis
 
 [Redis中文学习网 - Redis开发与运维技术、Redis教程、使用手册](https://redis.com.cn/)
+
+## 国产数据库
+
+[Home | TiDB Docs](https://docs.pingcap.com/)
 
 # 前端
 

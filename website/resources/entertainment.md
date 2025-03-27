@@ -32,7 +32,7 @@ hifini：https://hifini.com
 
 **freemp3：**https://freemp3cn.com/zh#
 
-
+[笒鬼鬼音乐盒](https://cenguigui.cn/music/)
 
 ## voice
 

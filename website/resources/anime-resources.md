@@ -1,10 +1,10 @@
 # 动漫
 
-哈里哈里  halihali11.com  域名已更改为halihali18.com,备用域名halihali.icu
+哈里哈里http://halihali19.com/ 域名已更改为halihali18.com,备用域名halihali.icu
 
 > http://halihali1.top/acg/75230/4.html?qp=lz
 
-www.gugufan.com
+www.gugufan.com www.gugufan.xyz
 
 **动漫视频网**：http://www.zzzfun.com/
 
@@ -34,17 +34,11 @@ www.gugufan.com
 
 **嘀哩嘀哩**：https://dilidili.online/
 
-**奇米奇米**：http://www.qimiqimi.co/
-
 **咪哩咪哩**：http://www.milimili.tv/
 
 **Anime1.me**：https://anime1.me/
 
 **吐槽弹幕网**：https://www.tucao.cam/
-
-**哔咪动漫**：https://www.bimiacg4.net/
-
-**卡通站**：https://www.ktkkt.top/
 
 **动漫岛**：http://www.dmd85.com/
 
@@ -76,7 +70,7 @@ www.gugufan.com
 
 **airAnime**: **https://air.tls.moe/**
 
-
+樱花动漫：https://yhdm6.top/
 
 ## 翻墙站
 

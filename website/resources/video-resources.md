@@ -2,7 +2,7 @@
 
 [NO视频 – 不负追剧好时光 (￣▽￣)"](https://www.novipnoad.net/)
 
-[`` - 超级文档](https://sdocapp.com/s/iqGA8j5kcYETZGGsa) 网盘资源
+[星光影院](https://xunaizhan.com/)
 
 # television
 
@@ -157,9 +157,9 @@ https://www.juwanhezi.com/other/jsonlist?type=one
 
 **电影推荐（分类别致）**：http://www.mvcat.com
 
-**阿木影视**：https://www.aosk.online/
-
 **搜片**：https://soupian.pro/  soupian.icu
+
+[电影天堂蓝光站](https://www.dyttlg1.com/)
 
 **7080影视搜**：https://7080.wang/
 
@@ -183,7 +183,7 @@ https://www.juwanhezi.com/other/jsonlist?type=one
 
 **电影港**：http://www.dygangs.net/
 
-**电影先生**：http://dyxs7.xyz/
+**电影先生**：http://dyxs7.xyz/ **dyxs.me** **dyxs.de**
 
 **555电影**：https://www.555dyy1.com/  https://555dy.cc/
 
@@ -252,6 +252,11 @@ https://www.juwanhezi.com/other/jsonlist?type=one
 **可可影视**：https://www.keke12.com:51111/
 
 全部影视：https://gaze.run/
+
+网飞猫：www.ncat21.com
+
+> 最新官网：www.ncat22.com
+> 最新官网：www.ncat23.com
 
 # live
 

@@ -4,11 +4,15 @@
 
 https://jianlixiazai.cn/ 简历下载网，有你想要的**各种款式简历模板，全部都一键免费下载**，还可以自由编辑，想怎么改就怎么改，设计简约大方。
 
+[Markdown简历排版工具](https://resume.mdnice.com/)
+
+[超级简历WonderCV](https://www.wondercv.com/)
+
 # interview
 
 AI面试神器助手：interviewpass.top
 
-
+[面试鸭 - 程序员求职面试刷题神器，高频编程题目免费刷](https://www.mianshiya.com/)
 
 # 离职
 

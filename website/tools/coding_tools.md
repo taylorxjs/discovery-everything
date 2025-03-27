@@ -1,93 +1,8 @@
-# 代码编辑工具
-
-## Zed
-
-一款支持**多人协作**的代码编辑器，由 Atom 编辑器原作者主导，其底层采用 Rust 编写、默认支持 Rust，还自带了 rust-analyzer，主打 “高性能”——作者表示希望将 Zed 打造为世界上最好的文本编辑器。
-
-*https://zed.dev/blog/zed-decoded-linux-when*
-
-# 版本管理工具
-
-## Git
-
-[Git - Downloading Package](https://git-scm.com/downloads/win)
-
-## vfox
-
-GitHub 地址：https://github.com/version-fox/vfox
-
-vfox 是一个类 nvm、fvm、sdkman、asdf 的版本管理工具，具有**跨平台**、**通用**、**易拓展**的特性：
-
-- 简单：安装简单，一套命令管理所有语言
-- 跨平台：支持 **Windows**、Linux、macOS
-- 人性化：换项目时**自动切换到对应编程语言**、支持自动补全
-- 扩展性：容易上手的插件系统，添加冷门的编程语言
-- 作用域：支持 Global、Project、Session 三种作用域
-
-## Gitkraken
-
-官网：https://www.gitkraken.com
-
-GitKraken 是一款专门用于管理和协作Git仓库的图形化界面工具。它拥有友好直观的界面，使得Git的操作变得更加简单易用，尤其适合那些不熟悉Git命令行的开发者。GitKraken提供了丰富的功能，如代码审查、分支管理、仓库克隆、提交、推送和拉取等。它还可以与 GitHub、Gitee 等代码托管平台无缝集成，方便用户进行代码托管和协作。
-
-除了基本的Git操作外，GitKraken还提供了一些高级功能，如可视化分支图、实时代码差异对比、代码搜索等，帮助开发者更高效地管理和理解代码。它还支持多平台，包括Linux、Mac和Windows系统。
-
-## Fork
-
-官网：https://git-fork.com
-
-Fork 是一款实用的 Git 客户端，它提供了直观的用户界面和各种实用工具，旨在简化Git操作，让开发者更容易地管理他们的代码仓库。Fork客户端支持多仓库管理、分支切换、代码合并、冲突解决等功能，还提供了实时的代码差异对比、提交历史记录查看、分支可视化等特性。
-
-此外，Fork客户端也支持任务列表管理、代码注释、代码搜索等，这些功能对于项目管理和团队协作非常实用。Fork 目前支持在 Windows 和 MacOS 上使用。
-
-## SourceTree
-
-官网：https://www.sourcetreeapp.com
-
-SourceTree 支持 Git 项目的创建、克隆、提交、push、pull 和合并等操作。通过它，用户可以轻松地管理多个仓库，切换分支，合并代码，解决冲突等。此外，SourceTree 还提供了实时的代码差异对比、提交历史记录查看、分支可视化等功能，帮助开发者更好地理解和跟踪代码的变化。
-
-除了基本的 Git 操作外，SourceTree 还支持任务列表管理、代码注释、代码搜索等实用功能，方便开发者进行项目管理和团队协作。它还允许用户设置默认的项目存储位置，避免了每次都需要手动选择项目存放路径的麻烦。
-
-## SmartGit
-
-官网：https://www.syntevo.com/smartgit/
-
-SmartGit是一款免费的、专业的Git版本控制系统的图形化客户端。它适用于Windows、Mac和Linux等多种操作系统，并提供了丰富的功能和直观的用户界面，使得Git操作变得更加简单和高效。SmartGit支持创建、克隆、推送、拉取、合并和管理Git仓库。它还提供了强大的分支管理功能，包括创建、切换、合并和删除分支等。通过SmartGit，用户可以轻松地查看和管理仓库的提交历史、分支和标签。
-
-此外，SmartGit还支持代码审查、实时语法高亮、代码搜索和比较等功能，帮助开发者更高效地编写和审查代码。
-
-## TortoiseGit
-
-官网：https://tortoisegit.org/
-
-TortoiseGit 是一个开源的 Git 客户端，也就是我们常说的“小乌龟”。它是 TortoiseSVN 的姊妹项目，专门为 Windows 平台设计。TortoiseGit 提供了一个图形化的用户界面，使得 Git 的操作更加直观和方便。
-
-TortoiseGit 集成在 Windows 的资源管理器中，可以通过右键菜单来执行 Git 的各种操作，如提交、更新、查看日志等。
-
-## devbox
-
-开源项目地址：https://github.com/jetpack-io/devbox
-
-“Instant, easy, and predictable development environments”，支持**快速生成干净且隔离的开发环境** 。
-
-devbox 是一个由 jetpack-io 开发的开源项目，它是一个用于提高开发效率的工具。通过使用 devbox，开发人员可以在本地快速构建一个完整且隔离的开发环境，并使用各种工具和技术来开发和测试应用程序。
-
-## Ugit
-
-https://ugit.qq.com/zh/index.html
-
-https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz
-
-UGit 是一款为腾讯内部研发环境特点而定制的 Git 客户端，旨在提高开发效率和团队协作的流畅性。
-
-
-
-gitness
-gog
-
 # 数据库
 
 https://www.yashandb.com/download
+
+https://github.com/CodePhiliaX/Chat2DB
 
 ## 可视化管理工具
 
@@ -224,6 +139,10 @@ IDEA主题插件
 ### Stack trace to UML
 
 根据 JVM 异常堆栈画 UML时序图和通信图。打开方式：Analyze > Open Stack trace to UML plugin + Generate UML diagrams from stacktrace from debug
+
+### algorithm
+
+https://labuladong.online/algo/intro/jetbrains/
 
 ## Java 线上诊断工具 Arthas
 
@@ -543,6 +462,10 @@ https://help.aliyun.com/document_detail/70290.html
 
 # 运维
 
+## docker
+
+[docker X镜像加速站](https://dockerx.org/)
+
 ## Kubernetes 
 
 ### 云效开发者工具KT
@@ -742,3 +665,98 @@ HandyJSON 是一个用于 Swift 语言中的JSON序列化/反序列化库。
 https://github.com/alibaba/HandyJSON/blob/master/README_cn.md
 
 地址：https://github.com/alibaba/HandyJSON
+
+# 鸿蒙
+
+DevEco CodeGenie：作为 DevEco Studio 的 AI 辅助编程工具， DevEco CodeGenie 通过智能问答、代码补全 / 生成、万能卡片三大核心功能，打造高效智能开发体验。
+
+# 常用工具
+
+IT Tools：https://it-tools.tech
+
+## 代码编辑工具
+
+### Zed
+
+一款支持**多人协作**的代码编辑器，由 Atom 编辑器原作者主导，其底层采用 Rust 编写、默认支持 Rust，还自带了 rust-analyzer，主打 “高性能”——作者表示希望将 Zed 打造为世界上最好的文本编辑器。
+
+*https://zed.dev/blog/zed-decoded-linux-when*
+
+## 版本管理工具
+
+### Git
+
+[Git - Downloading Package](https://git-scm.com/downloads/win)
+
+### vfox
+
+GitHub 地址：https://github.com/version-fox/vfox
+
+vfox 是一个类 nvm、fvm、sdkman、asdf 的版本管理工具，具有**跨平台**、**通用**、**易拓展**的特性：
+
+- 简单：安装简单，一套命令管理所有语言
+- 跨平台：支持 **Windows**、Linux、macOS
+- 人性化：换项目时**自动切换到对应编程语言**、支持自动补全
+- 扩展性：容易上手的插件系统，添加冷门的编程语言
+- 作用域：支持 Global、Project、Session 三种作用域
+
+### Gitkraken
+
+官网：https://www.gitkraken.com
+
+GitKraken 是一款专门用于管理和协作Git仓库的图形化界面工具。它拥有友好直观的界面，使得Git的操作变得更加简单易用，尤其适合那些不熟悉Git命令行的开发者。GitKraken提供了丰富的功能，如代码审查、分支管理、仓库克隆、提交、推送和拉取等。它还可以与 GitHub、Gitee 等代码托管平台无缝集成，方便用户进行代码托管和协作。
+
+除了基本的Git操作外，GitKraken还提供了一些高级功能，如可视化分支图、实时代码差异对比、代码搜索等，帮助开发者更高效地管理和理解代码。它还支持多平台，包括Linux、Mac和Windows系统。
+
+### Fork
+
+官网：https://git-fork.com
+
+Fork 是一款实用的 Git 客户端，它提供了直观的用户界面和各种实用工具，旨在简化Git操作，让开发者更容易地管理他们的代码仓库。Fork客户端支持多仓库管理、分支切换、代码合并、冲突解决等功能，还提供了实时的代码差异对比、提交历史记录查看、分支可视化等特性。
+
+此外，Fork客户端也支持任务列表管理、代码注释、代码搜索等，这些功能对于项目管理和团队协作非常实用。Fork 目前支持在 Windows 和 MacOS 上使用。
+
+### SourceTree
+
+官网：https://www.sourcetreeapp.com
+
+SourceTree 支持 Git 项目的创建、克隆、提交、push、pull 和合并等操作。通过它，用户可以轻松地管理多个仓库，切换分支，合并代码，解决冲突等。此外，SourceTree 还提供了实时的代码差异对比、提交历史记录查看、分支可视化等功能，帮助开发者更好地理解和跟踪代码的变化。
+
+除了基本的 Git 操作外，SourceTree 还支持任务列表管理、代码注释、代码搜索等实用功能，方便开发者进行项目管理和团队协作。它还允许用户设置默认的项目存储位置，避免了每次都需要手动选择项目存放路径的麻烦。
+
+### SmartGit
+
+官网：https://www.syntevo.com/smartgit/
+
+SmartGit是一款免费的、专业的Git版本控制系统的图形化客户端。它适用于Windows、Mac和Linux等多种操作系统，并提供了丰富的功能和直观的用户界面，使得Git操作变得更加简单和高效。SmartGit支持创建、克隆、推送、拉取、合并和管理Git仓库。它还提供了强大的分支管理功能，包括创建、切换、合并和删除分支等。通过SmartGit，用户可以轻松地查看和管理仓库的提交历史、分支和标签。
+
+此外，SmartGit还支持代码审查、实时语法高亮、代码搜索和比较等功能，帮助开发者更高效地编写和审查代码。
+
+### TortoiseGit
+
+官网：https://tortoisegit.org/
+
+TortoiseGit 是一个开源的 Git 客户端，也就是我们常说的“小乌龟”。它是 TortoiseSVN 的姊妹项目，专门为 Windows 平台设计。TortoiseGit 提供了一个图形化的用户界面，使得 Git 的操作更加直观和方便。
+
+TortoiseGit 集成在 Windows 的资源管理器中，可以通过右键菜单来执行 Git 的各种操作，如提交、更新、查看日志等。
+
+### devbox
+
+开源项目地址：https://github.com/jetpack-io/devbox
+
+“Instant, easy, and predictable development environments”，支持**快速生成干净且隔离的开发环境** 。
+
+devbox 是一个由 jetpack-io 开发的开源项目，它是一个用于提高开发效率的工具。通过使用 devbox，开发人员可以在本地快速构建一个完整且隔离的开发环境，并使用各种工具和技术来开发和测试应用程序。
+
+### Ugit
+
+https://ugit.qq.com/zh/index.html
+
+https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz
+
+UGit 是一款为腾讯内部研发环境特点而定制的 Git 客户端，旨在提高开发效率和团队协作的流畅性。
+
+
+
+gitness
+gog

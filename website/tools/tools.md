@@ -18,9 +18,9 @@ Okular 支持多种文件格式，包括 PDF、EPub、DjVU 和 MD 文档；JPEG�
 
 koodo-reader: https://github.com/koodo-reader/koodo-reader
 
+[calibre - Download for Windows](https://calibre-ebook.com/download_windows)
 
-
-[LITERA Reader](https://litera-reader.com/)
+:m:[LITERA Reader](https://litera-reader.com/)
 
 # download
 
@@ -134,7 +134,7 @@ M3U8-Downloader：*https://github.com/HeiSir2014/M3U8-Downloader*
 
 **在线视频解析工具**：https://pv.vlogdownloader.com/
 
-**Videosolo**：https://www.videosolo.com/online-video-downloader/
+**youtube视频 Videosolo**：https://www.videosolo.com/online-video-downloader/
 
 **Vget**：https://vget.xyz/
 
@@ -142,16 +142,7 @@ VideoFk解析视频：http://www.videofk.com/
 
 **SnapAny解析下载**: **snapany.com**
 
-**bilidown新版本1.2.0**
-
-官网下载：https://zhouql.vip/bilibili/pc/
-
-软件如果小的bug或问题，会打补丁，而不是进行大版本更新。你可以访问下面链接来获取最新的状态描述。
-
-更新详情：https://zhouql.vip/bilibili/pcversion/
-
-大家在使用软件或网站时，如果有些疑问，可以打开下面链接，这是UP整理的文档，里面有常见问题和回答，可以解决大部分问题和疑问。
-文档地址：https://zhouql.vip/bilibili/doc/
+**bilidown新版本1.2.0**官网下载：https://zhouql.vip/bilibili/pc/
 
 尼卡 短视频下载：https://sp.1fooai.com/
 
@@ -286,27 +277,3 @@ http://ophcrack.sourceforge.net/download.php
 - 使用LiveCD 简化破解。
 - 从Windows分区恢复的加密SAM转储和加载哈希值。
 - 免费并开源的软件（GPL）
-
-# Resource Search
-
-目前已收录**5800+绿色软件工具**：www.fy6b.com
-
-
-
-## cloudNetDisk
-
-### baiduNetDisk
-
-
-
-### aliyun
-
-**阿里搜**：https://aliso.cc/
-
-## magnet
-
-**磁力多**：https://ck.cilido.top/
-
-## 搜索引擎
-
-https://duckduckgo.com/?q=DuckDuckGo&ia=chat

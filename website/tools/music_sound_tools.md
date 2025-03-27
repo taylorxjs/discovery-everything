@@ -1,3 +1,7 @@
+# music player
+
+https://github.com/qier222/YesPlayMusic 高颜值的第三方网易云播放器
+
 # audio edit
 
 REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.

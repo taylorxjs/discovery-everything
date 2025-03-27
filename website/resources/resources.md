@@ -26,6 +26,8 @@ https://pixnio.com/
 
 [哲风壁纸](https://haowallpaper.com/)
 
+[创意社区 - Top Widgets⁺编辑器](https://x.xiaozujian.com/community)
+
 # icons
 
 iconfont：https://www.iconfont.cn/iconfont
@@ -33,6 +35,16 @@ iconfont：https://www.iconfont.cn/iconfont
 > 阿里出品，包含图标库、矢量插画库、3D插画库、动效库、字体库等等资源。
 
 https://www.logo.wine 一个方便快捷、资源丰富的Logo下载网站
+
+SearchEmoji：https://searchemoji.app/zh-hans
+
+# font
+
+字体天下：https://www.fonts.net.cn/
+
+猫啃网：https://www.maoken.com/
+
+100font：https://www.100font.com/
 
 
 
@@ -46,9 +58,13 @@ https://www.logo.wine 一个方便快捷、资源丰富的Logo下载网站
 
 镜像三：**https://521github.com/**
 
+## docker
 
+毫秒镜像：https://docker.1ms.run
 
 # exam
+
+http://qzbltushu.ysepan.com/
 
 ## postgraduate
 
@@ -66,6 +82,11 @@ https://www.logo.wine 一个方便快捷、资源丰富的Logo下载网站
 为无聊的生活添加一点乐趣，这个网站真的做到了。
 
 # hotspot info
+
+https://github.com/ourongxing/newsnow
+NewsNow 是一个开源的实时热门新闻聚合程序，旨在为用户提供一个简洁的界面和流畅的阅读体验，以便随时掌握最新的全球资讯。
+
+[今日热榜官网](https://tophub.today/)
 
 ## 浑水阅读
 

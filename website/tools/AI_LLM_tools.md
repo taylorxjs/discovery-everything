@@ -20,7 +20,47 @@ Gnomic智能体平台目前可无限制免费使用ChatGPT4、Gemini、智谱、
 
 https://wildcard.com.cn/i/GPT06
 
+[Trae - AI 原生 IDE](https://www.trae.com.cn/home)
+
 # integrity
+
+国家超算：https://chat.scnet.cn/
+
+[DeepSeek | 深度求索](https://www.deepseek.com/)	https://chat.deepseek.com/
+
+秘塔搜索👍：https://metaso.cn
+
+360纳米AI搜索👍：https://www.n.cn/
+
+硅基流动：https://cloud.siliconflow.cn/i/snHnLED8
+
+字节跳动火山引擎：https://console.volcengine.com/ark/region:ark+cn-beijing/experience
+
+百度云千帆：https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/list
+
+英伟达NIM：https://build.nvidia.com/deepseek-ai/deepseek-r1
+
+Groq：https://groq.com/
+
+Fireworks：https://fireworks.ai/models/fireworks/deepseek-r1
+
+Chutes：https://chutes.ai/app/chute/
+
+Github：https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground
+
+🚫POE：https://poe.com/DeepSeek-R1
+
+🚫Cursor：https://cursor.sh/
+
+🚫Monica：https://monica.im/invitation?c=ACZ7WJJ9
+
+🚫Lambda：https://lambdalabs.com/
+
+🚫Cerebras：https://cerebras.ai
+
+🚫Perplexity：https://www.perplexity.ai
+
+🚫阿里云百炼：https://api.together.ai/playground/chat/deepseek-ai/DeepSeek-R1
 
 ## ChatGPT
 
@@ -53,6 +93,8 @@ https://tongyi.aliyun.com/efficiency/home
 **https://www.doubao.com/chat/**
 
 目前支持网页Web平台、iOS 以及安卓平台，用户可通过手机号、抖音或者Apple ID登录使用。
+
+字节豆包：https://www.doubao.com
 
 智谱AI：智谱清言
 
@@ -139,7 +181,11 @@ Claude 或许是免费版中最强的大模型之一。如果你是文字工作�
 
 超算互联网：https://scnetcn.datasink.sensorsdata.cn/t/GB
 
+Google Gemini：https://gemini.google.com/app
 
+纳米搜索：https://n.cn
+
+**New Bing**：https://www.bing.com/search?q=Bing+AI&cc=us&mkt=us&showconv=1
 
 
 # AI图像处理
@@ -243,6 +289,10 @@ https://ai.wps.cn/
 
 https://aicodeconvert.com/
 
+
+
+Bolt.New 通过描述需求就能创建并部署web应用：https://github.com/stackblitz/bolt.new
+
 ## Copilot
 
 [Copilot | Microsoft Edge](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
@@ -262,7 +312,7 @@ LM Studio
 LM Studio是一款将目前主流大模型LLM元素打包在一起的工具，以下是LM Studio的一些关键特性：（1）脱机运行：用户可以在自己的笔记本电脑上运行LLMs，完全不需要在线连接
 （2）模型下载：用户可以从Hugging Face的仓库下载任何兼容的模型文件（3）硬件协同优化：依托llama.cpp底层架构支撑，LM Studio能够针对NVIDIA系统GPU运用GPU卸载技术，合理分配运算任务，显著提升运算速度，并在内存管理维度，借助模型量化手段降低内存占用量
 
-Ollama
+Ollama：https://ollama.com
 
 Ollama是一个开源的、专为在本地机器上便捷部署和运行大型语言模型
 （LLM）而设计的框架。以下是Ollama的一些主要特点和功能：

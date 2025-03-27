@@ -47,7 +47,9 @@ https://github.com/lczmx/MemoryCard
 
 
 
+# math
 
+[Microsoft数学求解器-数学问题求解器和计算器](https://mathsolver.microsoft.com/zh)
 
 # notes
 
@@ -58,3 +60,5 @@ https://github.com/lczmx/MemoryCard
 [Memo Card : Turn your words into beautiful sharing cards!](https://www.memocard.net/)
 
 > Memo Card 可以帮你生成精美的文字卡片，可应用于你日常书摘、笔记、备忘等内容的分享。
+
+[Lattics -「类脑式」知识管理与创意写作](https://www.lattics.com/zh-CN)

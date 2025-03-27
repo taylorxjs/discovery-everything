@@ -20,3 +20,6 @@ PotPlayer是 KMPlayer 的原制作者姜龙喜新一代网络播放器。
 
 **PotPlayer 的优势在于强大的内置解码器**，而 KMPlayer 的优势在于强大的定制能力和个性化功能。
 
+# 视频剪辑
+
+https://www.vidpic.co/zh-Hans

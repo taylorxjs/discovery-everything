@@ -103,6 +103,8 @@ https://www.alipan.com/s/kSPSSRaEsmf
 
 # quark
 
+[极客阁楼](https://www.kdocs.cn/l/cpt0zz6clxs3)
+
 牛津阅读树链接：https://pan.quark.cn/s/da82daf7e63e
 
 学习资源合集：https://docs.qq.com/sheet/DSldqeGVqSUZ5RmFa?tab=fhlk0u
@@ -144,6 +146,8 @@ Word Power Made Easy：https://pan.quark.cn/s/ada8a22aa2e0
 Speak now：https://pan.quark.cn/s/c94a44ac4653
 
 Speak English Like an American链接：https://pan.quark.cn/s/40c161729ed0
+
+XMusicDownloader：https://pan.quark.cn/s/8679b54eb9c6
 
 ## 软件资源
 
