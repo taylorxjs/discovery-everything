@@ -21,6 +21,28 @@ HOEYの导航页: https://flowus.cn/hoey/share/7c4c760a-09e1-41c9-9370-3e71baae7
 
 搜软：https://www.souruan.org/index.html
 
+[423Down](https://www.423down.com/)
+
+[大眼仔旭](https://www.dayanzai.me/)
+
+[果核剥壳 - 互联网的净土](https://www.ghxi.com/)
+
+[殁漂遥 mpyit.com 老殁 软件使用与分享](https://www.mpyit.com/)
+
+[th_sjy 专注软件汉化和资源分享，Software localization, Sinicization](http://www.th-sjy.com/)
+
+[小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://www.appinn.com/)
+
+[异次元软件世界 - 软件改变生活！](https://www.iplaysoft.com/)
+
+[MSDN, 我告诉你 - 做一个安静的工具站](https://msdn.itellyou.cn/)
+
+[ahhhhfs – A姐分享](https://www.ahhhhfs.com/)
+
+[OSSSR.COM](https://www.osssr.com/)
+
+[4分贝分享网](https://www.4fb.cn/)
+
 # 软件镜像仓库
 
 [南京镜像软件仓库](https://mirrors.nju.edu.cn/)

@@ -546,3 +546,7 @@ SmallPDF 是一个功能强大的PDF 在线工具。
 ## wechat
 
 [微信聊天记录合集导出助手使用说明 | 新媒体数据工具](https://www.xiaokuake.com/p/chatgroup.html)
+
+# syn tools
+
+Syncthing：https://docs.syncthing.net/

@@ -40,6 +40,8 @@
 
 [爱去小说网](https://www.aiqu127.com/)
 
+> 记住哦！本站新网址：www.aiqu999.com备用域名网址1：www.272txt.com备用域名网址2：www.727txt.com备用域名网址3：www.27txt.La备用域名网址4：www.527txt.com
+
 # 阅读书源
 
 https://shuyuan.yiove.com/
