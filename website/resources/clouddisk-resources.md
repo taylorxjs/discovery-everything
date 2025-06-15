@@ -67,6 +67,8 @@ dj7t
 
 https://pan.baidu.com/s/13mu_QWphYI78s-zZiZ7fig 提取码：wljs
 
+MAS3.1（Windows+office永久激活）下载：https://pan.baidu.com/s/1lyi6X3_KUSx61TvcD5xU7A?pwd=8888 提取码: 8888
+
 
 
 ## 已保存
@@ -164,6 +166,10 @@ https://pan.quark.cn/s/5699da9adaf6#/list/share
 123云盘软件合集：https://www.123pan.com/s/m6uSVv-fqNcv
 
 易魔声：https://www.123pan.com/s/GaNFjv-WvKSv.html  提取码：52pj
+
+# 迅雷网盘
+
+task explore迅雷网盘地址：https://pan.xunlei.com/s/VOPdpNdv1uIGNBJn5Z3yDRNoA1?pwd=6943#
 
 # magnet
 

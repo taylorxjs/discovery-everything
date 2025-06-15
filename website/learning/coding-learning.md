@@ -158,6 +158,10 @@ yuque.com/leifengyang
 
 [常用软件 - YES开发框架,WEB开发框架,.Winform开发框架](https://www.yesdotnet.com/archive/softs/list.html?viewfirst=true)
 
+
+
+自洽的程序员：https://www.dev-life.site/
+
 # Organization
 
 ## Heima
@@ -431,6 +435,10 @@ https://developer.huawei.com/consumer/cn/codelabsPortal/getstarted/1017188001105
 developer.huawei.com/consumer/cn/cangjie/
 
 # Tools
+
+## git
+
+https://www.conventionalcommits.org/en/v1.0.0/
 
 ## 菜鸟工具
 

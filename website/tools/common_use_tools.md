@@ -189,6 +189,8 @@ NeonLingo 是一个目前完全免费的浏览器划词翻译插件软件、语�
 
 # system tools
 
+[HWiNFO - Free System Information, Monitoring and Diagnostics](https://www.hwinfo.com/)
+
 ### operating system
 
 #### Ubuntu

@@ -36,6 +36,8 @@ https://github.com/camel-ai/owl
 
 https://github.com/Shubhamsaboo/awesome-llm-apps
 
+Easy Dataset 是一个专为创建大型语言模型数据集而设计的应用程序。通过 Easy Dataset，你可以将领域知识转化为结构化数据集，使数据集构造过程变得简单高效：https://github.com/ConardLi/easy-dataset
+
 ## Computer Science
 
 https://github.com/CyC2018/CS-Notes
@@ -57,6 +59,13 @@ https://github.com/cosen1024/awesome-cs-books
 ## coding
 
 https://github.com/kamranahmedse/developer-roadmap
+
+https://github.com/zhangchenchen/self-consistent-coder
+
+
+
+
+
 
 ### 架构设计
 
@@ -236,6 +245,8 @@ https://github.com/schlagmichdoch/PairDrop
 
 https://github.com/songquanpeng/go-file *件分享工具，仅单个可执行文件，开箱即用，可用于局域网内分享文件和文件夹，直接跑满本地带宽*
 
+github.com/syncthing/syncthing
+
 ### 学习软件
 
 https://github.com//noodle-run/noodle  正在开发中
@@ -284,6 +295,8 @@ https://github.com/KrisCheng/500-interview-question-for-programmers
 https://github.com/cosen1024/Java-Interview
 
 https://github.com/jwasham/coding-interview-university
+
+https://www.github-zh.com/collections/interview
 
 ## 待识别
 
@@ -449,11 +462,7 @@ SpringBoot项目中集成Kaptcha验证码生成库，配置验证码参数，以
 
 https://www.youtube.com/watch?v=zSMTcynpf5Y
 
-# v2ex
 
-关于“中国程序员赴日”的这个问题：https://jp.v2ex.com/t/1050939
-
-职场话题：https://www.v2ex.com/go/career
 
 # qq频道
 
@@ -477,28 +486,19 @@ https://pd.qq.com/
 - 如风搜（资源搜索）：http://www.rufengso.net/
 - 爱扒：https://www.zyboe.com/
 - 世界各国网址大全：http://www.world68.com/
-- 小森林导航：http://www.xsldh6.com/
 - 简捷工具：http://www.shulijp.com/
 - NiceTool.net 好工具网：http://www.nicetool.net/
 - 现实君工具箱（综合型在线工具集成网站）：http://tool.uixsj.cn/
 - 蓝调网站：http://lcoc.top/
 - 偷渡鱼：https://touduyu.com/
-- 牛导航：http://www.ziliao6.com/
-- 小呆导航：https://www.webjike.com/index.html
 - 简法主页：http://www.jianfast.com/
 - KIM主页：https://kim.plopco.com/
 - 聚BT：https://jubt.net/cn/index.html
 - 精准云工具合集：https://jingzhunyun.com/
 - 兔2工具合集：https://www.tool2.cn/
 - 爱资料工具（在线实用工具集合）：www.toolnb.com
-- 工具导航：https://hao.logosc.cn/
-- 一糖导航：**https://iitang.com/**
 
-[星塔导航](https://www.medfav.com/webnav/)
 
-[图欧学习资源导航 - 终身学习者的导航站 (upnb.top)](https://tuostudy.upnb.top/)
-
-[嘀哩嘀哩导航 | 一个有用的导航 (dlidli.wang)](https://dlidli.wang/)
 
 **数字生活指南**：
 
@@ -522,3 +522,24 @@ https://wuzhi.zhubai.love/posts/2306125610919342080
 
 > 137 从新手到大神：剪辑师实战就业班，深度培养创作思维
 
+## navigation 导航网站
+
+[星塔导航](https://www.medfav.com/webnav/)
+
+[图欧学习资源导航 - 终身学习者的导航站 (upnb.top)](https://tuostudy.upnb.top/)
+
+[嘀哩嘀哩导航 | 一个有用的导航 (dlidli.wang)](https://dlidli.wang/)
+
+一糖导航：**https://iitang.com/**
+
+小呆导航：https://www.webjike.com/index.html
+
+## v2ex
+
+关于“中国程序员赴日”的这个问题：https://jp.v2ex.com/t/1050939
+
+职场话题：https://www.v2ex.com/go/career
+
+## 电鸭
+
+https://eleduck.com/posts/wwf0ZY
